@@ -33,6 +33,7 @@ def open_item(html):
 # Find each item on the page and it to the json file
 def parse_item(html, data):
     parsed_html = BeautifulSoup(html)
+    # Gets every post on the page
     msgs = parsed_html.body.findAll('td', attrs={'class': 'msg'})
     for msg in msgs:
         # Need to use parent.parent to get the entire message (including the hyperlink)
@@ -46,6 +47,7 @@ def parse_item(html, data):
             item_type = get_type(msg)
             bonuses = get_bonus(msg)
             bonus_dict = defaultdict(int)
+            # Creates dict of bonuses with key equal to the first word of the bonus (Pierce Def->Pierce)
             if bonuses != 'None':
                 for bonus in bonuses.split(', '):
                     if "+" in bonus:
