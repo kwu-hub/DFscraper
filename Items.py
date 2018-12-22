@@ -1,6 +1,9 @@
-# Helper functions for parsing specific values from message
-
+# This file contains helper functions for parsing specific values from message
 import re
+
+
+def save_item():
+    return
 
 
 # Determines if the message received contains the attributes of an item
@@ -84,11 +87,7 @@ def is_da(html):
 
 
 def is_so(html):
-    return html.find('img', src=re.compile("SpecialOffer")) is not None
-
-
-def is_dk(html):
-    return html.find('img', src=re.compile("DoomKnight")) is not None
+    return (html.find('img', src=re.compile("SpecialOffer")) is not None) or (html.find('img', src=re.compile("DoomKnight")) is not None)
 
 
 def is_dm(html):
