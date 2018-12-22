@@ -68,4 +68,33 @@ def get_link(html):
 
 
 def is_dc(html):
-    return html.find('img', src=re.compile("DC\.png")) is not None
+    return html.find('img', src=re.compile("DC")) is not None
+
+
+def is_rare(html):
+    return html.find('img', src=re.compile("Rare")) is not None
+
+
+def is_seasonal(html):
+    return html.find('img', src=re.compile("Seasonal")) is not None
+
+
+def is_da(html):
+    return html.find('img', src=re.compile("DA")) is not None
+
+
+def is_so(html):
+    return html.find('img', src=re.compile("SpecialOffer")) is not None
+
+
+def is_dk(html):
+    return html.find('img', src=re.compile("DoomKnight")) is not None
+
+
+def is_dm(html):
+    return html.find('img', src=re.compile("DM")) is not None
+
+
+def is_g(html):
+    return html.find('img', src=re.compile("Guardian")) is not None
+

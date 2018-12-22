@@ -40,15 +40,15 @@ def parse_item(html):
             hyperlink = get_link(msg)
             print name + "( "+level+" ):" + bonuses + ":" + equip + ":" + item_type + ":" + element
             print hyperlink
-            print is_dc(msg)
+            print "DC" + str(is_dc(msg))
+            print "rare" + str(is_rare(msg))
+            print "seasonal" + str(is_seasonal(msg))
+            print "da" + str(is_da(msg))
+            print "so" + str(is_so(msg))
+            print "dk" + str(is_dk(msg))
+            print "dm" + str(is_dm(msg))
+            print "g" + str(is_g(msg))
             print
-    # dc
-    # rare
-    # seasonal
-    # da
-    # so
-    # dm
-    # g
 
 
 if __name__ == '__main__':
