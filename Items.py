@@ -57,6 +57,8 @@ def get_bonus(html):
         next_tag = 'Abilities:'
     if html.getText().find("Modifies") != -1:
         next_tag = 'Modifies:'
+    if html.getText().find(",Boost") != -1:
+        next_tag = ',Boost'
     return find_between_tags(html, tag, next_tag)
 
 

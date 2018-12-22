@@ -7,10 +7,12 @@ from Items import *
 
 ROWS_TO_SKIP_ON_FIRST_PAGE = 3
 ROWS_ON_PAGE = 30
+STARTING_PAGE = 1
 TOTAL_PAGES = 81
 ROWS_ON_LAST_PAGE = 16
 
 
+# STARTING_PAGE = 1
 # TOTAL_PAGES = 81
 # ROWS_ON_LAST_PAGE = 16
 
@@ -122,7 +124,7 @@ def parse_item(html, data):
 
 if __name__ == '__main__':
     data = defaultdict(list)
-    for page in range(1, TOTAL_PAGES + 1):
+    for page in range(STARTING_PAGE, TOTAL_PAGES + 1):
         table_page = open_page(page)
         rows = ROWS_ON_PAGE
         if page == TOTAL_PAGES:
