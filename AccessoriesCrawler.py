@@ -5,6 +5,9 @@ except ImportError:
 import urllib2
 import json
 
+from Items import *
+
+
 ROWS_TO_SKIP_ON_FIRST_PAGE = 3
 TOTAL_PAGES = 1
 ROWS_ON_PAGE = 11
@@ -28,16 +31,23 @@ def openItem(html):
 # Find each item on the page and it to the json file
 def parseItem(html):
     parsed_html = BeautifulSoup(html)
-    items = parsed_html.body.findAll('td', attrs={'class': 'msg'})
-    for item in items:
-        print item.text
-    # item type
+    msgs = parsed_html.body.findAll('td', attrs={'class': 'msg'})
+    for msg in msgs:
+        if isItem(msg):
+            name = getName(msg)
+            equip = getEquip(msg)
+            itemType = getType(msg)
+            level = getLevel(msg)
+            print name + "( "+level+" ):" + equip + ":" + itemType
+
+    # equip spot
 
     # link
     # name
     # level
-    # bonuses
     # element
+    # bonuses
+    # item type
 
     # dc
     # rare
@@ -62,6 +72,7 @@ if __name__ == '__main__':
             if page == 1 and row <= ROWS_TO_SKIP_ON_FIRST_PAGE:
                 continue
 
+            # Go through all versions of an item and store it
             itemPage = openItem(tablePage)
             parseItem(itemPage)
     exit()
