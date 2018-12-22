@@ -1,5 +1,7 @@
 # Helper functions for parsing specific values from message
 
+import re
+
 
 # Determines if the message received contains the attributes of an item
 def is_item(html):
@@ -54,3 +56,11 @@ def get_element(html):
     tag = 'Element: '
     next_tag = 'Bonuses: '
     return find_between_tags(html, tag, next_tag)
+
+
+def get_link(html):
+    link = html.find(onclick=re.compile("fwdwin"))['onclick']
+    link = link[link.find("=")+1:link.find("')")]
+    hyperlink = "http://forums2.battleon.com/f/fb.asp?m=" + link
+    return hyperlink
+

@@ -5,7 +5,7 @@ from Items import *
 
 ROWS_TO_SKIP_ON_FIRST_PAGE = 3
 TOTAL_PAGES = 1
-ROWS_ON_PAGE = 7
+ROWS_ON_PAGE = 11
 
 
 # Opens given page number and returns response
@@ -28,6 +28,8 @@ def parse_item(html):
     parsed_html = BeautifulSoup(html)
     msgs = parsed_html.body.findAll('td', attrs={'class': 'msg'})
     for msg in msgs:
+        # Need to use parent.parent to get the entire message (including the link)
+        msg = msg.parent.parent
         if is_item(msg):
             name = get_name(msg)
             equip = get_equip(msg)
@@ -35,7 +37,9 @@ def parse_item(html):
             level = get_level(msg)
             bonuses = get_bonus(msg)
             element = get_element(msg)
+            hyperlink = get_link(msg)
             print name + "( "+level+" ):" + bonuses + ":" + equip + ":" + item_type + ":" + element
+            print hyperlink
 
     #   equip spot
 
