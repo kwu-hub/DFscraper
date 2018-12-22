@@ -17,8 +17,8 @@ def find_between_tags(html, tag, next_tag):
         if tag_index != next_index:
             print "First Index: " + str(tag_index) + " Next Index: " + str(next_index)
         return ''
-    itemValue = text[text.find(tag) + len(tag): text.find(next_tag)]
-    return itemValue
+    item_value = text[text.find(tag) + len(tag): text.find(next_tag)]
+    return item_value
 
 
 def get_name(html):
@@ -44,7 +44,7 @@ def get_type(html):
     return find_between_tags(html, tag, next_tag)
 
 
-def getBonus(html):
+def get_bonus(html):
     tag = 'Bonuses: '
     next_tag = 'Rarity: '
     return find_between_tags(html, tag, next_tag)

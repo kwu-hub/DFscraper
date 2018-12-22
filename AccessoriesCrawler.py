@@ -33,7 +33,7 @@ def parse_item(html):
             equip = get_equip(msg)
             itemType = get_type(msg)
             level = get_level(msg)
-            bonuses = getBonus(msg)
+            bonuses = get_bonus(msg)
             print name + "( "+level+" ):" + bonuses + ":" + equip + ":" + itemType
 
     #   equip spot
