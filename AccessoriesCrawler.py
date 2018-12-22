@@ -7,7 +7,7 @@ import json
 
 ROWS_TO_SKIP_ON_FIRST_PAGE = 3
 TOTAL_PAGES = 1
-ROWS_ON_PAGE = 5
+ROWS_ON_PAGE = 11
 
 
 # Opens given page number and returns response
@@ -17,6 +17,7 @@ def openPage(pageNumber):
     return response.read()
 
 
+# Opens first item in given page substring
 def openItem(html):
     link = html[html.find('tm.asp?m='):]
     link = link[:link.find('"')]
@@ -24,9 +25,12 @@ def openItem(html):
     return sub_response.read()
 
 
+# Find each item on the page and it to the json file
 def parseItem(html):
     parsed_html = BeautifulSoup(html)
-    print parsed_html.body.find('td', attrs={'class': 'msg'}).text
+    items = parsed_html.body.findAll('td', attrs={'class': 'msg'})
+    for item in items:
+        print item.text
     # item type
 
     # link
