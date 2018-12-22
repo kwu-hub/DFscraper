@@ -1,41 +1,50 @@
 # Helper functions for parsing specific values from message
-try:
-    from BeautifulSoup import BeautifulSoup
-except ImportError:
-    from bs4 import BeautifulSoup
 
-def isItem(html):
+
+# Determines if the message received contains the attributes of an item
+def is_item(html):
     return 'Equip Spot:' in html.text and 'Category: ' in html.text and 'Level: ' in html.text and 'Bonuses: ' in html.text
 
-def findBetweenTags(html, tag, nextTag):
+
+# Helper function used to find the specific value between the text of 2 different tags
+def find_between_tags(html, tag, next_tag):
     text = html.getText()
     tag = tag
-    nextTag = nextTag
-    tagIndex = text.find(tag)
-    nextIndex = text.find(nextTag)
-    if tagIndex == -1 or nextIndex == -1:
-        if tagIndex != nextIndex:
-            print "First Index: " + str(tagIndex) + " Next Index: " + str(nextIndex)
+    next_tag = next_tag
+    tag_index = text.find(tag)
+    next_index = text.find(next_tag)
+    if tag_index == -1 or next_index == -1:
+        if tag_index != next_index:
+            print "First Index: " + str(tag_index) + " Next Index: " + str(next_index)
         return ''
-    itemValue = text[text.find(tag)+len(tag): text.find(nextTag)]
+    itemValue = text[text.find(tag) + len(tag): text.find(next_tag)]
     return itemValue
 
-def getName(html):
+
+def get_name(html):
     name = html.b.getText()
     return name
 
-def getLevel(html):
+
+def get_level(html):
     tag = 'Level: '
-    nextTag = 'Element: '
-    return findBetweenTags(html, tag, nextTag)
+    next_tag = 'Element: '
+    return find_between_tags(html, tag, next_tag)
 
-def getEquip(html):
+
+def get_equip(html):
     tag = 'Equip Spot: '
-    nextTag = 'Category: '
-    return findBetweenTags(html, tag, nextTag)
+    next_tag = 'Category: '
+    return find_between_tags(html, tag, next_tag)
 
 
-def getType(html):
+def get_type(html):
     tag = 'Item Type: '
-    nextTag = 'Equip Spot: '
-    return findBetweenTags(html, tag, nextTag)
+    next_tag = 'Equip Spot: '
+    return find_between_tags(html, tag, next_tag)
+
+
+def getBonus(html):
+    tag = 'Bonuses: '
+    next_tag = 'Rarity: '
+    return find_between_tags(html, tag, next_tag)
