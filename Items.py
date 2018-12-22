@@ -14,8 +14,20 @@ def is_item(html):
 # Helper function used to find the specific value between the text of 2 different tags
 def find_between_tags(html, tag, next_tag):
     text = html.getText()
-    tag = tag
-    next_tag = next_tag
+
+    # Handles the unknown text that follows bonuses. Comedy Cloak (page 13)
+    # The bonuses category ends with a number and is followed by a letter that is the next category
+    # The code finds that index and gets values in between
+    if next_tag == "bonus_case":
+        # Handles items without bonuses
+        if text.find("Bonuses: None") != -1:
+            return 'None'
+        text = text[text.find(tag) + len(tag):]
+        regex = re.compile("([0-9][a-zA-Z])|([0-9]\,[a-zA-Z])")
+        m = regex.search(text)
+        text = text[:text.find(m.group(0))+1]
+        return text
+
     tag_index = text.find(tag)
     next_index = text.find(next_tag)
     if tag_index == -1 or next_index == -1:
@@ -52,14 +64,16 @@ def get_type(html):
 
 def get_bonus(html):
     tag = 'Bonuses: '
-    next_tag = 'Rarity:'  # Boondock's Saintly Cloak (Rare, DC) has no space after "Rarity"
-    if html.getText().find("Abilities") != -1:  # Bacon Storm has Ability
+    '''
+    next_tag = 'Rarity:'  # Boondock's Saintly Cloak (page 8) has no space after "Rarity"
+    if html.getText().find("Abilities") != -1:  # Bacon Storm (page 4) has Ability
         next_tag = 'Abilities:'
-    if html.getText().find("Modifies") != -1:  # Baltael's Aventail has Modifies
+    if html.getText().find("Modifies") != -1:  # Baltael's Aventail (page 4) has Modifies
         next_tag = 'Modifies:'
-    if html.getText().find(",Boost") != -1:  # Beacon of Hope has strikethrough boost and Ability, Boost must come last because it is before Ability on the page
+    if html.getText().find(",Boost") != -1:  # Beacon of Hope (page 5) has strikethrough boost and Ability, Boost must come last because it is before Ability on the page
         next_tag = ',Boost'
-    return find_between_tags(html, tag, next_tag)
+    '''
+    return find_between_tags(html, tag, "bonus_case")
 
 
 def get_element(html):
