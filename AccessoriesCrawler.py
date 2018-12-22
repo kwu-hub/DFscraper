@@ -28,7 +28,7 @@ def parse_item(html):
     parsed_html = BeautifulSoup(html)
     msgs = parsed_html.body.findAll('td', attrs={'class': 'msg'})
     for msg in msgs:
-        # Need to use parent.parent to get the entire message (including the link)
+        # Need to use parent.parent to get the entire message (including the hyperlink)
         msg = msg.parent.parent
         if is_item(msg):
             name = get_name(msg)
@@ -40,16 +40,8 @@ def parse_item(html):
             hyperlink = get_link(msg)
             print name + "( "+level+" ):" + bonuses + ":" + equip + ":" + item_type + ":" + element
             print hyperlink
-
-    #   equip spot
-
-    # link
-    #   name
-    #   level
-    #   element
-    #   bonuses
-    #   item type
-
+            print is_dc(msg)
+            print
     # dc
     # rare
     # seasonal

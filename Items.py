@@ -24,7 +24,8 @@ def find_between_tags(html, tag, next_tag):
 
 
 def get_name(html):
-    name = html.b.getText()
+    msg = html.find('td', attrs={'class': 'msg'})
+    name = msg.b.getText()
     return name
 
 
@@ -59,8 +60,12 @@ def get_element(html):
 
 
 def get_link(html):
+    # Finds tag with the link and gets the value of onclick
     link = html.find(onclick=re.compile("fwdwin"))['onclick']
     link = link[link.find("=")+1:link.find("')")]
     hyperlink = "http://forums2.battleon.com/f/fb.asp?m=" + link
     return hyperlink
 
+
+def is_dc(html):
+    return html.find('img', src=re.compile("DC\.png")) is not None
