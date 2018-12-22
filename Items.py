@@ -48,3 +48,9 @@ def get_bonus(html):
     tag = 'Bonuses: '
     next_tag = 'Rarity: '
     return find_between_tags(html, tag, next_tag)
+
+
+def get_element(html):
+    tag = 'Element: '
+    next_tag = 'Bonuses: '
+    return find_between_tags(html, tag, next_tag)

@@ -5,7 +5,7 @@ from Items import *
 
 ROWS_TO_SKIP_ON_FIRST_PAGE = 3
 TOTAL_PAGES = 1
-ROWS_ON_PAGE = 6
+ROWS_ON_PAGE = 7
 
 
 # Opens given page number and returns response
@@ -31,18 +31,19 @@ def parse_item(html):
         if is_item(msg):
             name = get_name(msg)
             equip = get_equip(msg)
-            itemType = get_type(msg)
+            item_type = get_type(msg)
             level = get_level(msg)
             bonuses = get_bonus(msg)
-            print name + "( "+level+" ):" + bonuses + ":" + equip + ":" + itemType
+            element = get_element(msg)
+            print name + "( "+level+" ):" + bonuses + ":" + equip + ":" + item_type + ":" + element
 
     #   equip spot
 
     # link
     #   name
     #   level
-    # element
-    # bonuses
+    #   element
+    #   bonuses
     #   item type
 
     # dc
