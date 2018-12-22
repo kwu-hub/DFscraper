@@ -7,7 +7,7 @@ from Items import *
 
 ROWS_TO_SKIP_ON_FIRST_PAGE = 3
 ROWS_ON_PAGE = 30
-TOTAL_PAGES = 2
+TOTAL_PAGES = 81
 ROWS_ON_LAST_PAGE = 16
 
 
@@ -46,6 +46,8 @@ def parse_item(html, data):
             element = get_element(msg)
             item_type = get_type(msg)
             bonuses = get_bonus(msg)
+            print name + " (Level: " + level + "): " + bonuses + "|" + equip
+
             bonus_dict = defaultdict(int)
             # Creates dict of bonuses with key equal to the first word of the bonus (Pierce Def->Pierce)
             if bonuses != 'None':
@@ -57,7 +59,6 @@ def parse_item(html, data):
                         nb = bonus.split("-")
                         bonus_dict[nb[0].split(" ")[0]] = int(nb[1]) * -1
 
-            print name + " (Level: " + level + "): " + bonuses + "|" + equip
             data[equip].append({
                 name + " (Level " + level + ")": {
                     "equip": equip,
