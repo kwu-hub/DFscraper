@@ -20,7 +20,7 @@ def find_between_tags(html, tag, next_tag):
     next_index = text.find(next_tag)
     if tag_index == -1 or next_index == -1:
         if tag_index != next_index:
-            print "First Index: " + str(tag_index) + " Next Index: " + str(next_index)
+            print "'" + tag + "'" + str(tag_index) + "|'" + next_tag + "'" + str(next_index)
         return ''
     item_value = text[text.find(tag) + len(tag): text.find(next_tag)]
     return item_value
@@ -52,12 +52,12 @@ def get_type(html):
 
 def get_bonus(html):
     tag = 'Bonuses: '
-    next_tag = 'Rarity: '
-    if html.getText().find("Abilities") != -1:
+    next_tag = 'Rarity:'  # Boondock's Saintly Cloak (Rare, DC) has no space after "Rarity"
+    if html.getText().find("Abilities") != -1:  # Bacon Storm has Ability
         next_tag = 'Abilities:'
-    if html.getText().find("Modifies") != -1:
+    if html.getText().find("Modifies") != -1:  # Baltael's Aventail has MOdifies
         next_tag = 'Modifies:'
-    if html.getText().find(",Boost") != -1:
+    if html.getText().find(",Boost") != -1:  # Beacon of Hope has strikethrough boost and Ability, Boost must come last because it is before Ability on the page
         next_tag = ',Boost'
     return find_between_tags(html, tag, next_tag)
 
