@@ -5,10 +5,14 @@ from collections import defaultdict
 from BeautifulSoup import BeautifulSoup
 from Items import *
 
-
 ROWS_TO_SKIP_ON_FIRST_PAGE = 3
-TOTAL_PAGES = 1
-ROWS_ON_PAGE = 11
+ROWS_ON_PAGE = 30
+TOTAL_PAGES = 2
+ROWS_ON_LAST_PAGE = 16
+
+
+# TOTAL_PAGES = 81
+# ROWS_ON_LAST_PAGE = 16
 
 
 # Opens given page number and returns response
@@ -44,14 +48,14 @@ def parse_item(html, data):
             bonus_dict = defaultdict(int)
             if bonuses != 'None':
                 for bonus in bonuses.split(', '):
-                    if "+" in bonus :
+                    if "+" in bonus:
                         nb = bonus.split("+")
                         bonus_dict[nb[0].split(" ")[0]] = int(nb[1])
                     else:
                         nb = bonus.split("-")
-                        bonus_dict[nb[0].split(" ")[0]] = int(nb[1])*-1
+                        bonus_dict[nb[0].split(" ")[0]] = int(nb[1]) * -1
 
-            print name + "( "+level+" ):" + bonuses + ":" + equip + ":" + item_type + ":" + element
+            print name + " (Level: " + level + "): " + bonuses + "|" + equip
             data[equip].append({
                 name + " (Level " + level + ")": {
                     "equip": equip,
@@ -117,7 +121,10 @@ if __name__ == '__main__':
     data = defaultdict(list)
     for page in range(1, TOTAL_PAGES + 1):
         table_page = open_page(page)
-        for row in range(1, ROWS_ON_PAGE + 1):
+        rows = ROWS_ON_PAGE
+        if page == TOTAL_PAGES:
+            rows = ROWS_ON_LAST_PAGE
+        for row in range(1, rows + 1):
 
             # Find first instance of an accessory link in html range
             # When found, we take a substring of the index+1 (removing '<') so exact string is not found again
