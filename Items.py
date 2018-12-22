@@ -55,7 +55,7 @@ def get_bonus(html):
     next_tag = 'Rarity:'  # Boondock's Saintly Cloak (Rare, DC) has no space after "Rarity"
     if html.getText().find("Abilities") != -1:  # Bacon Storm has Ability
         next_tag = 'Abilities:'
-    if html.getText().find("Modifies") != -1:  # Baltael's Aventail has MOdifies
+    if html.getText().find("Modifies") != -1:  # Baltael's Aventail has Modifies
         next_tag = 'Modifies:'
     if html.getText().find(",Boost") != -1:  # Beacon of Hope has strikethrough boost and Ability, Boost must come last because it is before Ability on the page
         next_tag = ',Boost'

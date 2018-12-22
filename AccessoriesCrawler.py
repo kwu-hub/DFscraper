@@ -48,6 +48,11 @@ def parse_item(html, data):
             element = get_element(msg)
             item_type = get_type(msg)
             bonuses = get_bonus(msg)
+
+            # Cloak of Shadows (Level 21) has a missing comma
+            if name == "Cloak of Shadows" and level == "21":
+                bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "
+
             print name + " (Level: " + level + "): " + bonuses + "|" + equip
 
             bonus_dict = defaultdict(int)
