@@ -7,7 +7,7 @@ from Items import *
 
 ROWS_TO_SKIP_ON_FIRST_PAGE = 3
 ROWS_ON_PAGE = 30
-STARTING_PAGE = 1
+STARTING_PAGE = 78
 TOTAL_PAGES = 81
 ROWS_ON_LAST_PAGE = 16
 
@@ -49,14 +49,40 @@ def parse_item(html, data):
             item_type = get_type(msg)
             bonuses = get_bonus(msg)
 
-            # Cloak of Shadows (Level 21) has a missing comma
-            if name == "Cloak of Shadows" and level == "21":
+
+            if name == "Grenwog Basket II":  # missing + in Pierce Def
+                bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "
+            if name == "Golden Arbitrator VII":  # missing + in dodge
+                bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "
+            if name == "Golden Arbitrator VIII":
+                bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "
+            if name == "Golden Arbitrator IX":
+                bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "
+            if name == "Grand Guardian Helm":  # missing + in pierce def
+                bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "
+            if name == "Golden Battlespell Helm VII":  # missing + in dodge
+                bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "
+            if name == "Golden Battlespell Helm VIII":
+                bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "
+            if name == "Golden Battlespell Helm IX":
+                bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "
+            if name == "High Commander Helm" and level == "28":  # missing WIS +
+                bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "
+            if name == "Rokpol Ring":  # Missing comma before Bonus
+                bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "
+            if name == "Silver Laurels V":  # Extra comma after immobility 64
+                bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "
+            if name == "Silvered Bells Cape VII":  # . after water 64
+                bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "
+            if name == "Silvered Bells Cape VIII":
+                bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "
+            if name == "Wings of the Unchained" and level == "70":  # Parry probably isn't 34 and missing comma after
                 bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "
 
             print name + " (Level: " + level + "): " + bonuses + "|" + equip
 
             bonus_dict = defaultdict(int)
-            # Creates dict of bonuses with key equal to the first word of the bonus (Pierce Def->Pierce)
+            # Creates dict of bonuses with key equal to the first word of the bonus (ex. Pierce Def->Pierce)
             if bonuses != 'None':
                 for bonus in bonuses.split(', '):
                     if "+" in bonus:
