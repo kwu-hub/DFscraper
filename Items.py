@@ -8,19 +8,19 @@ def save_item():
 
 # Determines if the message received contains the attributes of an item
 def is_item(html):
-    return 'Equip Spot:' in html.text and 'Category: ' in html.text and 'Level: ' in html.text and 'Bonuses: ' in html.text
+    return 'equip spot:' in html.text.lower() and 'category: ' in html.text.lower() and 'level: ' in html.text.lower() and 'bonuses: ' in html.text.lower()
 
 
 # Helper function used to find the specific value between the text of 2 different tags
 def find_between_tags(html, tag, next_tag):
-    text = html.getText()
+    text = html.getText().lower()
 
     # Handles the unknown text that follows bonuses. Comedy Cloak (page 13)
     # The bonuses category ends with a number and is followed by a letter that is the next category
     # The code finds that index and gets values in between
     if next_tag == "bonus_case":
         # Handles items without bonuses
-        if text.find("Bonuses: None") != -1:
+        if text.find("bonuses: none") != -1:
             return 'None'
         text = text[text.find(tag) + len(tag):]
         regex = re.compile("([0-9][a-zA-Z])|([0-9],[a-zA-Z])|([0-9]\.[a-zA-Z])")
@@ -45,25 +45,25 @@ def get_name(html):
 
 
 def get_level(html):
-    tag = 'Level: '
-    next_tag = 'Element: '
+    tag = 'level: '
+    next_tag = 'element: '
     return find_between_tags(html, tag, next_tag)
 
 
 def get_equip(html):
-    tag = 'Equip Spot: '
-    next_tag = 'Category: '
+    tag = 'equip spot: '
+    next_tag = 'category: '
     return find_between_tags(html, tag, next_tag)
 
 
 def get_type(html):
-    tag = 'Item Type: '
-    next_tag = 'Equip Spot: '
+    tag = 'item type: '
+    next_tag = 'equip spot: '
     return find_between_tags(html, tag, next_tag)
 
 
 def get_bonus(html):
-    tag = 'Bonuses: '
+    tag = 'bonuses: '
     '''
     next_tag = 'Rarity:'  # Boondock's Saintly Cloak (page 8) has no space after "Rarity"
     if html.getText().find("Abilities") != -1:  # Bacon Storm (page 4) has Ability
@@ -77,8 +77,8 @@ def get_bonus(html):
 
 
 def get_element(html):
-    tag = 'Element: '
-    next_tag = 'Bonuses: '
+    tag = 'element: '
+    next_tag = 'bonuses: '
     return find_between_tags(html, tag, next_tag)
 
 

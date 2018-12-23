@@ -6,10 +6,8 @@ from BeautifulSoup import BeautifulSoup
 from Items import *
 
 ROWS_TO_SKIP_ON_FIRST_PAGE = 3
-ROWS_ON_PAGE = 30
-STARTING_PAGE = 78
+STARTING_PAGE = 81
 TOTAL_PAGES = 81
-ROWS_ON_LAST_PAGE = 16
 
 
 # STARTING_PAGE = 1
@@ -157,9 +155,7 @@ if __name__ == '__main__':
     data = defaultdict(list)
     for page in range(STARTING_PAGE, TOTAL_PAGES + 1):
         table_page = open_page(page)
-        rows = ROWS_ON_PAGE
-        if page == TOTAL_PAGES:
-            rows = ROWS_ON_LAST_PAGE
+        rows = table_page.count('<a href="tm.asp?m=')
         for row in range(1, rows + 1):
 
             # Find first instance of an accessory link in html range
