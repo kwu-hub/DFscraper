@@ -72,7 +72,8 @@ def get_bonus(html):
         next_tag = 'Abilities:'
     if html.getText().find("Modifies") != -1:  # Baltael's Aventail (page 4) has Modifies
         next_tag = 'Modifies:'
-    if html.getText().find(",Boost") != -1:  # Beacon of Hope (page 5) has strikethrough boost and Ability, Boost must come last because it is before Ability on the page
+    # Beacon of Hope has strikethrough boost and Ability, Boost must come last since it is before Ability on the page
+    if html.getText().find(",Boost") != -1:  
         next_tag = ',Boost'
     '''
     return find_between_tags(html, tag, "bonus_case")
@@ -93,29 +94,30 @@ def get_link(html):
 
 
 def is_dc(html):
-    return html.find('img', src=re.compile("DC")) is not None
+    return html.find('img', src=re.compile("DC\.((jpg)|(png))")) is not None
 
 
 def is_rare(html):
-    return html.find('img', src=re.compile("Rare")) is not None
+    return html.find('img', src=re.compile("Rare\.((jpg)|(png))")) is not None
 
 
 def is_seasonal(html):
-    return html.find('img', src=re.compile("Seasonal")) is not None
+    return html.find('img', src=re.compile("Seasonal\.((jpg)|(png))")) is not None
 
 
 def is_da(html):
-    return html.find('img', src=re.compile("DA")) is not None
+    return html.find('img', src=re.compile("DA\.((jpg)|(png))")) is not None
 
 
 def is_so(html):
-    return (html.find('img', src=re.compile("SpecialOffer")) is not None) or (html.find('img', src=re.compile("DoomKnight")) is not None)
+    return (html.find('img', src=re.compile("SpecialOffer\.((jpg)|(png))")) is not None) \
+           or (html.find('img', src=re.compile("DoomKnight\.((jpg)|(png))")) is not None)
 
 
 def is_dm(html):
-    return html.find('img', src=re.compile("DM")) is not None
+    return html.find('img', src=re.compile("DM\.((jpg)|(png))")) is not None
 
 
 def is_g(html):
-    return html.find('img', src=re.compile("Guardian")) is not None
+    return html.find('img', src=re.compile("Guardian\.((jpg)|(png))")) is not None
 
