@@ -155,6 +155,7 @@ if __name__ == '__main__':
         table_page = open_page(page)
         rows = table_page.count('<a href="tm.asp?m=')
         for row in range(1, rows + 1):
+            print "\nPage: " + str(page) + ", Row: " + str(row)
 
             # Find first instance of an accessory link in html range
             # When found, we take a substring of the index+1 (removing '<') so exact string is not found again
