@@ -6,8 +6,8 @@ from BeautifulSoup import BeautifulSoup
 from Items import *
 
 ROWS_TO_SKIP_ON_FIRST_PAGE = 3
-STARTING_PAGE = 1
-TOTAL_PAGES = 81
+STARTING_PAGE = 8
+TOTAL_PAGES = 8
 
 # STARTING_PAGE = 1
 # TOTAL_PAGES = 81
@@ -59,6 +59,12 @@ def parse_item(html, data):
             item_type = get_type(msg)
             bonuses = get_bonus(msg)
 
+            '''
+            Exceptions due to typos in the forums
+            Boxing Ring: Category and Equip Spot are in reverse order
+            '''
+            if name == "Boxing Ring":
+                equip = "finger"
 
             if name == "Grenwog Basket II":  # missing + in Pierce Def
                 bonuses = "Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, LUK +2, Bonus +1, Immobility +1, Stone +3, Wind +3 "

@@ -8,7 +8,8 @@ def save_item():
 
 # Determines if the message received contains the attributes of an item
 def is_item(html):
-    return 'equip spot:' in html.text.lower() and 'category: ' in html.text.lower() and 'level: ' in html.text.lower() and 'bonuses: ' in html.text.lower()
+    return 'equip spot:' in html.text.lower() and 'category: ' in html.text.lower() and 'level: ' in html.text.lower()\
+           and 'bonuses: ' in html.text.lower()
 
 
 # Helper function used to find the specific value between the text of 2 different tags
