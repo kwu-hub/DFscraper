@@ -23,7 +23,7 @@ def find_between_tags(html, tag, next_tag):
         if text.find("Bonuses: None") != -1:
             return 'None'
         text = text[text.find(tag) + len(tag):]
-        regex = re.compile("([0-9][a-zA-Z])|([0-9],[a-zA-Z])")
+        regex = re.compile("([0-9][a-zA-Z])|([0-9],[a-zA-Z])|([0-9]\.[a-zA-Z])")
         m = regex.search(text)
         text = text[:text.find(m.group(0))+1]
         return text
