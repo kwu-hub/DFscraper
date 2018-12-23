@@ -15,17 +15,31 @@ TOTAL_PAGES = 81
 
 # Opens given page number and returns response
 def open_page(page_number):
-    response = urllib2.urlopen(
-        'http://forums2.battleon.com/f/tt.asp?forumid=118&p=' + str(page_number) + '&tmode=10&smode=1')
-    return response.read()
+    while True:
+        try:
+            response = urllib2.urlopen(
+                'http://forums2.battleon.com/f/tt.asp?forumid=118&p=' + str(page_number) + '&tmode=10&smode=1')
+            html_source = response.read()
+            if response.getcode() == 200:
+                break
+        except Exception as inst:
+            print inst
+    return html_source
 
 
 # Opens first item in given page substring
 def open_item(html):
     link = html[html.find('tm.asp?m='):]
     link = link[:link.find('"')]
-    sub_response = urllib2.urlopen("http://forums2.battleon.com/f/" + link)
-    return sub_response.read()
+    while True:
+        try:
+            response = urllib2.urlopen("http://forums2.battleon.com/f/" + link)
+            html_source = response.read()
+            if response.getcode() == 200:
+                break
+        except Exception as inst:
+            print inst
+    return html_source
 
 
 # Find each item on the page and it to the json file

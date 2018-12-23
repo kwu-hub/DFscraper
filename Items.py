@@ -15,7 +15,7 @@ def is_item(html):
 def find_between_tags(html, tag, next_tag):
     text = html.getText().lower()
 
-    # Handles the unknown text that follows bonuses. Comedy Cloak (page 13)
+    # Handles the unknown text that follows bonuses (Effect, Ability, DC, etc.) Comedy Cloak (page 13)
     # The bonuses category ends with a number and is followed by a letter that is the next category
     # The code finds that index and gets values in between
     if next_tag == "bonus_case":
@@ -28,6 +28,7 @@ def find_between_tags(html, tag, next_tag):
         text = text[:text.find(m.group(0))+1]
         return text
 
+    # All other values
     tag_index = text.find(tag)
     next_index = text.find(next_tag)
     if tag_index == -1 or next_index == -1:
