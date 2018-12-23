@@ -3,6 +3,235 @@ import re
 from collections import defaultdict
 
 
+# This function should rarely be used
+# It is only used for messages with more than one bonuses value
+def save_2_items(msg, data, hyperlink):
+    # This first part determines which item the DC/DA tags are associated with
+    # If the image with the tag appears in the first 15 elements, it is associated with first item
+    # Otherwise it is associated with the second
+    first_da = False
+    first_dc = False
+    first_rare = False
+    first_seasonal = False
+    first_so = False
+    first_g = False
+    first_dm = False
+    second_da = False
+    second_dc = False
+    second_rare = False
+    second_seasonal = False
+    second_so = False
+    second_g = False
+    second_dm = False
+    msg_contents = msg.find("td", attrs={'class': 'msg'}).contents
+    for i in range(len(msg_contents)):
+        try:
+            if msg_contents[i].name == "img":
+                imgs = msg_contents[i]["src"]
+                if i < 15:
+                    if "DA" in imgs:
+                        first_da = True
+                    if "DC" in imgs:
+                        first_dc = True
+                    if "Rare" in imgs:
+                        first_rare = True
+                    if "Seasonal" in imgs:
+                        first_seasonal = True
+                    if "DM" in imgs:
+                        first_dm = True
+                    if "SpecialOffer" in imgs or "DoomKnight" in imgs:
+                        first_so = True
+                    if "Guardian" in imgs:
+                        first_g = True
+                else:
+                    if "DA" in imgs:
+                        second_da = True
+                    if "DC" in imgs:
+                        second_dc = True
+                    if "Rare" in imgs :
+                        second_rare = True
+                    if "Seasonal" in imgs:
+                        second_seasonal = True
+                    if "DM" in imgs:
+                        second_dm = True
+                    if "SpecialOffer" in imgs or "DoomKnight" in imgs:
+                        second_so = True
+                    if "Guardian" in imgs:
+                        second_g = True
+        except AttributeError:
+            continue
+
+    # ---------------------------- Add First item ----------------------------
+    # Same code as save_item()
+    equip = get_equip(msg)
+    name = get_name(msg)
+    level = get_level(msg)
+    element = get_element(msg)
+    item_type = get_type(msg)
+    bonuses = get_bonus(msg)
+
+    # Creates dict of bonuses with key equal to the first word of the bonus (ex. Pierce Def->Pierce)
+    bonus_dict = defaultdict(int)
+    if bonuses != 'None':
+        for bonus in bonuses.split(', '):
+            if "+" in bonus:
+                nb = bonus.split("+")
+                bonus_dict[nb[0].split(" ")[0]] = int(nb[1])
+            else:
+                nb = bonus.split("-")
+                bonus_dict[nb[0].split(" ")[0]] = int(nb[1]) * -1
+
+    data[equip].append({
+        name + " (Level " + level + ")": {
+            "equip": equip,
+            "name": name,
+            "level": level,
+            "link": hyperlink,
+            "element": element,
+            "item_type": item_type,
+
+            "crit": bonus_dict["crit"],
+            "bonus": bonus_dict["bonus"],
+            "str": bonus_dict["str"],
+            "dex": bonus_dict["dex"],
+            "int": bonus_dict["int"],
+            "cha": bonus_dict["cha"],
+            "luk": bonus_dict["luk"],
+            "melee": bonus_dict["melee"],
+            "pierce": bonus_dict["pierce"],
+            "magic": bonus_dict["magic"],
+            "parry": bonus_dict["parry"],
+            "block": bonus_dict["block"],
+            "dodge": bonus_dict["dodge"],
+            "end": bonus_dict["end"],
+            "wis": bonus_dict["wis"],
+
+            "???": bonus_dict["???"],
+            "bacon": bonus_dict["bacon"],
+            "darkness": bonus_dict["darkness"],
+            "disease": bonus_dict["disease"],
+            "energy": bonus_dict["energy"],
+            "evil": bonus_dict["evil"],
+            "fear": bonus_dict["fear"],
+            "fire": bonus_dict["fire"],
+            "good": bonus_dict["good"],
+            "ice": bonus_dict["ice"],
+            "light": bonus_dict["light"],
+            "metal": bonus_dict["metal"],
+            "nature": bonus_dict["nature"],
+            "none": bonus_dict["none"],
+            "poison": bonus_dict["poison"],
+            "silver": bonus_dict["silver"],
+            "stone": bonus_dict["stone"],
+            "water": bonus_dict["water"],
+            "wind": bonus_dict["wind"],
+            "shrink": bonus_dict["shrink"],
+            "immobility": bonus_dict["immobility"],
+            "health": bonus_dict["health"],
+            "mana": bonus_dict["mana"],
+            "all": bonus_dict["all"],
+
+            "dc": first_dc,
+            "da": first_da,
+            "rare": first_rare,
+            "seasonal": first_seasonal,
+            "so": first_so,
+            "dm": first_dm,
+            "g": first_g
+        }
+    })
+    print name + " (Level: " + level + "): " + bonuses + "|" + equip
+
+    # ---------------------------- Add second item ----------------------------
+    # Have to find the second appearance of each of the values
+    text = msg.getText().lower()
+    second_tag_index_level = text.find("level: ", text.find("level: ")+1)
+    second_tag_index_element = text.find("element: ", text.find("element: ")+1)
+    second_tag_index_bonuses = text.find("bonuses: ", text.find("bonuses: ")+1)
+    second_level = text[second_tag_index_level + len("level: "):second_tag_index_element]
+    second_element = text[second_tag_index_element + len("element: "):second_tag_index_bonuses]
+
+    if text[second_tag_index_element:].find("bonuses: none") != -1:
+        second_bonuses = 'None'
+    else:
+        regex = re.compile("([0-9][a-zA-Z])|([0-9],[a-zA-Z])|([0-9]\.[a-zA-Z])")
+        m = regex.search(text[second_tag_index_bonuses:])
+        second_tag_index_bonuses_end = text.find(m.group(0))+1
+        second_bonuses = text[second_tag_index_bonuses + len("bonuses: "):second_tag_index_bonuses_end]
+
+    # Creates dict of bonuses with key equal to the first word of the bonus (ex. Pierce Def->Pierce)
+    bonus_dict = defaultdict(int)
+    if second_bonuses != 'None':
+        for bonus in second_bonuses.split(', '):
+            if "+" in bonus:
+                nb = bonus.split("+")
+                bonus_dict[nb[0].split(" ")[0]] = int(nb[1])
+            else:
+                nb = bonus.split("-")
+                bonus_dict[nb[0].split(" ")[0]] = int(nb[1]) * -1
+
+    data[equip].append({
+        name + " (Level " + level + ")": {
+            "equip": equip,
+            "name": name,
+            "level": second_level,
+            "link": hyperlink,
+            "element": second_element,
+            "item_type": item_type,
+
+            "crit": bonus_dict["crit"],
+            "bonus": bonus_dict["bonus"],
+            "str": bonus_dict["str"],
+            "dex": bonus_dict["dex"],
+            "int": bonus_dict["int"],
+            "cha": bonus_dict["cha"],
+            "luk": bonus_dict["luk"],
+            "melee": bonus_dict["melee"],
+            "pierce": bonus_dict["pierce"],
+            "magic": bonus_dict["magic"],
+            "parry": bonus_dict["parry"],
+            "block": bonus_dict["block"],
+            "dodge": bonus_dict["dodge"],
+            "end": bonus_dict["end"],
+            "wis": bonus_dict["wis"],
+
+            "???": bonus_dict["???"],
+            "bacon": bonus_dict["bacon"],
+            "darkness": bonus_dict["darkness"],
+            "disease": bonus_dict["disease"],
+            "energy": bonus_dict["energy"],
+            "evil": bonus_dict["evil"],
+            "fear": bonus_dict["fear"],
+            "fire": bonus_dict["fire"],
+            "good": bonus_dict["good"],
+            "ice": bonus_dict["ice"],
+            "light": bonus_dict["light"],
+            "metal": bonus_dict["metal"],
+            "nature": bonus_dict["nature"],
+            "none": bonus_dict["none"],
+            "poison": bonus_dict["poison"],
+            "silver": bonus_dict["silver"],
+            "stone": bonus_dict["stone"],
+            "water": bonus_dict["water"],
+            "wind": bonus_dict["wind"],
+            "shrink": bonus_dict["shrink"],
+            "immobility": bonus_dict["immobility"],
+            "health": bonus_dict["health"],
+            "mana": bonus_dict["mana"],
+            "all": bonus_dict["all"],
+
+            "dc": second_dc,
+            "da": second_da,
+            "rare": second_rare,
+            "seasonal": second_seasonal,
+            "so": second_so,
+            "dm": second_dm,
+            "g": second_g
+        }
+    })
+    print name + " (Level: " + level + "): " + second_bonuses + "|" + equip
+
+
 def save_item(msg, data, hyperlink):
     equip = get_equip(msg)
     name = get_name(msg)
@@ -13,44 +242,10 @@ def save_item(msg, data, hyperlink):
 
     '''
     Exceptions due to typos in the forums
-    Boxing Ring: Category and Equip Spot are in reverse order
     Patrick's Emerald Green Hat: has 2 spaces after "Equip Spot:" instead of 1
     '''
-    if name == "Boxing Ring":
-        equip = "finger"
     if name == "Patrick's Emerald Green Hat":
         equip = "head"
-
-    if name == "Grenwog Basket II":  # missing + in Pierce Def
-        bonuses = "None +1"
-    if name == "Golden Arbitrator VII":  # missing + in dodge
-        bonuses = "None +1"
-    if name == "Golden Arbitrator VIII":
-        bonuses = "None +1"
-    if name == "Golden Arbitrator IX":
-        bonuses = "None +1"
-    if name == "Grand Guardian Helm":  # missing + in pierce def
-        bonuses = "None +1"
-    if name == "Golden Battlespell Helm VII":  # missing + in dodge
-        bonuses = "None +1"
-    if name == "Golden Battlespell Helm VIII":
-        bonuses = "None +1"
-    if name == "Golden Battlespell Helm IX":
-        bonuses = "None +1"
-    if name == "High Commander Helm" and level == "28":  # missing WIS +
-        bonuses = "None +1"
-    if name == "Rokpol Ring":  # Missing comma before Bonus
-        bonuses = "None +1"
-    if name == "Silver Laurels V":  # Extra comma after immobility 64
-        bonuses = "None +1"
-    if name == "Silvered Bells Cape VII":  # . after water 64
-        bonuses = "None +1"
-    if name == "Silvered Bells Cape VIII":
-        bonuses = "None +1"
-    if name == "Wings of the Unchained" and level == "70":  # Parry probably isn't 34 and missing comma after
-        bonuses = "None +1"
-
-    print name + " (Level: " + level + "): " + bonuses + "|" + equip
 
     # Creates dict of bonuses with key equal to the first word of the bonus (ex. Pierce Def->Pierce)
     bonus_dict = defaultdict(int)
@@ -123,6 +318,8 @@ def save_item(msg, data, hyperlink):
         }
     })
 
+    print name + " (Level: " + level + "): " + bonuses + "|" + equip
+
 
 # Determines if the message received contains the attributes of an item
 def is_item(html):
@@ -184,16 +381,6 @@ def get_type(html):
 
 def get_bonus(html):
     tag = 'bonuses: '
-    '''
-    next_tag = 'Rarity:'  # Boondock's Saintly Cloak (page 8) has no space after "Rarity"
-    if html.getText().find("Abilities") != -1:  # Bacon Storm (page 4) has Ability
-        next_tag = 'Abilities:'
-    if html.getText().find("Modifies") != -1:  # Baltael's Aventail (page 4) has Modifies
-        next_tag = 'Modifies:'
-    # Beacon of Hope has strikethrough boost and Ability, Boost must come last since it is before Ability on the page
-    if html.getText().find(",Boost") != -1:  
-        next_tag = ',Boost'
-    '''
     return find_between_tags(html, tag, "bonus_case")
 
 
@@ -211,7 +398,7 @@ def get_link(html):
     return hyperlink
 
 
-# For DC, Rare, Seasonal, and DA tags we check if there are more than 1 entry (determined by multiple location: tags)
+# For DC, Rare, Seasonal, and DA tags we check if there are more than 1 entry (determined by multiple price: tags)
 # If there are multiple entries, we find the count of the given tag
 # If tag count is 0, then it is False
 # If tag count is same as entries, then it is True (each entry has it so it is not optional)
@@ -219,7 +406,7 @@ def get_link(html):
 # Assumes Guardian, Special Offer, DM has no optional
 def is_dc(html):
     images = len(html.findAll('img', src=re.compile("DC\.((jpg)|(png))")))
-    entry_count = html.getText().lower().count('location:')
+    entry_count = html.getText().lower().count('price:')
     if (images < entry_count) and entry_count > 1 and images != 0:
         return "optional"
     return html.find('img', src=re.compile("DC\.((jpg)|(png))")) is not None
@@ -227,7 +414,7 @@ def is_dc(html):
 
 def is_rare(html):
     images = len(html.findAll('img', src=re.compile("Rare\.((jpg)|(png))")))
-    entry_count = html.getText().lower().count('location:')
+    entry_count = html.getText().lower().count('price:')
     if (images < entry_count) and entry_count > 1 and images != 0:
         return "optional"
     return html.find('img', src=re.compile("Rare\.((jpg)|(png))")) is not None
@@ -235,7 +422,7 @@ def is_rare(html):
 
 def is_seasonal(html):
     images = len(html.findAll('img', src=re.compile("Seasonal\.((jpg)|(png))")))
-    entry_count = html.getText().lower().count('location:')
+    entry_count = html.getText().lower().count('price:')
     if (images < entry_count) and entry_count > 1 and images != 0:
         return "optional"
     return html.find('img', src=re.compile("Seasonal\.((jpg)|(png))")) is not None
@@ -243,7 +430,7 @@ def is_seasonal(html):
 
 def is_da(html):
     images = len(html.findAll('img', src=re.compile("DA\.((jpg)|(png))")))
-    entry_count = html.getText().lower().count('location:')
+    entry_count = html.getText().lower().count('price:')
     if (images < entry_count) and entry_count > 1 and images != 0:
         return "optional"
     return html.find('img', src=re.compile("DA\.((jpg)|(png))")) is not None

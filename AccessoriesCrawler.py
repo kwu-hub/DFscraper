@@ -5,9 +5,10 @@ from BeautifulSoup import BeautifulSoup
 from Items import *
 
 ROWS_TO_SKIP_ON_FIRST_PAGE = 3
-STARTING_PAGE = 73
-TOTAL_PAGES = 73
+STARTING_PAGE = 1
+TOTAL_PAGES = 81
 
+# ROWS_TO_SKIP_ON_FIRST_PAGE = 3
 # STARTING_PAGE = 1
 # TOTAL_PAGES = 81
 
@@ -52,10 +53,11 @@ def parse_item(html, data):
 
         if is_item(msg):
             hyperlink = get_link(msg)
-            # Handles single message with multiple versions of item
+            # Handles single message with multiple versions of item which have different stats
             if msg.getText().lower().count("bonuses") > 1:
-                print "yeet"
-            save_item(msg, data, hyperlink)
+                save_2_items(msg, data, hyperlink)
+            else:
+                save_item(msg, data, hyperlink)
 
 
 if __name__ == '__main__':
@@ -72,7 +74,7 @@ if __name__ == '__main__':
             table_page = table_page[row_index:]
 
             # If we are scraping the first page, we skip the pinned topics at the top of the table
-            if page == 1 and row <= ROWS_TO_SKIP_ON_FIRST_PAGE:
+            if page == STARTING_PAGE and row <= ROWS_TO_SKIP_ON_FIRST_PAGE:
                 continue
 
             # Go through all versions of an item and store it
