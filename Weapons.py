@@ -255,12 +255,28 @@ def save_item(msg, data, hyperlink):
     bonuses = get_bonus(msg)
     attack_type = get_type_attack(msg)
     damage = get_damage(msg)
-    damage_low = damage.split("-")[0]
-    damage_high = damage.split("-")[1]
 
     '''
     Exceptions due to typos in the forums
     '''
+    if (hyperlink == "http://forums2.battleon.com/f/tm.asp?m=20026146" or
+            hyperlink == "http://forums2.battleon.com/f/tm.asp?m=16190158" or
+            hyperlink == "http://forums2.battleon.com/f/tm.asp?m=16108180" or
+            hyperlink == "http://forums2.battleon.com/f/tm.asp?m=22119370" or
+            hyperlink == "http://forums2.battleon.com/f/tm.asp?m=18667563" or
+            hyperlink == "http://forums2.battleon.com/f/tm.asp?m=20029267"):
+        print "handled typo: " + name
+        return
+
+    '''
+    Exceptions
+    Blade of Destiny (damage is "Scaled to Ash's level")
+    '''
+    if damage == "scaled to ash's level":
+        return
+
+    damage_low = damage.split("-")[0]
+    damage_high = damage.split("-")[1]
 
     # Creates dict of bonuses with key equal to the first word of the bonus (ex. Pierce Def->Pierce)
     bonus_dict = defaultdict(int)

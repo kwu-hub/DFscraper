@@ -4,8 +4,8 @@ import json
 from BeautifulSoup import BeautifulSoup
 from Weapons import *
 
-ROW_LINKS_TO_SKIP_ON_FIRST_PAGE = 4
-STARTING_PAGE = 1
+ROW_LINKS_TO_SKIP_ON_FIRST_PAGE = 8
+STARTING_PAGE = 18
 TOTAL_PAGES = 143
 
 
