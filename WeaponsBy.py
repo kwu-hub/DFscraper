@@ -185,7 +185,7 @@ def save_2_items(msg, data, hyperlink):
                 nb = bonus.split("-")
                 bonus_dict[nb[0].split(" ")[0]] = int(nb[1]) * -1
 
-    data[second_damage].append({
+    data[attack_type].append({
         name + " (Level " + level + ")": {
             "name": name,
             "level": second_level,
