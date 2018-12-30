@@ -6,7 +6,7 @@ from WeaponsBy import *
 
 ROW_LINKS_TO_SKIP_ON_FIRST_PAGE = int(sys.argv[2])
 STARTING_PAGE = int(sys.argv[1])
-TOTAL_PAGES = int(STARTING_PAGE)+9
+TOTAL_PAGES = int(STARTING_PAGE)+int(sys.argv[3])
 
 
 # Opens given page number and returns response
@@ -38,7 +38,7 @@ def open_item(html):
         except Exception as inst:
             print inst
             out = open("weapons" + str(sys.argv[1]) + ".txt", "a")
-            out.write(str(inst))
+            out.write(str(inst) + "\n")
     return html_source
 
 
@@ -85,11 +85,11 @@ if __name__ == '__main__':
             item_page = open_item(table_page)
             try:
                 parse_item(item_page, data)
-            except IndexError as e:
+            except (IndexError, ValueError) as e:
                 f = open("weapons" + str(sys.argv[1]) + "errors.txt", "a")
                 f.write("Page: " + str(page) + ", Row: " + str(row) + "\n")
                 out = open("weapons" + str(sys.argv[1]) + ".txt", "a")
-                out.write(str(e))
+                out.write(str(e.message)+"\n")
                 print e
 
     with open('weapons'+str(sys.argv[1])+'.json', 'w') as outfile:
