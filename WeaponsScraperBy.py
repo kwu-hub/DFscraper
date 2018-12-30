@@ -6,7 +6,7 @@ from WeaponsBy import *
 
 ROW_LINKS_TO_SKIP_ON_FIRST_PAGE = int(sys.argv[2])
 STARTING_PAGE = int(sys.argv[1])
-TOTAL_PAGES = int(STARTING_PAGE)
+TOTAL_PAGES = int(STARTING_PAGE)+9
 
 
 # Opens given page number and returns response
@@ -87,7 +87,7 @@ if __name__ == '__main__':
                 parse_item(item_page, data)
             except IndexError as e:
                 f = open("weapons" + str(sys.argv[1]) + "errors.txt", "a")
-                f.write("Page: " + str(page) + ", Row: " + str(row))
+                f.write("Page: " + str(page) + ", Row: " + str(row) + "\n")
                 out = open("weapons" + str(sys.argv[1]) + ".txt", "a")
                 out.write(str(e))
                 print e
