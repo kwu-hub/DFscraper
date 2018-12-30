@@ -21,7 +21,7 @@ def open_page(page_number):
         except Exception as inst:
             print inst
             out = open("weapons" + str(sys.argv[1]) + ".txt", "a")
-            out.write(str(inst))
+            out.write(str(inst) + "\n")
     return html_source
 
 
