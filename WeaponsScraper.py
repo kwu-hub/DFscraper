@@ -50,7 +50,7 @@ def parse_item(html, data):
         if is_item(msg):
             hyperlink = get_link(msg)
             # Handles single message with multiple versions of item which have different stats
-            if msg.getText().lower().count("bonuses") > 1:
+            if msg.getText().lower().count("bonuses:") > 1:
                 save_2_items(msg, data, hyperlink)
             else:
                 save_item(msg, data, hyperlink)
