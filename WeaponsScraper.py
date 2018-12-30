@@ -2,14 +2,11 @@ import urllib2
 import json
 
 from BeautifulSoup import BeautifulSoup
-from Items import *
+from Weapons import *
 
 ROW_LINKS_TO_SKIP_ON_FIRST_PAGE = 4
 STARTING_PAGE = 1
-TOTAL_PAGES = 1
-
-
-# TOTAL_PAGES = 143
+TOTAL_PAGES = 143
 
 
 # Opens given page number and returns response
@@ -54,10 +51,9 @@ def parse_item(html, data):
             hyperlink = get_link(msg)
             # Handles single message with multiple versions of item which have different stats
             if msg.getText().lower().count("bonuses") > 1:
-                print get_name(msg)
+                save_2_items(msg, data, hyperlink)
             else:
-                print get_name(msg)
-                print get_bonus(msg)
+                save_item(msg, data, hyperlink)
 
 
 if __name__ == '__main__':

@@ -63,12 +63,15 @@ def save_2_items(msg, data, hyperlink):
 
     # ---------------------------- Add First item ----------------------------
     # Same code as save_item()
-    equip = get_equip(msg)
     name = get_name(msg)
     level = get_level(msg)
     element = get_element(msg)
     item_type = get_type(msg)
     bonuses = get_bonus(msg)
+    attack_type = get_type_attack(msg)
+    damage = get_damage(msg)
+    damage_low = damage.split("-")[0]
+    damage_high = damage.split("-")[1]
 
     # Creates dict of bonuses with key equal to the first word of the bonus (ex. Pierce Def->Pierce)
     bonus_dict = defaultdict(int)
@@ -81,14 +84,16 @@ def save_2_items(msg, data, hyperlink):
                 nb = bonus.split("-")
                 bonus_dict[nb[0].split(" ")[0]] = int(nb[1]) * -1
 
-    data[equip].append({
+    data[attack_type].append({
         name + " (Level " + level + ")": {
-            "equip": equip,
             "name": name,
             "level": level,
-            "link": hyperlink,
+            "damage_low": damage_low,
+            "damage_high": damage_high,
             "element": element,
             "item_type": item_type,
+            "attack_type": attack_type,
+            "link": hyperlink,
 
             "crit": bonus_dict["crit"],
             "bonus": bonus_dict["bonus"],
@@ -137,18 +142,24 @@ def save_2_items(msg, data, hyperlink):
             "seasonal": first_seasonal,
             "so": first_so,
             "dm": first_dm,
-            "g": first_g
+            "g": first_g,
+
+            "has_special": has_special(msg)
         }
     })
-    print name + " (Level: " + level + "): " + bonuses + "|" + equip
+    print name + " (Level: " + level + "): " + attack_type + "|" + damage_low + "-" + damage_high + "|" + bonuses + "|"
 
     # ---------------------------- Add second item ----------------------------
     # Have to find the second appearance of each of the values
     text = msg.getText().lower()
     second_tag_index_level = text.find("level: ", text.find("level: ")+1)
+    second_tag_index_damage = text.find("damage: ", text.find("damage: ")+1)
     second_tag_index_element = text.find("element: ", text.find("element: ")+1)
     second_tag_index_bonuses = text.find("bonuses: ", text.find("bonuses: ")+1)
-    second_level = text[second_tag_index_level + len("level: "):second_tag_index_element]
+    second_level = text[second_tag_index_level + len("level: "):second_tag_index_damage]
+    second_damage = text[second_tag_index_damage + len("damage: "):second_tag_index_element]
+    second_damage_low = second_damage.split("-")[0]
+    second_damage_high = second_damage.split("-")[1]
     second_element = text[second_tag_index_element + len("element: "):second_tag_index_bonuses]
 
     if text[second_tag_index_element:].find("bonuses: none") != -1:
@@ -170,14 +181,16 @@ def save_2_items(msg, data, hyperlink):
                 nb = bonus.split("-")
                 bonus_dict[nb[0].split(" ")[0]] = int(nb[1]) * -1
 
-    data[equip].append({
+    data[second_damage].append({
         name + " (Level " + level + ")": {
-            "equip": equip,
             "name": name,
             "level": second_level,
-            "link": hyperlink,
+            "damage_low": second_damage_low,
+            "damage_high": second_damage_high,
             "element": second_element,
             "item_type": item_type,
+            "attack_type": attack_type,
+            "link": hyperlink,
 
             "crit": bonus_dict["crit"],
             "bonus": bonus_dict["bonus"],
@@ -226,26 +239,28 @@ def save_2_items(msg, data, hyperlink):
             "seasonal": second_seasonal,
             "so": second_so,
             "dm": second_dm,
-            "g": second_g
+            "g": second_g,
+
+            "has_special": has_special(msg)
         }
     })
-    print name + " (Level: " + level + "): " + second_bonuses + "|" + equip
+    print "*" + name + " (Level: " + level + "): " + attack_type + "|" + damage_low + "-" + damage_high + "|" + bonuses + "|"
 
 
 def save_item(msg, data, hyperlink):
-    equip = get_equip(msg)
     name = get_name(msg)
     level = get_level(msg)
     element = get_element(msg)
     item_type = get_type(msg)
     bonuses = get_bonus(msg)
+    attack_type = get_type_attack(msg)
+    damage = get_damage(msg)
+    damage_low = damage.split("-")[0]
+    damage_high = damage.split("-")[1]
 
     '''
     Exceptions due to typos in the forums
-    Patrick's Emerald Green Hat: has 2 spaces after "Equip Spot:" instead of 1
     '''
-    if name == "Patrick's Emerald Green Hat":
-        equip = "head"
 
     # Creates dict of bonuses with key equal to the first word of the bonus (ex. Pierce Def->Pierce)
     bonus_dict = defaultdict(int)
@@ -258,14 +273,16 @@ def save_item(msg, data, hyperlink):
                 nb = bonus.split("-")
                 bonus_dict[nb[0].split(" ")[0]] = int(nb[1]) * -1
 
-    data[equip].append({
+    data[attack_type].append({
         name + " (Level " + level + ")": {
-            "equip": equip,
             "name": name,
             "level": level,
-            "link": hyperlink,
+            "damage_low": damage_low,
+            "damage_high": damage_high,
             "element": element,
             "item_type": item_type,
+            "attack_type": attack_type,
+            "link": hyperlink,
 
             "crit": bonus_dict["crit"],
             "bonus": bonus_dict["bonus"],
@@ -314,11 +331,13 @@ def save_item(msg, data, hyperlink):
             "seasonal": is_seasonal(msg),
             "so": is_so(msg),
             "dm": is_dm(msg),
-            "g": is_g(msg)
+            "g": is_g(msg),
+
+            "has_special": has_special(msg)
         }
     })
 
-    print name + " (Level: " + level + "): " + bonuses + "|" + equip
+    print name + " (Level: " + level + "): " + attack_type + "|" + damage_low + "-" + damage_high + "|" + bonuses + "|"
 
 
 # Determines if the message received contains the attributes of an item
@@ -367,15 +386,15 @@ def get_level(html):
     return find_between_tags(html, tag, next_tag)
 
 
-def get_type(html):
-    tag = 'item type: '
-    next_tag = 'attack type: '
+def get_damage(html):
+    tag = 'damage: '
+    next_tag = 'element: '
     return find_between_tags(html, tag, next_tag)
 
 
-def get_type_attack(html):
-    tag = 'attack type: '
-    next_tag = 'category type: '
+def get_element(html):
+    tag = 'element: '
+    next_tag = 'bonuses: '
     return find_between_tags(html, tag, next_tag)
 
 
@@ -384,9 +403,15 @@ def get_bonus(html):
     return find_between_tags(html, tag, "bonus_case")
 
 
-def get_element(html):
-    tag = 'element: '
-    next_tag = 'bonuses: '
+def get_type(html):
+    tag = 'item type: '
+    next_tag = 'attack type: '
+    return find_between_tags(html, tag, next_tag)
+
+
+def get_type_attack(html):
+    tag = 'attack type: '
+    next_tag = 'category: '
     return find_between_tags(html, tag, next_tag)
 
 
@@ -447,3 +472,7 @@ def is_dm(html):
 
 def is_g(html):
     return html.find('img', src=re.compile("Guardian\.((jpg)|(png))")) is not None
+
+
+def has_special(html):
+    return 'special effect:' in html.text.lower()
