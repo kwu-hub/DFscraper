@@ -72,6 +72,7 @@ def save_2_items(msg, data, hyperlink):
     attack_type = get_type_attack(msg)
     damage = get_damage(msg)
     if 'scaled' in damage:
+        print ("scaled")
         return
     damage_low = damage.split("-")[0]
     damage_high = damage.split("-")[1]
@@ -165,6 +166,7 @@ def save_2_items(msg, data, hyperlink):
     second_level = text[second_tag_index_level + len("level: "):second_tag_index_damage]
     second_damage = text[second_tag_index_damage + len("damage: "):second_tag_index_element]
     if 'scaled' in second_damage:
+        print ("scaled")
         return
     second_damage_low = second_damage.split("-")[0]
     second_damage_high = second_damage.split("-")[1]
@@ -291,6 +293,7 @@ def save_item(msg, data, hyperlink):
         All 12 Drops from "The Lymcrest Labrynth
     '''
     if 'scaled' in damage:
+        print ("scaled")
         return
 
     damage_low = damage.split("-")[0]
