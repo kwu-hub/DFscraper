@@ -54,7 +54,8 @@ def parse_item(html, data):
         if is_item(msg):
             hyperlink = get_link(msg)
             # Handles single message with multiple versions of item which have different stats
-            if msg.getText().lower().count("bonuses:") > 1:
+            # With the exception of Staff of Whoops (http://forums2.battleon.com/f/tm.asp?m=18792844)
+            if msg.getText().lower().count("bonuses:") > 1 and "18792844" not in hyperlink:
                 save_2_items(msg, data, hyperlink)
             else:
                 save_item(msg, data, hyperlink)

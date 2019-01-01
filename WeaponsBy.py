@@ -71,6 +71,8 @@ def save_2_items(msg, data, hyperlink):
     bonuses = get_bonus(msg)
     attack_type = get_type_attack(msg)
     damage = get_damage(msg)
+    if 'scaled' in damage:
+        return
     damage_low = damage.split("-")[0]
     damage_high = damage.split("-")[1]
 
@@ -162,6 +164,8 @@ def save_2_items(msg, data, hyperlink):
     second_tag_index_bonuses = text.find("bonuses: ", text.find("bonuses: ")+1)
     second_level = text[second_tag_index_level + len("level: "):second_tag_index_damage]
     second_damage = text[second_tag_index_damage + len("damage: "):second_tag_index_element]
+    if 'scaled' in second_damage:
+        return
     second_damage_low = second_damage.split("-")[0]
     second_damage_high = second_damage.split("-")[1]
     second_element = text[second_tag_index_element + len("element: "):second_tag_index_bonuses]
@@ -279,9 +283,14 @@ def save_item(msg, data, hyperlink):
 
     '''
     Exceptions
-    Blade of Destiny (damage is "Scaled to Ash's level")
+    Scaled Damage Values:
+        Blade of Destiny (damage is "Scaled to Ash's level")
+        Vanilla Ice Katana
+        Frozen Claymore
+        Foam Rolith's Hammer
+        All 12 Drops from "The Lymcrest Labrynth
     '''
-    if damage == "scaled to ash's level":
+    if 'scaled' in damage:
         return
 
     damage_low = damage.split("-")[0]
