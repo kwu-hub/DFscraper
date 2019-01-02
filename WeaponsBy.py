@@ -270,21 +270,9 @@ def save_item(msg, data, hyperlink):
     damage = get_damage(msg)
 
     '''
-    Exceptions due to typos in the forums
-    '''
-    '''
-    if (hyperlink == "http://forums2.battleon.com/f/tm.asp?m=20026146" or
-            hyperlink == "http://forums2.battleon.com/f/tm.asp?m=16190158" or
-            hyperlink == "http://forums2.battleon.com/f/tm.asp?m=16108180" or
-            hyperlink == "http://forums2.battleon.com/f/tm.asp?m=22119370" or
-            hyperlink == "http://forums2.battleon.com/f/tm.asp?m=18667563" or
-            hyperlink == "http://forums2.battleon.com/f/tm.asp?m=20029267"):
-        print "handled typo: " + name
-        return
-    '''
-
-    '''
     Exceptions
+    '''
+    '''
     Scaled Damage Values:
         Blade of Destiny (damage is "Scaled to Ash's level")
         Vanilla Ice Katana
@@ -295,10 +283,23 @@ def save_item(msg, data, hyperlink):
     if 'scaled' in damage:
         print ("scaled")
         return
+    '''
+    CorDemi Codex has 2 Damage values (use the higher value (Sword/Dagger/Staff)):
+        Basic CorDemi Codex
+        Advanced CorDemi Codex
+        Master CorDemi Codex
+    '''
+    if name == 'Basic CorDemi Codex':
+        damage = '11-15'
+    if name == 'Advanced CorDemi Codex':
+        damage = '25-40'
+    if name == 'Master CorDemi Codex':
+        damage = '35-51'
+
+
 
     damage_low = damage.split("-")[0]
     damage_high = damage.split("-")[1]
-
     # Creates dict of bonuses with key equal to the first word of the bonus (ex. Pierce Def->Pierce)
     bonus_dict = defaultdict(int)
     if bonuses != 'None':
