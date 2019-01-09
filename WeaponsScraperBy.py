@@ -43,22 +43,27 @@ def open_item(html):
 
 
 # Find each item on the page and it to the json file
-def parse_item(html, data):
+def parse_item(html, data, page, row):
     parsed_html = BeautifulSoup(html)
     # Gets every post on the page
     msgs = parsed_html.body.findAll('td', attrs={'class': 'msg'})
-    for msg in msgs:
+    for i in range(len(msgs)):
         # Need to use parent.parent to get the entire message (including the hyperlink)
-        msg = msg.parent.parent
+        msg = msgs[i].parent.parent
 
         if is_item(msg):
             hyperlink = get_link(msg)
             # Handles single message with multiple versions of item which have different stats
             # With the exception of Staff of Whoops (http://forums2.battleon.com/f/tm.asp?m=18792844)
             if msg.getText().lower().count("bonuses:") > 1 and "18792844" not in hyperlink:
-                save_2_items(msg, data, hyperlink)
+                save_2_items(msg, data, hyperlink, page, row)
             else:
-                save_item(msg, data, hyperlink)
+                save_item(msg, data, hyperlink, page, row)
+        elif i == 0:
+            m = ("Page: " + str(page) + ", Row: " + str(row) + "; fields not found\n")
+            print m
+            out = open("weapons" + str(sys.argv[1]) + "errors.txt", "a")
+            out.write(m + "\n")
 
 
 if __name__ == '__main__':
@@ -85,10 +90,10 @@ if __name__ == '__main__':
             # Go through all versions of an item and store it
             item_page = open_item(table_page)
             try:
-                parse_item(item_page, data)
+                parse_item(item_page, data, page, row)
             except (IndexError, ValueError) as e:
                 f = open("weapons" + str(sys.argv[1]) + "errors.txt", "a")
-                f.write("Page: " + str(page) + ", Row: " + str(row) + "\n")
+                f.write("Page: " + str(page) + ", Row: " + str(row) + "; Parsing Error\n")
                 out = open("weapons" + str(sys.argv[1]) + ".txt", "a")
                 out.write(str(e.message)+"\n")
                 print e

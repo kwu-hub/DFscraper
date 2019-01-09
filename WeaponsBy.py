@@ -6,7 +6,7 @@ import sys
 
 # This function should rarely be used
 # It is only used for messages with more than one bonuses value
-def save_2_items(msg, data, hyperlink):
+def save_2_items(msg, data, hyperlink, page, row):
     # This first part determines which item the DC/DA tags are associated with
     # If the image with the tag appears in the first 15 elements, it is associated with first item
     # Otherwise it is associated with the second
@@ -70,6 +70,10 @@ def save_2_items(msg, data, hyperlink):
     item_type = get_type(msg)
     bonuses = get_bonus(msg)
     attack_type = get_type_attack(msg)
+    if attack_type != "magic" and attack_type != "melee" and attack_type != "pierce" and attack_type != "magic/pierce/melee":
+        m = ("Page: " + str(page) + ", Row: " + str(row) + "; Attack Type Error 2\n")
+        out = open("weapons" + str(sys.argv[1]) + "errors.txt", "a")
+        out.write(name + ": " + m + "\n")
     damage = get_damage(msg)
     if 'scaled' in damage:
         print ("scaled")
@@ -264,7 +268,7 @@ def save_2_items(msg, data, hyperlink):
     out.write(str(to_print)+"\n")
 
 
-def save_item(msg, data, hyperlink):
+def save_item(msg, data, hyperlink, page, row):
     name = get_name(msg)
     level = get_level(msg)
     element = get_element(msg)
@@ -274,8 +278,8 @@ def save_item(msg, data, hyperlink):
     damage = get_damage(msg)
 
     if attack_type != "magic" and attack_type != "melee" and attack_type != "pierce" and attack_type != "magic/pierce/melee":
-        m = "attack type error"
-        out = open("weapon" + str(sys.argv[1]) + "errors.txt", "a")
+        m = ("Page: " + str(page) + ", Row: " + str(row) + "; Attack Type Error\n")
+        out = open("weapons" + str(sys.argv[1]) + "errors.txt", "a")
         out.write(name + ": " + m + "\n")
 
     '''
