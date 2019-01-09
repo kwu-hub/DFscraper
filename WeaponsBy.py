@@ -73,6 +73,8 @@ def save_2_items(msg, data, hyperlink):
     damage = get_damage(msg)
     if 'scaled' in damage:
         print ("scaled")
+        out = open("weapons" + str(sys.argv[1]) + ".txt", "a")
+        out.write("scaled" + "\n")
         return
     damage_low = damage.split("-")[0]
     damage_high = damage.split("-")[1]
@@ -167,6 +169,8 @@ def save_2_items(msg, data, hyperlink):
     second_damage = text[second_tag_index_damage + len("damage: "):second_tag_index_element]
     if 'scaled' in second_damage:
         print ("scaled")
+        out = open("weapons" + str(sys.argv[1]) + ".txt", "a")
+        out.write("scaled" + "\n")
         return
     second_damage_low = second_damage.split("-")[0]
     second_damage_high = second_damage.split("-")[1]
@@ -269,6 +273,11 @@ def save_item(msg, data, hyperlink):
     attack_type = get_type_attack(msg)
     damage = get_damage(msg)
 
+    if attack_type != "magic" and attack_type != "melee" and attack_type != "pierce" and attack_type != "magic/pierce/melee":
+        m = "attack type error"
+        out = open("weapon" + str(sys.argv[1]) + "errors.txt", "a")
+        out.write(name + ": " + m + "\n")
+
     '''
     Exceptions
     '''
@@ -280,8 +289,10 @@ def save_item(msg, data, hyperlink):
         Foam Rolith's Hammer
         All 12 Drops from "The Lymcrest Labrynth
     '''
-    if 'scaled' in damage:
+    if 'scaled' in damage.lower():
         print ("scaled")
+        out = open("weapons" + str(sys.argv[1]) + ".txt", "a")
+        out.write("scaled" + "\n")
         return
     '''
     CorDemi Codex has 2 Damage values (use the higher value (Sword/Dagger/Staff)):
