@@ -70,7 +70,8 @@ def save_2_items(msg, data, hyperlink, page, row):
     item_type = get_type(msg)
     bonuses = get_bonus(msg)
     attack_type = get_type_attack(msg)
-    if attack_type != "magic" and attack_type != "melee" and attack_type != "pierce" and attack_type != "magic/pierce/melee":
+    if attack_type != "Magic" and attack_type != "Melee" and attack_type != "Pierce" and \
+            attack_type != "Magic/Pierce/Melee" and attack_type != "Magic/Melee":
         m = ("Page: " + str(page) + ", Row: " + str(row) + "; Attack Type Error 2\n")
         out = open("weapons" + str(sys.argv[1]) + "errors.txt", "a")
         out.write(name + ": " + m + "\n")
@@ -87,6 +88,10 @@ def save_2_items(msg, data, hyperlink, page, row):
     bonus_dict = defaultdict(int)
     if bonuses != 'None':
         for bonus in bonuses.split(', '):
+            if bonus.lower() == bonus and "???" not in bonus:
+                m = ("Page: " + str(page) + ", Row: " + str(row) + "; Case Error\n")
+                out = open("weapons" + str(sys.argv[1]) + "errors.txt", "a")
+                out.write(name + ": " + m + "\n")
             if "+" in bonus:
                 nb = bonus.split("+")
                 bonus_dict[nb[0].split(" ")[0]] = int(nb[1])
@@ -105,46 +110,46 @@ def save_2_items(msg, data, hyperlink, page, row):
             "attack_type": attack_type,
             "link": hyperlink,
 
-            "crit": bonus_dict["crit"],
-            "bonus": bonus_dict["bonus"],
-            "str": bonus_dict["str"],
-            "dex": bonus_dict["dex"],
-            "int": bonus_dict["int"],
-            "cha": bonus_dict["cha"],
-            "luk": bonus_dict["luk"],
-            "melee": bonus_dict["melee"],
-            "pierce": bonus_dict["pierce"],
-            "magic": bonus_dict["magic"],
-            "parry": bonus_dict["parry"],
-            "block": bonus_dict["block"],
-            "dodge": bonus_dict["dodge"],
-            "end": bonus_dict["end"],
-            "wis": bonus_dict["wis"],
+            "crit": bonus_dict["Crit"],
+            "bonus": bonus_dict["Bonus"],
+            "str": bonus_dict["STR"],
+            "dex": bonus_dict["DEX"],
+            "int": bonus_dict["INT"],
+            "cha": bonus_dict["CHA"],
+            "luk": bonus_dict["LUK"],
+            "melee": bonus_dict["Melee"],
+            "pierce": bonus_dict["Pierce"],
+            "magic": bonus_dict["Magic"],
+            "parry": bonus_dict["Parry"],
+            "block": bonus_dict["Block"],
+            "dodge": bonus_dict["Dodge"],
+            "end": bonus_dict["END"],
+            "wis": bonus_dict["WIS"],
 
             "???": bonus_dict["???"],
-            "bacon": bonus_dict["bacon"],
-            "darkness": bonus_dict["darkness"],
-            "disease": bonus_dict["disease"],
-            "energy": bonus_dict["energy"],
-            "evil": bonus_dict["evil"],
-            "fear": bonus_dict["fear"],
-            "fire": bonus_dict["fire"],
-            "good": bonus_dict["good"],
-            "ice": bonus_dict["ice"],
-            "light": bonus_dict["light"],
-            "metal": bonus_dict["metal"],
-            "nature": bonus_dict["nature"],
-            "none": bonus_dict["none"],
-            "poison": bonus_dict["poison"],
-            "silver": bonus_dict["silver"],
-            "stone": bonus_dict["stone"],
-            "water": bonus_dict["water"],
-            "wind": bonus_dict["wind"],
-            "shrink": bonus_dict["shrink"],
-            "immobility": bonus_dict["immobility"],
-            "health": bonus_dict["health"],
-            "mana": bonus_dict["mana"],
-            "all": bonus_dict["all"],
+            "bacon": bonus_dict["Bacon"],
+            "darkness": bonus_dict["Darkness"],
+            "disease": bonus_dict["Disease"],
+            "energy": bonus_dict["Energy"],
+            "evil": bonus_dict["Evil"],
+            "fear": bonus_dict["Fear"],
+            "fire": bonus_dict["Fire"],
+            "good": bonus_dict["Good"],
+            "ice": bonus_dict["Ice"],
+            "light": bonus_dict["Light"],
+            "metal": bonus_dict["Metal"],
+            "nature": bonus_dict["Nature"],
+            "none": bonus_dict["None"],
+            "poison": bonus_dict["Poison"],
+            "silver": bonus_dict["Silver"],
+            "stone": bonus_dict["Stone"],
+            "water": bonus_dict["Water"],
+            "wind": bonus_dict["Wind"],
+            "shrink": bonus_dict["Shrink"],
+            "immobility": bonus_dict["Immobility"],
+            "health": bonus_dict["Health"],
+            "mana": bonus_dict["Mana"],
+            "all": bonus_dict["All"],
 
             "dc": first_dc,
             "da": first_da,
@@ -164,34 +169,38 @@ def save_2_items(msg, data, hyperlink, page, row):
 
     # ---------------------------- Add second item ----------------------------
     # Have to find the second appearance of each of the values
-    text = msg.getText().lower()
-    second_tag_index_level = text.find("level: ", text.find("level: ")+1)
-    second_tag_index_damage = text.find("damage: ", text.find("damage: ")+1)
-    second_tag_index_element = text.find("element: ", text.find("element: ")+1)
-    second_tag_index_bonuses = text.find("bonuses: ", text.find("bonuses: ")+1)
-    second_level = text[second_tag_index_level + len("level: "):second_tag_index_damage]
-    second_damage = text[second_tag_index_damage + len("damage: "):second_tag_index_element]
-    if 'scaled' in second_damage:
-        print ("scaled")
+    text = msg.getText()
+    second_tag_index_level = text.find("Level: ", text.find("Level: ")+1)
+    second_tag_index_damage = text.find("Damage: ", text.find("Damage: ")+1)
+    second_tag_index_element = text.find("Element: ", text.find("Element: ")+1)
+    second_tag_index_bonuses = text.find("Bonuses: ", text.find("Bonuses: ")+1)
+    second_level = text[second_tag_index_level + len("Level: "):second_tag_index_damage]
+    second_damage = text[second_tag_index_damage + len("Damage: "):second_tag_index_element]
+    if 'Scaled' in second_damage:
+        print ("Scaled")
         out = open("weapons" + str(sys.argv[1]) + ".txt", "a")
-        out.write("scaled" + "\n")
+        out.write("Scaled" + "\n")
         return
     second_damage_low = second_damage.split("-")[0]
     second_damage_high = second_damage.split("-")[1]
-    second_element = text[second_tag_index_element + len("element: "):second_tag_index_bonuses]
+    second_element = text[second_tag_index_element + len("Element: "):second_tag_index_bonuses]
 
-    if text[second_tag_index_element:].find("bonuses: none") != -1:
+    if text[second_tag_index_element:].find("Bonuses: None") != -1:
         second_bonuses = 'None'
     else:
         regex = re.compile("([0-9][a-zA-Z])|([0-9],[a-zA-Z])|([0-9]\.[a-zA-Z])")
         m = regex.search(text[second_tag_index_bonuses:])
         second_tag_index_bonuses_end = text.find(m.group(0))+1
-        second_bonuses = text[second_tag_index_bonuses + len("bonuses: "):second_tag_index_bonuses_end]
+        second_bonuses = text[second_tag_index_bonuses + len("Bonuses: "):second_tag_index_bonuses_end]
 
     # Creates dict of bonuses with key equal to the first word of the bonus (ex. Pierce Def->Pierce)
     bonus_dict = defaultdict(int)
     if second_bonuses != 'None':
         for bonus in second_bonuses.split(', '):
+            if bonus.lower() == bonus and "???" not in bonus:
+                m = ("Page: " + str(page) + ", Row: " + str(row) + "; Case Error\n")
+                out = open("weapons" + str(sys.argv[1]) + "errors.txt", "a")
+                out.write(name + ": " + m + "\n")
             if "+" in bonus:
                 nb = bonus.split("+")
                 bonus_dict[nb[0].split(" ")[0]] = int(nb[1])
@@ -210,46 +219,46 @@ def save_2_items(msg, data, hyperlink, page, row):
             "attack_type": attack_type,
             "link": hyperlink,
 
-            "crit": bonus_dict["crit"],
-            "bonus": bonus_dict["bonus"],
-            "str": bonus_dict["str"],
-            "dex": bonus_dict["dex"],
-            "int": bonus_dict["int"],
-            "cha": bonus_dict["cha"],
-            "luk": bonus_dict["luk"],
-            "melee": bonus_dict["melee"],
-            "pierce": bonus_dict["pierce"],
-            "magic": bonus_dict["magic"],
-            "parry": bonus_dict["parry"],
-            "block": bonus_dict["block"],
-            "dodge": bonus_dict["dodge"],
-            "end": bonus_dict["end"],
-            "wis": bonus_dict["wis"],
+            "crit": bonus_dict["Crit"],
+            "bonus": bonus_dict["Bonus"],
+            "str": bonus_dict["STR"],
+            "dex": bonus_dict["DEX"],
+            "int": bonus_dict["INT"],
+            "cha": bonus_dict["CHA"],
+            "luk": bonus_dict["LUK"],
+            "melee": bonus_dict["Melee"],
+            "pierce": bonus_dict["Pierce"],
+            "magic": bonus_dict["Magic"],
+            "parry": bonus_dict["Parry"],
+            "block": bonus_dict["Block"],
+            "dodge": bonus_dict["Dodge"],
+            "end": bonus_dict["END"],
+            "wis": bonus_dict["WIS"],
 
             "???": bonus_dict["???"],
-            "bacon": bonus_dict["bacon"],
-            "darkness": bonus_dict["darkness"],
-            "disease": bonus_dict["disease"],
-            "energy": bonus_dict["energy"],
-            "evil": bonus_dict["evil"],
-            "fear": bonus_dict["fear"],
-            "fire": bonus_dict["fire"],
-            "good": bonus_dict["good"],
-            "ice": bonus_dict["ice"],
-            "light": bonus_dict["light"],
-            "metal": bonus_dict["metal"],
-            "nature": bonus_dict["nature"],
-            "none": bonus_dict["none"],
-            "poison": bonus_dict["poison"],
-            "silver": bonus_dict["silver"],
-            "stone": bonus_dict["stone"],
-            "water": bonus_dict["water"],
-            "wind": bonus_dict["wind"],
-            "shrink": bonus_dict["shrink"],
-            "immobility": bonus_dict["immobility"],
-            "health": bonus_dict["health"],
-            "mana": bonus_dict["mana"],
-            "all": bonus_dict["all"],
+            "bacon": bonus_dict["Bacon"],
+            "darkness": bonus_dict["Darkness"],
+            "disease": bonus_dict["Disease"],
+            "energy": bonus_dict["Energy"],
+            "evil": bonus_dict["Evil"],
+            "fear": bonus_dict["Fear"],
+            "fire": bonus_dict["Fire"],
+            "good": bonus_dict["Good"],
+            "ice": bonus_dict["Ice"],
+            "light": bonus_dict["Light"],
+            "metal": bonus_dict["Metal"],
+            "nature": bonus_dict["Nature"],
+            "none": bonus_dict["None"],
+            "poison": bonus_dict["Poison"],
+            "silver": bonus_dict["Silver"],
+            "stone": bonus_dict["Stone"],
+            "water": bonus_dict["Water"],
+            "wind": bonus_dict["Wind"],
+            "shrink": bonus_dict["Shrink"],
+            "immobility": bonus_dict["Immobility"],
+            "health": bonus_dict["Health"],
+            "mana": bonus_dict["Mana"],
+            "all": bonus_dict["All"],
 
             "dc": second_dc,
             "da": second_da,
@@ -277,7 +286,8 @@ def save_item(msg, data, hyperlink, page, row):
     attack_type = get_type_attack(msg)
     damage = get_damage(msg)
 
-    if attack_type != "magic" and attack_type != "melee" and attack_type != "pierce" and attack_type != "magic/pierce/melee":
+    if attack_type != "Magic" and attack_type != "Melee" and attack_type != "Pierce" \
+            and attack_type != "Magic/Pierce/Melee" and attack_type != "Magic/Melee":
         m = ("Page: " + str(page) + ", Row: " + str(row) + "; Attack Type Error\n")
         out = open("weapons" + str(sys.argv[1]) + "errors.txt", "a")
         out.write(name + ": " + m + "\n")
@@ -294,9 +304,9 @@ def save_item(msg, data, hyperlink, page, row):
         All 12 Drops from "The Lymcrest Labrynth
     '''
     if 'scaled' in damage.lower():
-        print ("scaled")
+        print ("Scaled")
         out = open("weapons" + str(sys.argv[1]) + ".txt", "a")
-        out.write("scaled" + "\n")
+        out.write("Scaled" + "\n")
         return
     '''
     CorDemi Codex has 2 Damage values (use the higher value (Sword/Dagger/Staff)):
@@ -311,14 +321,16 @@ def save_item(msg, data, hyperlink, page, row):
     if name == 'Master CorDemi Codex':
         damage = '35-51'
 
-
-
     damage_low = damage.split("-")[0]
     damage_high = damage.split("-")[1]
     # Creates dict of bonuses with key equal to the first word of the bonus (ex. Pierce Def->Pierce)
     bonus_dict = defaultdict(int)
     if bonuses != 'None':
         for bonus in bonuses.split(', '):
+            if bonus.lower() == bonus and "???" not in bonus:
+                m = ("Page: " + str(page) + ", Row: " + str(row) + "; Case Error\n")
+                out = open("weapons" + str(sys.argv[1]) + "errors.txt", "a")
+                out.write(name + ": " + m + "\n")
             if "+" in bonus:
                 nb = bonus.split("+")
                 bonus_dict[nb[0].split(" ")[0]] = int(nb[1])
@@ -337,46 +349,46 @@ def save_item(msg, data, hyperlink, page, row):
             "attack_type": attack_type,
             "link": hyperlink,
 
-            "crit": bonus_dict["crit"],
-            "bonus": bonus_dict["bonus"],
-            "str": bonus_dict["str"],
-            "dex": bonus_dict["dex"],
-            "int": bonus_dict["int"],
-            "cha": bonus_dict["cha"],
-            "luk": bonus_dict["luk"],
-            "melee": bonus_dict["melee"],
-            "pierce": bonus_dict["pierce"],
-            "magic": bonus_dict["magic"],
-            "parry": bonus_dict["parry"],
-            "block": bonus_dict["block"],
-            "dodge": bonus_dict["dodge"],
-            "end": bonus_dict["end"],
-            "wis": bonus_dict["wis"],
+            "crit": bonus_dict["Crit"],
+            "bonus": bonus_dict["Bonus"],
+            "str": bonus_dict["STR"],
+            "dex": bonus_dict["DEX"],
+            "int": bonus_dict["INT"],
+            "cha": bonus_dict["CHA"],
+            "luk": bonus_dict["LUK"],
+            "melee": bonus_dict["Melee"],
+            "pierce": bonus_dict["Pierce"],
+            "magic": bonus_dict["Magic"],
+            "parry": bonus_dict["Parry"],
+            "block": bonus_dict["Block"],
+            "dodge": bonus_dict["Dodge"],
+            "end": bonus_dict["END"],
+            "wis": bonus_dict["WIS"],
 
             "???": bonus_dict["???"],
-            "bacon": bonus_dict["bacon"],
-            "darkness": bonus_dict["darkness"],
-            "disease": bonus_dict["disease"],
-            "energy": bonus_dict["energy"],
-            "evil": bonus_dict["evil"],
-            "fear": bonus_dict["fear"],
-            "fire": bonus_dict["fire"],
-            "good": bonus_dict["good"],
-            "ice": bonus_dict["ice"],
-            "light": bonus_dict["light"],
-            "metal": bonus_dict["metal"],
-            "nature": bonus_dict["nature"],
-            "none": bonus_dict["none"],
-            "poison": bonus_dict["poison"],
-            "silver": bonus_dict["silver"],
-            "stone": bonus_dict["stone"],
-            "water": bonus_dict["water"],
-            "wind": bonus_dict["wind"],
-            "shrink": bonus_dict["shrink"],
-            "immobility": bonus_dict["immobility"],
-            "health": bonus_dict["health"],
-            "mana": bonus_dict["mana"],
-            "all": bonus_dict["all"],
+            "bacon": bonus_dict["Bacon"],
+            "darkness": bonus_dict["Darkness"],
+            "disease": bonus_dict["Disease"],
+            "energy": bonus_dict["Energy"],
+            "evil": bonus_dict["Evil"],
+            "fear": bonus_dict["Fear"],
+            "fire": bonus_dict["Fire"],
+            "good": bonus_dict["Good"],
+            "ice": bonus_dict["Ice"],
+            "light": bonus_dict["Light"],
+            "metal": bonus_dict["Metal"],
+            "nature": bonus_dict["Nature"],
+            "none": bonus_dict["None"],
+            "poison": bonus_dict["Poison"],
+            "silver": bonus_dict["Silver"],
+            "stone": bonus_dict["Stone"],
+            "water": bonus_dict["Water"],
+            "wind": bonus_dict["Wind"],
+            "shrink": bonus_dict["Shrink"],
+            "immobility": bonus_dict["Immobility"],
+            "health": bonus_dict["Health"],
+            "mana": bonus_dict["Mana"],
+            "all": bonus_dict["All"],
 
             "dc": is_dc(msg),
             "da": is_da(msg),
@@ -397,20 +409,20 @@ def save_item(msg, data, hyperlink, page, row):
 
 # Determines if the message received contains the attributes of an item
 def is_item(html):
-    return 'equip spot:' in html.text.lower() and 'category: ' in html.text.lower() and 'level: ' in html.text.lower() \
-           and 'bonuses: ' in html.text.lower()
+    return 'Equip Spot:' in html.text and 'Category: ' in html.text and 'Level: ' in html.text \
+           and 'Bonuses: ' in html.text
 
 
 # Helper function used to find the specific value between the text of 2 different tags
 def find_between_tags(html, tag, next_tag):
-    text = html.getText().lower()
+    text = html.getText()
 
     # Handles the unknown text that follows bonuses (Effect, Ability, DC, etc.) Comedy Cloak (page 13)
     # The bonuses category ends with a number and is followed by a letter that is the next category
     # The code finds that index and gets values in between
     if next_tag == "bonus_case":
         # Handles items without bonuses
-        if text.find("bonuses: none") != -1:
+        if text.find("Bonuses: None") != -1:
             return 'None'
         text = text[text.find(tag) + len(tag):]
         regex = re.compile("([0-9][a-zA-Z])|([0-9],[a-zA-Z])|([0-9]\.[a-zA-Z])")
@@ -439,37 +451,37 @@ def get_name(html):
 
 
 def get_level(html):
-    tag = 'level: '
-    next_tag = 'damage: '
+    tag = 'Level: '
+    next_tag = 'Damage: '
     return find_between_tags(html, tag, next_tag)
 
 
 def get_damage(html):
-    tag = 'damage: '
-    next_tag = 'element: '
+    tag = 'Damage: '
+    next_tag = 'Element: '
     return find_between_tags(html, tag, next_tag)
 
 
 def get_element(html):
-    tag = 'element: '
-    next_tag = 'bonuses: '
+    tag = 'Element: '
+    next_tag = 'Bonuses: '
     return find_between_tags(html, tag, next_tag)
 
 
 def get_bonus(html):
-    tag = 'bonuses: '
+    tag = 'Bonuses: '
     return find_between_tags(html, tag, "bonus_case")
 
 
 def get_type(html):
-    tag = 'item type: '
-    next_tag = 'attack type: '
+    tag = 'Item Type: '
+    next_tag = 'Attack Type: '
     return find_between_tags(html, tag, next_tag)
 
 
 def get_type_attack(html):
-    tag = 'attack type: '
-    next_tag = 'category: '
+    tag = 'Attack Type: '
+    next_tag = 'Category: '
     return find_between_tags(html, tag, next_tag)
 
 
