@@ -263,6 +263,13 @@ def save_item(msg, data, hyperlink, page, row):
     item_type = get_type(msg)
     bonuses = get_bonus(msg)
 
+    '''
+    Exceptions due to typos in the forums
+    Patrick's Emerald Green Hat: has 2 spaces after "Equip Spot:" instead of 1
+    '''
+    if name == "Patrick's Emerald Green Hat":
+        equip = "Head"
+
     if equip != "Head" and equip != "Neck" and equip != "Armor" \
             and equip != "Back" and equip != "Trinket" \
             and equip != "Finger" and equip != "Waist" \
@@ -271,12 +278,6 @@ def save_item(msg, data, hyperlink, page, row):
         out = open("accessories" + str(sys.argv[1]) + "errors.txt", "a")
         out.write(name + ": " + m + "\n")
 
-    '''
-    Exceptions due to typos in the forums
-    Patrick's Emerald Green Hat: has 2 spaces after "Equip Spot:" instead of 1
-    '''
-    if name == "Patrick's Emerald Green Hat":
-        equip = "head"
 
     # Creates dict of bonuses with key equal to the first word of the bonus (ex. Pierce Def->Pierce)
     bonus_dict = defaultdict(int)
