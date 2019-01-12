@@ -261,7 +261,11 @@ def save_item(msg, data, hyperlink, page, row):
     level = get_level(msg)
     element = get_element(msg)
     item_type = get_type(msg)
-    bonuses = get_bonus(msg)
+    if name == "Glowing Helm of Destiny":
+        bonuses = "Crit +2, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, CHA +2, INT +4, DEX +4, STR +4, " \
+                  "Bonus +2, Poison +2, Disease +2, Darkness +5, Evil +5"
+    else:
+        bonuses = get_bonus(msg)
 
     '''
     Exceptions due to typos in the forums
