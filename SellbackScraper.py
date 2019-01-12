@@ -2,7 +2,7 @@ import urllib2
 import json
 
 from BeautifulSoup import BeautifulSoup
-from AccessoryBy import *
+from Sellback import *
 
 ROW_LINKS_TO_SKIP_ON_FIRST_PAGE = int(sys.argv[2])
 STARTING_PAGE = int(sys.argv[1])
@@ -20,8 +20,6 @@ def open_page(page_number):
                 break
         except Exception as inst:
             print inst
-            out = open("accessories" + str(sys.argv[1]) + ".txt", "a")
-            out.write(str(inst) + "\n")
     return html_source
 
 
@@ -37,8 +35,6 @@ def open_item(html):
                 break
         except Exception as inst:
             print inst
-            out = open("accessories" + str(sys.argv[1]) + ".txt", "a")
-            out.write(str(inst) + "\n")
     return html_source
 
 
@@ -54,14 +50,11 @@ def parse_item(html, data, page, row):
         if is_item(msg):
             hyperlink = get_link(msg)
             # Handles single message with multiple versions of item which have different stats
-            if msg.getText().lower().count("bonuses:") > 1:
-                save_2_items(msg, data, hyperlink, page, row)
-            else:
-                save_item(msg, data, hyperlink, page, row)
+            find_sellback(msg, page, row, hyperlink)
         elif i == 0:
             m = ("Page: " + str(page) + ", Row: " + str(row) + "; fields not found\n")
             print m
-            out = open("accessories" + str(sys.argv[1]) + "errors.txt", "a")
+            out = open("sellback" + str(sys.argv[1]) + "errors.txt", "a")
             out.write(m + "\n")
 
 
@@ -73,9 +66,6 @@ if __name__ == '__main__':
         for row in range(1, rows + 1):
             index = "\nPage: " + str(page) + ", Row: " + str(row)
             print index
-            out = open("accessories" + str(sys.argv[1]) + ".txt", "a")
-            out.write(str(index)+"\n")
-            out.close()
 
             # Find first instance of an accessory link in html range
             # When found, we take a substring of the index+1 (removing '<') so exact string is not found again
@@ -91,12 +81,8 @@ if __name__ == '__main__':
             try:
                 parse_item(item_page, data, page, row)
             except (IndexError, ValueError) as e:
-                f = open("accessories" + str(sys.argv[1]) + "errors.txt", "a")
+                f = open("sellback" + str(sys.argv[1]) + "errors.txt", "a")
                 f.write("Page: " + str(page) + ", Row: " + str(row) + "; Parsing Error\n")
-                out = open("accessories" + str(sys.argv[1]) + ".txt", "a")
-                out.write(str(e.message)+"\n")
                 print e
 
-    with open('accessories'+str(sys.argv[1])+'.json', 'w') as outfile:
-        json.dump(data, outfile)
     exit()

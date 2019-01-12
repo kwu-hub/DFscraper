@@ -4,6 +4,18 @@ from collections import defaultdict
 import sys
 
 
+def find_sellback(msg, page, row, link):
+    name = get_name(msg)
+    level = get_level(msg)
+    sellback = get_sellback(msg)
+    to_print = name + " (Level: " + level + "): " + sellback
+    print to_print
+    if "dcs" in sellback.lower() or "within" in sellback.lower():
+        error_message = to_print + "\n" + link + "\n" + str(page) + "," + str(row)
+        out = open("sellback" + str(sys.argv[1]) + ".txt", "a")
+        out.write(str(error_message) + "\n\n")
+
+
 # This function should rarely be used
 # It is only used for messages with more than one bonuses value
 def save_2_items(msg, data, hyperlink, page, row):
@@ -497,6 +509,12 @@ def get_bonus(html):
 def get_element(html):
     tag = 'Element: '
     next_tag = 'Bonuses: '
+    return find_between_tags(html, tag, next_tag)
+
+
+def get_sellback(html):
+    tag = 'Sellback: '
+    next_tag = 'Level: '
     return find_between_tags(html, tag, next_tag)
 
 
