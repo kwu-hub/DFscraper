@@ -282,7 +282,6 @@ def save_item(msg, data, hyperlink, page, row):
         out = open("accessories" + str(sys.argv[1]) + "errors.txt", "a")
         out.write(name + ": " + m + "\n")
 
-
     # Creates dict of bonuses with key equal to the first word of the bonus (ex. Pierce Def->Pierce)
     bonus_dict = defaultdict(int)
     if bonuses != 'None':

@@ -49,7 +49,7 @@ def save_2_items(msg, data, hyperlink, page, row):
                         second_da = True
                     if "DC" in imgs:
                         second_dc = True
-                    if "Rare" in imgs :
+                    if "Rare" in imgs:
                         second_rare = True
                     if "Seasonal" in imgs:
                         second_seasonal = True
