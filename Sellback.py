@@ -7,13 +7,31 @@ import sys
 def find_sellback(msg, page, row, link):
     name = get_name(msg)
     level = get_level(msg)
-    sellback = get_sellback(msg)
+    msg_contents = msg.find("td", attrs={'class': 'msg'}).contents
+    to_print = name + " (Level: " + level + "): "
+    for m in msg_contents:
+        if "sellback" in m:
+            error_message = to_print + "\nsellback is lowercase" + "\n"+ link + "\n" + str(page) + "," + str(row)
+            out = open("sellback" + str(sys.argv[1]) + ".txt", "a")
+            out.write(str(error_message) + "\n\n")
+            print error_message
+        if "Sellback" in m:
+            to_print = to_print + m
+            print to_print
+            if "DCs" in m or "within" in m:
+                correction = m.replace("DCs", "DragonCoins")
+                correction = correction.replace("within", "before")
+                error_message = to_print + "\n" + link + "\n" + str(page) + "," + str(row) + "\n" + correction
+                out = open("sellback" + str(sys.argv[1]) + ".txt", "a")
+                out.write(str(error_message) + "\n\n")
+    '''
     to_print = name + " (Level: " + level + "): " + sellback
     print to_print
     if "dcs" in sellback.lower() or "within" in sellback.lower():
         error_message = to_print + "\n" + link + "\n" + str(page) + "," + str(row)
         out = open("sellback" + str(sys.argv[1]) + ".txt", "a")
         out.write(str(error_message) + "\n\n")
+    '''
 
 
 # This function should rarely be used
