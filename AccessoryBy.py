@@ -382,7 +382,7 @@ def save_item(msg, data, hyperlink, page, row):
         "Poison": bonus_dict["Poison"],
         "Silver": bonus_dict["Silver"],
         "Stone": bonus_dict["Stone"],
-        "water": bonus_dict["Water"],
+        "Water": bonus_dict["Water"],
         "Wind": bonus_dict["Wind"],
         "Shrink": bonus_dict["Shrink"],
         "Immobility": bonus_dict["Immobility"],
