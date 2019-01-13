@@ -22,6 +22,11 @@ python AccessoryScraperBy.py 11 0 9
 python AccessoryScraperBy.py 81 0 0
 ```
 WeaponsBy.py and AccessoryBy.py contain helper functions.
+####After getting multiple json files from running simultaneous processes, use JSONjoin.py to merge them all into 1 file
+The argument it takes in is the directory that all the JSON files are stored.
+```commandline
+python JSONjoin.py Weapoons
+```
 
 ####What I did with the data
-Use power query in Excel to convert the json to sheets
+Use power query in Excel to convert the json to sheets which are uploaded to google sheets
