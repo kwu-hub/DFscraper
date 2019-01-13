@@ -21,5 +21,7 @@ python AccessoryScraperBy.py 11 0 9
 .
 python AccessoryScraperBy.py 81 0 0
 ```
-
 WeaponsBy.py and AccessoryBy.py contain helper functions.
+
+####What I did with the data
+Use power query in Excel to convert the json to sheets
