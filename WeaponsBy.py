@@ -101,10 +101,10 @@ def save_2_items(msg, data, hyperlink, page, row):
 
     data[attack_type].append({
         "Name": name,
-        "Damage": str((float(damage_high)+float(damage_low))//2),
-        "Level": level,
-        "Damage Low": damage_low,
-        "Damage High": damage_high,
+        "Damage": int(str((float(damage_high)+float(damage_low))//2)),
+        "Level": int(level),
+        "Damage Low": int(damage_low),
+        "Damage High": int(damage_high),
         "Element": element,
         "Item Type": item_type,
         "Attack Type": attack_type,
@@ -233,10 +233,10 @@ def save_2_items(msg, data, hyperlink, page, row):
 
     data[attack_type].append({
         "Name": name,
-        "Damage": str((float(second_damage_high)+float(second_damage_low))/2.0),
-        "Level": second_level,
-        "Damage Low": second_damage_low,
-        "Damage High": second_damage_high,
+        "Damage": int(str((float(second_damage_high)+float(second_damage_low))/2.0)),
+        "Level": int(second_level),
+        "Damage Low": int(second_damage_low),
+        "Damage High": int(second_damage_high),
         "Element": second_element,
         "Item Type": item_type,
         "Attack Type": attack_type,
@@ -391,10 +391,10 @@ def save_item(msg, data, hyperlink, page, row):
 
     data[attack_type].append({
         "Name": name,
-        "Damage": str((float(damage_high)+float(damage_low))//2),
-        "Level": level,
-        "Damage Low": damage_low,
-        "Damage High": damage_high,
+        "Damage": int(str((float(damage_high)+float(damage_low))//2)),
+        "Level": int(level),
+        "Damage Low": int(damage_low),
+        "Damage High": int(damage_high),
         "Element": element,
         "Item Type": item_type,
         "Attack Type": attack_type,

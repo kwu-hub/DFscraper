@@ -97,7 +97,7 @@ def save_2_items(msg, data, hyperlink, page, row):
     data[equip].append({
         "Equip Spot": equip,
         "Name": name,
-        "Level": level,
+        "Level": int(level),
         "Link": hyperlink,
         "Element": element,
         "Item Type": item_type,
@@ -215,7 +215,7 @@ def save_2_items(msg, data, hyperlink, page, row):
     data[equip].append({
         "Equip Spot": equip,
         "Name": name,
-        "Level": second_level,
+        "Level": int(second_level),
         "Link": hyperlink,
         "Element": second_element,
         "Item Type": item_type,
@@ -344,7 +344,7 @@ def save_item(msg, data, hyperlink, page, row):
     data[equip].append({
         "Equip Spot": equip,
         "Name": name,
-        "Level": level,
+        "Level": int(level),
         "Link": hyperlink,
         "Element": element,
         "Item Type": item_type,
