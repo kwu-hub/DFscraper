@@ -465,13 +465,13 @@ def save_item(msg, data, hyperlink, page, row):
         "Health+All": int(bonus_dict["Health"])+int(bonus_dict["All"]),
         "Mana+All": int(bonus_dict["Mana"])+int(bonus_dict["All"]),
 
-        "dc": is_dc(msg),
-        "da": is_da(msg),
-        "rare": is_rare(msg),
-        "seasonal": is_seasonal(msg),
-        "so": is_so(msg),
-        "dm": is_dm(msg),
-        "g": is_g(msg),
+        "DC": is_dc(msg),
+        "DA": is_da(msg),
+        "Rare": is_rare(msg),
+        "Seasonal": is_seasonal(msg),
+        "Special Offer": is_so(msg),
+        "DM": is_dm(msg),
+        "Guardian": is_g(msg),
 
         "Has Special": has_special(msg)
     })
@@ -574,48 +574,48 @@ def get_link(html):
 # If tag count is neither, then it is optional (it only shows up on some of the entries)
 # Assumes Guardian, Special Offer, DM has no optional
 def is_dc(html):
-    images = len(html.findAll('img', src=re.compile("DC\.((jpg)|(png))")))
+    images = len(html.findAll('img', src=re.compile("DC\.((jpg)|(png))", re.I)))
     entry_count = html.getText().lower().count('price:')
     if (images < entry_count) and entry_count > 1 and images != 0:
         return "optional"
-    return html.find('img', src=re.compile("DC\.((jpg)|(png))")) is not None
+    return html.find('img', src=re.compile("DC\.((jpg)|(png))", re.I)) is not None
 
 
 def is_rare(html):
-    images = len(html.findAll('img', src=re.compile("Rare\.((jpg)|(png))")))
+    images = len(html.findAll('img', src=re.compile("Rare\.((jpg)|(png))", re.I)))
     entry_count = html.getText().lower().count('price:')
     if (images < entry_count) and entry_count > 1 and images != 0:
         return "optional"
-    return html.find('img', src=re.compile("Rare\.((jpg)|(png))")) is not None
+    return html.find('img', src=re.compile("Rare\.((jpg)|(png))", re.I)) is not None
 
 
 def is_seasonal(html):
-    images = len(html.findAll('img', src=re.compile("Seasonal\.((jpg)|(png))")))
+    images = len(html.findAll('img', src=re.compile("Seasonal\.((jpg)|(png))", re.I)))
     entry_count = html.getText().lower().count('price:')
     if (images < entry_count) and entry_count > 1 and images != 0:
         return "optional"
-    return html.find('img', src=re.compile("Seasonal\.((jpg)|(png))")) is not None
+    return html.find('img', src=re.compile("Seasonal\.((jpg)|(png))", re.I)) is not None
 
 
 def is_da(html):
-    images = len(html.findAll('img', src=re.compile("DA\.((jpg)|(png))")))
+    images = len(html.findAll('img', src=re.compile("DA\.((jpg)|(png))", re.I)))
     entry_count = html.getText().lower().count('price:')
     if (images < entry_count) and entry_count > 1 and images != 0:
         return "optional"
-    return html.find('img', src=re.compile("DA\.((jpg)|(png))")) is not None
+    return html.find('img', src=re.compile("DA\.((jpg)|(png))", re.I)) is not None
 
 
 def is_so(html):
-    return (html.find('img', src=re.compile("SpecialOffer\.((jpg)|(png))")) is not None) \
-           or (html.find('img', src=re.compile("DoomKnight\.((jpg)|(png))")) is not None)
+    return (html.find('img', src=re.compile("SpecialOffer\.((jpg)|(png))", re.I)) is not None) \
+           or (html.find('img', src=re.compile("DoomKnight\.((jpg)|(png))", re.I)) is not None)
 
 
 def is_dm(html):
-    return html.find('img', src=re.compile("DM\.((jpg)|(png))")) is not None
+    return html.find('img', src=re.compile("DM\.((jpg)|(png))", re.I)) is not None
 
 
 def is_g(html):
-    return html.find('img', src=re.compile("Guardian\.((jpg)|(png))")) is not None
+    return html.find('img', src=re.compile("Guardian\.((jpg)|(png))", re.I)) is not None
 
 
 def has_special(html):
