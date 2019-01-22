@@ -1,0 +1,351 @@
+
+Page: 141, Row: 1
+Wicked Blackwyn Daggers (Level: 50): Pierce|59-73|Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, DEX +7, Bonus +4, Immobility +2, Poison +3, Disease +3, Ice +6, Darkness +6|
+
+Page: 141, Row: 2
+Wicked Blackwyn Staff (Level: 50): Magic|59-73|Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, INT +7, Bonus +4, Immobility +2, Poison +3, Disease +3, Ice +6, Darkness +6|
+
+Page: 141, Row: 3
+Wicked Scimitar (Level: 80): Magic/Pierce/Melee|74-102|Block +1, Dodge +1, Parry +2, Crit +11, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +8, END +6, CHA +8, LUK -4, INT +12, DEX +12, STR +12, Bonus +9, Health -4, Poison +8, Darkness +8, Fire +9, Water +9|
+
+Page: 141, Row: 4
+Widemeadow Basher (Level: 3): Melee|9-23|None|
+
+Page: 141, Row: 5
+Wildfire (Level: 17): Melee|34-40|None|
+
+Page: 141, Row: 6
+HTTP Error 504: Gateway Timeout
+Wildwood Slash I (Level: 17): Pierce|36-44|Crit +2, CHA +2, LUK +2, DEX +2, Bonus +2, Darkness +3, Light +3|
+Wildwood Slash II (Level: 31): Pierce|41-63|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, CHA +2, LUK +2, DEX +3, Bonus +3, Darkness +5, Light +5|
+Wildwood Slash III (Level: 47): Pierce|57-73|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +4, END +4, CHA +3, LUK +3, DEX +3, Bonus +4, Immobility +2, Darkness +7, Light +7|
+Wildwood Slash IV (Level: 63): Pierce|68-88|Block +1, Parry +1, Crit +6, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +6, END +6, CHA +4, LUK +4, INT +4, Bonus +6, Health -3, Immobility +3, Darkness +10, Light +10|
+
+Page: 141, Row: 7
+Willshaper (Level: 5): Magic|8-30|None|
+
+Page: 141, Row: 8
+Winds of Lore (Level: 3): Magic|6-20|Magic Def +3, Pierce Def +3, Melee Def +3|
+
+Page: 141, Row: 9
+Wing of Justice I (Level: 10): Magic/Pierce/Melee|21-35|Crit +1, WIS +1, END +1, INT +1, DEX +1, STR +1, Bonus +1, Health -1, Darkness +2|
+Wing of Justice II (Level: 20): Magic/Pierce/Melee|29-53|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +1, LUK +1, INT +1, DEX +1, STR +1, Bonus +1, Health -1, Darkness +3|
+Wing of Justice III (Level: 30): Magic/Pierce/Melee|42-60|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +1, END +1, CHA +1, LUK +1, INT +3, DEX +3, STR +3, Bonus +3, Health -1, Energy +3, Darkness +3|
+Wing of Justice IV (Level: 40): Magic/Pierce/Melee|50-72|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, CHA +2, LUK +2, INT +4, DEX +4, STR +4, Bonus +4, Health -1, Water +2, Energy +4, Darkness +4|
+Wing of Justice V (Level: 50): Magic/Pierce/Melee|61-75|Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, CHA +4, LUK +4, INT +6, DEX +6, STR +6, Bonus +5, Health -2, Water +3, Energy +4, Darkness +4|
+Wing of Justice VI (Level: 60): Magic/Pierce/Melee|62-88|Parry +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, CHA +5, LUK +5, INT +8, DEX +8, STR +8, Bonus +6, Health -2, Water +4, Energy +5, Darkness +5|
+Wing of Justice VII (Level: 70): Magic/Pierce/Melee|72-90|Dodge +1, Parry +1, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +6, LUK +6, INT +9, DEX +9, STR +9, Bonus +7, Health -2, Ice +4, Water +5, Energy +5, Darkness +5|
+Wing of Justice VIII (Level: 73): Magic/Pierce/Melee|76-92|Block +1, Dodge +1, Parry +1, Crit +9, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +6, CHA +6, LUK +6, INT +10, DEX +10, STR +10, Bonus +8, Health -3, Ice +5, Water +5, Energy +6, Darkness +6|
+Wing of Justice IX (Level: 75): Magic/Pierce/Melee|76-94|Block +1, Dodge +1, Parry +1, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, END +6, CHA +6, LUK +6, INT +10, DEX +10, STR +10, Bonus +8, Health -3, Ice +6, Water +6, Energy +7, Darkness +7|
+Wing of Justice X (Level: 78): Magic/Pierce/Melee|73-101|Block +1, Dodge +1, Parry +1, Crit +10, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, CHA +6, LUK +6, INT +11, DEX +11, STR +11, Bonus +8, Health -3, Ice +7, Water +7, Energy +8, Darkness +8|
+Wing of Justice XI (Level: 80): Magic/Pierce/Melee|74-102|Block +1, Dodge +1, Parry +2, Crit +11, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, CHA +6, LUK +6, INT +12, DEX +12, STR +12, Bonus +9, Health -4, Ice +8, Water +8, Energy +9, Darkness +9|
+
+Page: 141, Row: 10
+Winged Blade (Level: 16): Melee|36-42|Crit +2|
+
+Page: 141, Row: 11
+Winning Luck O' the Sneevish (Level: 71): Melee|78-94|Block +1, Dodge +2, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +10, END +8, CHA +5, LUK +9, STR +10, Bonus +9, All +3, Immobility +6, Silver +6, Light +10, Wind +10, Stone +10|
+
+Page: 141, Row: 12
+Winning Luck O' the Sneevish Blade (Level: 71): Pierce|78-94|Block +1, Dodge +2, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +10, END +8, CHA +5, LUK +9, DEX +10, Bonus +9, All +3, Immobility +6, Silver +6, Light +10, Wind +10, Stone +10|
+
+Page: 141, Row: 13
+Winning Luck O' the Sneevish Staff (Level: 71): Magic|78-94|Block +1, Dodge +2, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +10, END +8, CHA +5, LUK +9, INT +10, Bonus +9, All +3, Immobility +6, Silver +6, Light +10, Wind +10, Stone +10|
+
+Page: 141, Row: 14
+Wintry Icicle Scythe (Level: 20): Magic/Pierce/Melee|33-51|Crit +2, END +2, Bonus +2, Fire +3, Ice +3|
+
+Page: 141, Row: 15
+Withering Cherry Blossom (Level: 31): Magic|40-66|None|
+
+Page: 141, Row: 16
+HTTP Error 504: Gateway Timeout
+Withering staff (Level: 8): Magic|8-46|Crit +3|
+
+Page: 141, Row: 17
+The Wizard's Scepter (Level: 20): Magic|31-47|Melee Def +1, INT +1|
+
+Page: 141, Row: 18
+Wizard's Worth (Level: 35): Magic|49-65|Crit +3, Magic Def +3, END +4, Bonus +3, Wind +4|
+
+Page: 141, Row: 19
+Wondrous Blinding Light of Destiny (Level: 50): Melee|66-96|Block +4, Dodge +4, Parry +4, Crit +8, WIS +6, END +6, CHA +4, LUK +10, STR +10, Bonus +8, Health -8, All +4|
+
+Page: 141, Row: 20
+HTTP Error 504: Gateway Timeout
+Wondrous DragonStaff of Destiny (Level: 50): Magic|66-96|Block +4, Dodge +4, Parry +4, Crit +8, WIS +6, END +6, CHA +4, LUK +10, INT +10, Bonus +8, Health -8, All +4|
+
+Page: 141, Row: 21
+HTTP Error 504: Gateway Timeout
+HTTP Error 504: Gateway Timeout
+Wondrous Twin Blades of Destiny (Level: 50): Pierce|66-96|Block +4, Dodge +4, Parry +4, Crit +8, WIS +6, END +6, CHA +4, LUK +10, DEX +10, Bonus +8, Health -8, All +4|
+
+Page: 141, Row: 22
+Woodchuck (Level: 3): Melee|15-15|Bonus +10|
+
+Page: 141, Row: 23
+Wooden Sword of Doom I (Level: 20): Magic/Pierce/Melee|30-54|Crit +3, LUK +2, INT +2, DEX +2, STR +2, Bonus +3, Light +1, Darkness +1|
+Wooden Sword of Doom II (Level: 40): Magic/Pierce/Melee|49-73|Crit +6, LUK +4, INT +5, DEX +5, STR +5, Bonus +6, Light +3, Darkness +3|
+Wooden Sword of Doom III (Level: 60): Magic/Pierce/Melee|63-87|Crit +10, LUK +6, INT +8, DEX +8, STR +8, Bonus +10, Light +5, Darkness +5|
+Wooden Sword of Doom IV (Level: 80): Magic/Pierce/Melee|77-101|Crit +14, LUK +8, INT +14, DEX +14, STR +14, Bonus +14, Light +5, Darkness +5|
+
+Page: 141, Row: 24
+HTTP Error 504: Gateway Timeout
+HTTP Error 504: Gateway Timeout
+Woodman's Cutting Dagger (Level: 52): Pierce|56-80|Parry +1, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +3, CHA +6, DEX +4, Bonus +3, Health -1, Darkness +4, Water +4, Nature +5|
+
+Page: 141, Row: 25
+Woodman's Dagger (Level: 22): Pierce|29-55|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +2, DEX +2, Darkness +1, Water +2, Nature +2|
+
+Page: 141, Row: 26
+Woodman's Dangerous Dagger (Level: 72): Pierce|66-102|Block +1, Dodge +2, Parry +1, Crit +8, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +4, END +5, CHA +10, DEX +9, Bonus +4, Immobility +2, Health -4, Darkness +8, Water +8, Nature +10|
+
+Page: 141, Row: 27
+Woodman's Keen Dagger (Level: 32): Pierce|43-61|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +1, END +2, CHA +4, DEX +2, Bonus +1, Darkness +2, Water +3, Nature +4|
+
+Page: 141, Row: 28
+Woodman's Skinning Dagger (Level: 62): Pierce|61-87|Dodge +1, Parry +1, Crit +6, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, END +3, CHA +8, DEX +6, Bonus +3, Health -2, Darkness +5, Water +5, Nature +7|
+
+Page: 141, Row: 29
+Woodman's Slicing Dagger (Level: 42): Pierce|44-76|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, CHA +6, DEX +3, Bonus +2, Health -1, Darkness +3, Water +3, Nature +4|
+
+Page: 141, Row: 30
+Woodsman's Axe (Level: 22): Melee|29-55|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +2, STR +2, Darkness +1, Water +2, Nature +2|
+HTTP Error 504: Gateway Timeout
+
+Page: 142, Row: 1
+Woodsman's Bloody Axe (Level: 72): Melee|66-102|Block +1, Dodge +2, Parry +1, Crit +8, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +4, END +5, CHA +10, STR +9, Bonus +4, Immobility +2, Health -4, Darkness +8, Water +8, Nature +10|
+
+Page: 142, Row: 2
+Woodsman's Heavy Axe (Level: 32): Melee|43-61|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +1, END +2, CHA +4, STR +2, Bonus +1, Darkness +2, Water +3, Nature +4|
+
+Page: 142, Row: 3
+Woodsman's Hefty Axe (Level: 42): Melee|44-76|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, CHA +6, STR +3, Bonus +2, Health -1, Darkness +3, Water +3, Nature +4|
+
+Page: 142, Row: 4
+Woodsman's Sharp Axe (Level: 52): Melee|56-80|Parry +1, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +3, CHA +6, STR +4, Bonus +3, Health -1, Darkness +4, Water +4, Nature +5|
+
+Page: 142, Row: 5
+Woodsman's Strong Axe (Level: 62): Melee|61-87|Dodge +1, Parry +1, Crit +6, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, END +3, CHA +8, STR +6, Bonus +3, Health -2, Darkness +5, Water +5, Nature +7|
+
+Page: 142, Row: 6
+Woodwright (Level: 1): Melee|1-19|None|
+
+Page: 142, Row: 7
+The Worldlever (Level: 32): Magic|48-60|Bonus +3|
+
+Page: 142, Row: 8
+HTTP Error 504: Gateway Timeout
+Worldstaff (Level: 20): Magic|24-64|Crit +2, Stone +5|
+
+Page: 142, Row: 9
+Wormwood's Axe (Level: 15): Melee|22-46|WIS +1, CHA +1, STR +1, Fire +1, Nature +1|
+Wormwood's Axe (Level: 25): Melee|34-56|Crit +2, WIS +2, CHA +2, STR +2, Bonus +2, Fire +1, Nature +1|
+Wormwood's Axe (Level: 35): Melee|43-67|Crit +3, WIS +3, CHA +3, STR +3, Bonus +3, Fire +2, Nature +2|
+Wormwood's Axe (Level: 45): Melee|51-75|Block +1, Dodge +1, Parry +1, Crit +4, WIS +4, CHA +4, STR +6, Bonus +4, Fire +3, Nature +3|
+Wormwood's Axe (Level: 55): Melee|58-82|Block +2, Dodge +2, Parry +2, Crit +5, WIS +5, CHA +5, STR +7, Bonus +5, Fire +4, Nature +4|
+Wormwood's Axe (Level: 65): Melee|66-90|Block +4, Dodge +4, Parry +4, Crit +6, WIS +6, CHA +6, STR +9, Bonus +6, Fire +5, Nature +5|
+Wormwood's Axe (Level: 75): Melee|71-95|Block +5, Dodge +5, Parry +5, Crit +7, WIS +7, CHA +7, STR +12, Bonus +7, Fire +6, Nature +6|
+Wormwood's Axe (Level: 85): Melee|80-104|Block +8, Dodge +8, Parry +8, Crit +8, WIS +8, CHA +8, STR +14, Bonus +8, Fire +7, Nature +7|
+
+Page: 142, Row: 10
+Wormwood's Dagger (Level: 15): Pierce|22-46|WIS +1, CHA +1, DEX +1, Fire +1, Nature +1|
+Wormwood's Dagger (Level: 25): Pierce|34-56|Crit +2, WIS +2, CHA +2, DEX +2, Bonus +2, Fire +1, Nature +1|
+Wormwood's Dagger (Level: 35): Pierce|43-67|Crit +3, WIS +3, CHA +3, DEX +3, Bonus +3, Fire +2, Nature +2|
+Wormwood's Dagger (Level: 45): Pierce|51-75|Block +1, Dodge +1, Parry +1, Crit +4, WIS +4, CHA +4, DEX +6, Bonus +4, Fire +3, Nature +3|
+Wormwood's Dagger (Level: 55): Pierce|58-82|Block +2, Dodge +2, Parry +2, Crit +5, WIS +5, CHA +5, DEX +7, Bonus +5, Fire +4, Nature +4|
+Wormwood's Dagger (Level: 65): Pierce|66-90|Block +4, Dodge +4, Parry +4, Crit +6, WIS +6, CHA +6, DEX +9, Bonus +6, Fire +5, Nature +5|
+Wormwood's Dagger (Level: 75): Pierce|71-95|Block +5, Dodge +5, Parry +5, Crit +7, WIS +7, CHA +7, DEX +12, Bonus +7, Fire +6, Nature +6|
+Wormwood's Dagger (Level: 85): Pierce|80-104|Block +8, Dodge +8, Parry +8, Crit +8, WIS +8, CHA +8, DEX +14, Bonus +8, Fire +7, Nature +7|
+
+Page: 142, Row: 11
+HTTP Error 504: Gateway Timeout
+Wormwood's Staff (Level: 15): Magic|22-46|WIS +1, CHA +1, INT +1, Fire +1, Nature +1|
+Wormwood's Staff (Level: 25): Magic|34-56|Crit +2, WIS +2, CHA +2, INT +2, Bonus +2, Fire +1, Nature +1|
+Wormwood's Staff (Level: 35): Magic|43-67|Crit +3, WIS +3, CHA +3, INT +3, Bonus +3, Fire +2, Nature +2|
+Wormwood's Staff (Level: 45): Magic|51-75|Block +1, Dodge +1, Parry +1, Crit +4, WIS +4, CHA +4, INT +6, Bonus +4, Fire +3, Nature +3|
+Wormwood's Staff (Level: 55): Magic|58-82|Block +2, Dodge +2, Parry +2, Crit +5, WIS +5, CHA +5, INT +7, Bonus +5, Fire +4, Nature +4|
+Wormwood's Staff (Level: 65): Magic|66-90|Block +4, Dodge +4, Parry +4, Crit +6, WIS +6, CHA +6, INT +9, Bonus +6, Fire +5, Nature +5|
+Wormwood's Staff (Level: 75): Magic|71-95|Block +5, Dodge +5, Parry +5, Crit +7, WIS +7, CHA +7, INT +12, Bonus +7, Fire +6, Nature +6|
+Wormwood's Staff (Level: 85): Magic|80-104|Block +8, Dodge +8, Parry +8, Crit +8, WIS +8, CHA +8, INT +14, Bonus +8, Fire +7, Nature +7|
+
+Page: 142, Row: 12
+Woses (Level: 15): Magic/Pierce/Melee|25-45|Crit +1, CHA +2, LUK +2, Bonus +1, Water +4|
+Woses II (Level: 30): Magic/Pierce/Melee|42-62|Crit +2, CHA +4, LUK +4, INT +2, DEX +2, STR +2, Bonus +2, Water +6|
+Woses III (Level: 45): Magic/Pierce/Melee|57-73|Dodge +1, Crit +3, CHA +5, LUK +5, INT +3, DEX +3, STR +3, Bonus +3, Water +8|
+Woses IV (Level: 60): Magic/Pierce/Melee|72-78|Dodge +2, Crit +4, CHA +5, LUK +5, INT +5, DEX +5, STR +5, Bonus +4, Water +10, Ice +10|
+
+Page: 142, Row: 13
+Wraithcutter (Level: 16): Melee|32-40|None|
+
+Page: 142, Row: 14
+HTTP Error 504: Gateway Timeout
+Wrath of Flame (Level: 8): Melee|18-38|Crit +1, Ice +1|
+
+Page: 142, Row: 15
+Wrath of the Ocean (Level: 8): Magic|22-36|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, END +1, Water +4|
+
+Page: 142, Row: 16
+HTTP Error 504: Gateway Timeout
+Wrathful Flame Claw Scythe (Level: 50): Magic/Pierce/Melee|65-79|Dodge +1, Parry +1, Crit +8, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, INT +6, DEX +6, STR +6, Bonus +5, Health -2, Immobility +1, Darkness +6, Ice +6, Fire +6|
+
+Page: 142, Row: 17
+HTTP Error 504: Gateway Timeout
+Wrestling Foam Hammer (Level: 71): Magic/Pierce/Melee|74-98|Block +1, Parry +2, Crit +5, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +9, LUK +9, INT +9, DEX +9, STR +9, Bonus +8, All +7|
+
+Page: 142, Row: 18
+Wyvern's Edge (Level: 6): Melee|13-27|Dodge +1, Crit +1|
+
+Page: 142, Row: 19
+Xan's Revenge (Level: 31): Melee|42-66|Crit +2|
+
+Page: 142, Row: 20
+Xan's Wrath (Level: 23): Magic|30-56|None|
+
+Page: 142, Row: 21
+Xylem (Level: 42): Melee|58-72|Crit +3, STR +5, Bonus +4, Nature +5, Wind +5, Fire +5|
+
+Page: 142, Row: 22
+Xylothian Xevver (Level: 11): Pierce|27-31|Crit +1|
+Xylothian Xevran (Level: 21): Pierce|39-43|Crit +1, Bonus +1|
+Xylothian Xevret (Level: 31): Pierce|48-58|Crit +2, DEX +1, Bonus +1|
+
+Page: 142, Row: 23
+Xysis (Level: 18): Magic|29-57|Crit +2, Bonus +1, Water +1|
+
+Page: 142, Row: 24
+Yellow Rose Staff (Level: 10): Magic|22-36|END +1, Bonus +1, Darkness +2|
+Yellow Rose Staff (Level: 29): Magic|43-55|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +1, INT +2, Bonus +1, Ice +2, Darkness +2|
+Yellow Rose Staff (Level: 49): Magic|56-78|Crit +5, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +4, END +2, CHA +1, INT +4, Bonus +3, Ice +5, Darkness +5|
+Yellow Rose Staff (Level: 69): Magic|72-90|Block +1, Crit +8, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +4, CHA +2, INT +7, Bonus +6, Health -2, Light +5, Ice +9, Darkness +9|
+
+Page: 142, Row: 25
+Yellow Snowflake on a Stick (Level: 22): Magic/Pierce/Melee|41-47|Magic Def +1, Melee Def +1, INT +1, DEX +1, STR +1, Fire +3|
+
+Page: 142, Row: 26
+Yix's Hybrid Dagger I (Level: 10): Pierce|26-32|Crit +2, Bonus +1, Stone +1, Ice +1, Water +1|
+Yix's Hybrid Dagger II (Level: 20): Pierce|32-52|Crit +2, END +2, DEX +4, Bonus +2, Stone +3, Ice +3, Water +3|
+Yix's Hybrid Dagger III (Level: 30): Pierce|44-60|Crit +3, END +4, DEX +4, Bonus +3, Stone +5, Ice +5, Water +5|
+Yix's Hybrid Dagger IV (Level: 40): Pierce|54-68|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +3, END +4, DEX +6, Bonus +3, Stone +7, Ice +7, Water +7|
+Yix's Hybrid Dagger V (Level: 50): Pierce|58-79|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +4, DEX +6, Bonus +4, Stone +9, Ice +9, Water +9|
+Yix's Hybrid Dagger VI (Level: 60): Pierce|68-84|Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +4, END +6, DEX +6, Bonus +5, Stone +10, Ice +10, Water +10|
+
+Page: 142, Row: 27
+Yosamu (Level: 21): Magic|30-56|INT +1|
+
+Page: 142, Row: 28
+Your First Dagger (Level: 5): Pierce|12-24|None|
+
+Page: 142, Row: 29
+Your First Staff (Level: 5): Magic|12-24|None|
+
+Page: 142, Row: 30
+Your First Sword (Level: 5): Melee|12-24|None|
+
+Page: 143, Row: 1
+Yummy Drumstick (Level: 18): Melee|34-42|Crit +1, END +2|
+
+Page: 143, Row: 2
+Yummy Leg Bone (Level: 18): Pierce|30-46|Crit +1, END +2|
+
+Page: 143, Row: 3
+Yummy Turkey Leg (Level: 18): Magic|32-44|Crit +1, END +2|
+
+Page: 143, Row: 4
+HTTP Error 504: Gateway Timeout
+Zap Skiver (Level: 7): Pierce|16-30|Dodge +3, Crit +1|
+
+Page: 143, Row: 5
+Zappy (Level: 4): Magic|14-20|Crit +1|
+
+Page: 143, Row: 6
+Zardbie Katana (Level: 10): Melee|29-35|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2|
+Zardbie Katana (Level: 20): Melee|35-55|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, Bonus +2, Poison +1|
+Zardbie Katana (Level: 30): Melee|47-63|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, STR +2, Bonus +2, Poison +3|
+Zardbie Katana (Level: 40): Melee|57-71|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, END +4, STR +4, Bonus +4, Disease +5, Poison +5|
+Zardbie Katana (Level: 50): Melee|60-82|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, END +6, STR +6, Bonus +3, Disease +8, Poison +8|
+Zardbie Katana (Level: 60): Melee|68-88|Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +4, END +8, STR +8, Bonus +5, Disease +10, Poison +10|
+Zardbie Katana (Level: 70): Melee|78-94|Crit +6, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +8, END +12, STR +10, Bonus +8, Disease +12, Poison +12|
+Zardbie Katana (Level: 80): Melee|80-102|Crit +8, Magic Def +10, Pierce Def +10, Melee Def +10, WIS +10, END +14, STR +14, Bonus +10, Disease +14, Poison +14|
+
+Page: 143, Row: 7
+Zardbie Scythe (Level: 30): Magic/Pierce/Melee|48-64|Block +1, Dodge +1, Crit +5, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +5, END +3, INT +4, DEX +4, STR +4, Bonus +2, All +1, Immobility +1, Disease +4, Nature +4, Darkness +4|
+
+Page: 143, Row: 8
+ZardSlayer Blade (Level: 16): Melee|33-47|Crit +2, END +2, Bonus +1, Nature +2|
+ZardSlayer Blade (Level: 26): Melee|39-63|Crit +2, END +2, Bonus +2, Nature +3|
+ZardSlayer Blade (Level: 36): Melee|49-71|Crit +4, END +5, STR +3, Bonus +2, Nature +5|
+ZardSlayer Blade (Level: 46): Melee|56-80|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, END +6, STR +5, Bonus +3, Nature +7|
+ZardSlayer Blade (Level: 56): Melee|62-88|Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, END +8, CHA +4, STR +7, Bonus +5, Nature +9|
+
+Page: 143, Row: 9
+ZardSlayer Shiv (Level: 16): Pierce|33-47|Crit +2, END +2, Bonus +1, Nature +2|
+ZardSlayer Shiv (Level: 26): Pierce|39-63|Crit +2, END +2, Bonus +2, Nature +3|
+ZardSlayer Shiv (Level: 36): Pierce|49-71|Crit +4, END +5, DEX +3, Bonus +2, Nature +5|
+ZardSlayer Shiv (Level: 46): Pierce|56-80|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, END +6, DEX +5, Bonus +3, Nature +7|
+ZardSlayer Shiv (Level: 56): Pierce|62-88|Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, END +8, CHA +4, DEX +7, Bonus +5, Nature +9|
+
+Page: 143, Row: 10
+ZardSlayer Staff (Level: 16): Magic|33-47|Crit +2, END +2, Bonus +1, Nature +2|
+ZardSlayer Staff (Level: 26): Magic|39-63|Crit +2, END +2, Bonus +2, Nature +3|
+ZardSlayer Staff (Level: 36): Magic|49-71|Crit +4, END +5, INT +3, Bonus +2, Nature +5|
+ZardSlayer Staff (Level: 46): Magic|56-80|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, END +6, INT +5, Bonus +3, Nature +7|
+ZardSlayer Staff (Level: 56): Magic|62-88|Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, END +8, CHA +4, INT +7, Bonus +5, Nature +9|
+
+Page: 143, Row: 11
+Zeclem's Blade (Level: 50): Magic/Pierce/Melee|61-81|Crit +5, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +5, END +5, INT +8, DEX +8, STR +8, Bonus +6, Darkness +6, Light +6|
+Zeclem's Blade (Level: 60): Magic/Pierce/Melee|72-84|Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +7, END +7, INT +9, DEX +9, STR +9, Bonus +6, Darkness +7, Light +7|
+Zeclem's Blade (Level: 70): Magic/Pierce/Melee|76-94|Crit +8, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +8, END +8, INT +10, DEX +10, STR +10, Bonus +8, Darkness +8, Light +8|
+Zeclem's Blade (Level: 80): Magic/Pierce/Melee|80-105|Block +2, Dodge +2, Parry +2, Crit +10, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +10, END +10, INT +13, DEX +13, STR +13, Bonus +10, Good +3, Evil +3, Darkness +11, Light +11|
+
+Page: 143, Row: 12
+Zephyr (Level: 12): Magic|28-40|Crit +2, Melee Def +2, END +1|
+
+Page: 143, Row: 13
+Zephyrus (Level: 28): Pierce|41-57|Crit +2, INT +1, STR +2, Bonus +2|
+
+Page: 143, Row: 14
+Zero Six (Level: 8): Pierce|18-36|Crit +2|
+
+Page: 143, Row: 15
+Zeuster's Edge I (Level: 12): Pierce|23-37|STR +1|
+Zeuster's Edge II (Level: 30): Pierce|43-57|Crit +1, Melee Def +2, STR +2, Bonus +1, Wind +3|
+Zeuster's Edge III (Level: 42): Pierce|53-69|Crit +2, Melee Def +3, STR +4, Bonus +2, Stone -3, Wind +5|
+Zeuster's Edge IV (Level: 49): Pierce|58-74|Crit +4, Melee Def +3, END +3, STR +5, Bonus +2|
+
+Page: 143, Row: 16
+Zhoom's Curved Blade (Level: 8): Melee|20-28|END +5, STR +5|
+
+Page: 143, Row: 17
+Zixcy's Claw (Level: 36): Pierce|55-65|Crit +3, STR +3, Bonus +3, Immobility +10|
+
+Page: 143, Row: 18
+Zorbak's Staff (Level: 10): Magic/Pierce/Melee|25-33|Crit +1, WIS +1, END +1, INT +1, DEX +1, STR +1, Bonus +1, Good +1, Light +1|
+Zorbak's Staff (Level: 20): Magic/Pierce/Melee|35-49|Crit +2, WIS +1, END +1, CHA +1, INT +2, DEX +2, STR +2, Bonus +2, Good +1, Light +3|
+Zorbak's Staff (Level: 30): Magic/Pierce/Melee|45-59|Block +2, Dodge +2, Parry +2, Crit +3, WIS +2, END +2, CHA +2, INT +3, DEX +3, STR +3, Bonus +3, Mana -1, Good +2, Light +5|
+Zorbak's Staff (Level: 40): Magic/Pierce/Melee|54-68|Block +4, Dodge +4, Parry +4, Crit +4, WIS +3, END +3, CHA +2, INT +4, DEX +4, STR +4, Bonus +4, Mana -1, Good +3, Light +6|
+Zorbak's Staff (Level: 50): Magic/Pierce/Melee|60-76|Block +6, Dodge +6, Parry +6, Crit +5, WIS +5, END +5, CHA +3, INT +6, DEX +6, STR +6, Bonus +5, Mana -2, Good +4, Light +7|
+Zorbak's Staff (Level: 60): Magic/Pierce/Melee|68-82|Block +8, Dodge +8, Parry +8, Crit +7, WIS +6, END +6, CHA +4, INT +8, DEX +8, STR +8, Bonus +7, Mana -3, Good +5, Light +8|
+Zorbak's Staff (Level: 70): Magic/Pierce/Melee|74-90|Block +10, Dodge +10, Crit +9, WIS +6, END +6, CHA +6, INT +10, DEX +10, STR +10, Bonus +9, Mana -5, Good +6, Water +5, Light +8|
+Zorbak's Staff (Level: 80): Magic/Pierce/Melee|74-102|Block +11, Dodge +11, Parry +11, Crit +10, WIS +6, END +6, CHA +8, INT +13, DEX +13, STR +13, Bonus +10, Mana -7, Good +9, Water +6, Light +11|
+
+Page: 143, Row: 19
+Zorchy (Level: 4): Melee|14-20|Crit +1|
+
+Page: 143, Row: 20
+Zurvana's Blessing (Level: 17): Magic|30-44|Crit +3, END +3, Bonus +2, Ice +1, Fire +1|
+Zurvana's Blessing (Level: 37): Magic|55-69|Crit +3, WIS +3, END +5, Bonus +2, Ice +5, Fire +5|
+Zurvana's Blessing (Level: 57): Magic|68-86|Crit +6, WIS +8, END +8, INT +5, Bonus +5, Ice +8, Fire +8|
+Zurvana's Blessing (Level: 67): Magic|77-89|Block +3, Dodge +3, Parry +3, Crit +9, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +9, END +9, INT +10, Bonus +9, Ice +12, Fire +12, Poison +9, Health -2|
+
+Page: 143, Row: 21
+Zurvana's Pity (Level: 17): Pierce|30-44|Crit +3, END +3, Bonus +2, Ice +1, Fire +1|
+Zurvana's Pity (Level: 37): Pierce|55-69|Crit +3, WIS +3, END +5, Bonus +2, Ice +5, Fire +5|
+Zurvana's Pity (Level: 57): Pierce|68-86|Crit +6, WIS +8, END +8, DEX +5, Bonus +5, Ice +8, Fire +8|
+Zurvana's Pity (Level: 67): Pierce|77-89|Block +3, Dodge +3, Parry +3, Crit +9, Melee Def +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +9, END +9, DEX +10, Bonus +9, Ice +12, Fire +12, Poison +9, Health -2|
+
+Page: 143, Row: 22
+Zurvana's Wrath (Level: 17): Melee|30-44|Crit +3, END +3, Bonus +2, Ice +1, Fire +1|
+Zurvana's Wrath (Level: 37): Melee|55-69|Crit +3, WIS +3, END +5, Bonus +2, Ice +5, Fire +5|
+Zurvana's Wrath (Level: 57): Melee|68-86|Crit +6, WIS +8, END +8, STR +5, Bonus +5, Ice +8, Fire +8|
+Zurvana's Wrath (Level: 67): Melee|77-89|Block +3, Dodge +3, Parry +3, Crit +9, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +9, END +9, STR +10, Bonus +9, Ice +12, Fire +12, Poison +9, Health -2|

@@ -101,7 +101,7 @@ def save_2_items(msg, data, hyperlink, page, row):
 
     data[attack_type].append({
         "Name": name,
-        "Damage": int(str((float(damage_high)+float(damage_low))//2)),
+        "Damage": (float(damage_high)+float(damage_low))/2,
         "Level": int(level),
         "Damage Low": int(damage_low),
         "Damage High": int(damage_high),
@@ -233,7 +233,7 @@ def save_2_items(msg, data, hyperlink, page, row):
 
     data[attack_type].append({
         "Name": name,
-        "Damage": int(str((float(second_damage_high)+float(second_damage_low))/2.0)),
+        "Damage": (float(second_damage_high)+float(second_damage_low))/2.0,
         "Level": int(second_level),
         "Damage Low": int(second_damage_low),
         "Damage High": int(second_damage_high),
@@ -371,6 +371,11 @@ def save_item(msg, data, hyperlink, page, row):
     '''
     if hyperlink == "http://forums2.battleon.com/f/fb.asp?m=5042008":
         name = "Spear Tip"
+    '''
+    Technomancer Dagger Level 60 typo
+    '''
+    if hyperlink == "http://forums2.battleon.com/f/fb.asp?m=21817569":
+        level = '60'
 
     damage_low = damage.split("-")[0]
     damage_high = damage.split("-")[1]
@@ -391,7 +396,7 @@ def save_item(msg, data, hyperlink, page, row):
 
     data[attack_type].append({
         "Name": name,
-        "Damage": int(str((float(damage_high)+float(damage_low))//2)),
+        "Damage": (float(damage_high)+float(damage_low))/2,
         "Level": int(level),
         "Damage Low": int(damage_low),
         "Damage High": int(damage_high),

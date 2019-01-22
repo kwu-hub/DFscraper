@@ -1,0 +1,1256 @@
+
+Page: 81, Row: 1
+LuluB32 (Level: 32): Pierce|45-61|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +3, DEX +3, Bonus +2, Stone +1, Water +1, Energy +3|
+LuluB52 (Level: 52): Pierce|60-78|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +5, DEX +6, Bonus +5, Immobility +1, Stone +3, Water +3, Energy +5|
+LuluB62 (Level: 62): Pierce|66-84|Parry +1, Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, END +7, DEX +7, Bonus +6, Immobility +3, Stone +5, Water +5, Energy +7|
+LuluB72 (Level: 72): Pierce|74-92|Dodge +2, Parry +1, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +9, DEX +10, Bonus +9, Immobility +4, Stone +6, Water +8, Energy +11|
+
+Page: 81, Row: 2
+Lumina Aos (Level: 31): Melee|42-60|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, END +1, STR +3, Immobility +1, Light +3, Darkness +3|
+Lumina Aos (Level: 45): Melee|57-71|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, END +2, STR +3, Immobility +3, Light +3, Darkness +3|
+Lumina Aos (Level: 55): Melee|65-80|Dodge +2, Crit +5, Magic Def +6, Pierce Def +6, Melee Def +6, END +5, STR +7, Bonus +3, Immobility +5, Light +8, Darkness +8|
+
+Page: 81, Row: 3
+Lumina Kria (Level: 31): Magic|42-60|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, END +1, INT +3, Immobility +1, Light +3, Darkness +3|
+Lumina Kria (Level: 45): Magic|57-71|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, END +2, INT +3, Immobility +3, Light +3, Darkness +3|
+Lumina Kria (Level: 55): Magic|65-80|Dodge +2, Crit +5, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +3, END +4, INT +5, Bonus +3, Immobility +5, Light +8, Darkness +8|
+
+Page: 81, Row: 4
+Lumina Sestis (Level: 31): Pierce|42-60|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, END +1, DEX +3, Immobility +1, Light +3, Darkness +3|
+Lumina Sestis (Level: 45): Pierce|57-71|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, END +2, DEX +3, Immobility +3, Light +3, Darkness +3|
+Lumina Sestis (Level: 55): Pierce|65-80|Dodge +2, Crit +5, Magic Def +6, Pierce Def +6, Melee Def +6, END +5, DEX +7, Bonus +3, Immobility +5, Light +8, Darkness +8|
+
+Page: 81, Row: 5
+Luminary (Level: 12): Magic|32-36|Block +6, Dodge +2, Crit +1|
+
+Page: 81, Row: 6
+HTTP Error 504: Gateway Timeout
+Luminous Midnight Wish (Level: 40): Pierce|51-73|Crit +3, DEX +3, Bonus +3, Immobility +5, Fire +5, Energy +5|
+
+Page: 81, Row: 7
+HTTP Error 504: Gateway Timeout
+Luminous Midnight Wish (Level: 40): Magic|51-73|Crit +3, INT +3, Bonus +3, Immobility +5, Fire +5, Energy +5|
+
+Page: 81, Row: 8
+Luminous Midnight Wish (Level: 40): Melee|51-73|Crit +3, STR +3, Bonus +3, Immobility +5, Fire +5, Energy +5|
+
+Page: 81, Row: 9
+Luminous Noon Promise (Level: 40): Pierce|51-73|Crit +3, DEX +3, Bonus +3, Immobility +5, Water +5, Wind +5|
+
+Page: 81, Row: 10
+Luminous Noon Promise (Level: 40): Magic|51-73|Crit +3, INT +3, Bonus +3, Immobility +5, Water +5, Wind +5|
+
+Page: 81, Row: 11
+HTTP Error 504: Gateway Timeout
+Luminous Noon Promise (Level: 40): Melee|51-73|Crit +3, STR +3, Bonus +3, Immobility +5, Water +5, Wind +5|
+
+Page: 81, Row: 12
+Luminous Sapphmerald Dagger (Level: 80): Pierce|79-97|Block +9, Dodge +9, Parry +9, Crit +8, WIS +8, CHA +8, DEX +14, Bonus +8, Light +8|
+
+Page: 81, Row: 13
+HTTP Error 504: Gateway Timeout
+Luminous Sapphmerald Staff (Level: 80): Magic|79-97|Block +9, Dodge +9, Parry +9, Crit +8, WIS +8, CHA +8, INT +14, Bonus +8, Light +8|
+
+Page: 81, Row: 14
+Luminous Sapphmerald Sword (Level: 80): Melee|79-97|Block +9, Dodge +9, Parry +9, Crit +8, WIS +8, CHA +8, STR +14, Bonus +8, Light +8|
+
+Page: 81, Row: 15
+Luminous Techangel Blade (Level: 62): Melee|66-84|Parry +1, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +7, END +4, STR +7, Bonus +7, Immobility +3, Metal +3, Energy +5, Light +5, Darkness +7|
+
+Page: 81, Row: 16
+Luminous Techangel Edge (Level: 62): Pierce|66-84|Parry +1, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +7, END +4, DEX +7, Bonus +7, Immobility +3, Metal +3, Energy +5, Light +5, Darkness +7|
+
+Page: 81, Row: 17
+Luminous Techangel Staff (Level: 62): Magic|66-84|Parry +1, Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +7, END +4, INT +7, Bonus +7, Immobility +3, Metal +3, Energy +5, Light +5, Darkness +7|
+
+Page: 81, Row: 18
+Luminous Whiff I (Level: 10): Magic|23-37|Crit +1, WIS +1, END +1, INT +1, Bonus +1, Health -1, Stone +2|
+Luminous Whiff II (Level: 20): Magic|31-55|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +1, LUK +1, INT +1, Bonus +1, Health -1, Stone +3|
+Luminous Whiff III (Level: 30): Magic|44-62|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +1, END +1, CHA +1, LUK +1, INT +3, Bonus +3, Health -1, Energy +3, Stone +3|
+Luminous Whiff IV (Level: 40): Magic|52-74|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, CHA +2, LUK +2, INT +4, Bonus +4, Health -1, Water +2, Energy +4, Stone +4|
+Luminous Whiff V (Level: 50): Magic|63-77|Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, CHA +4, LUK +4, INT +6, Bonus +5, Health -2, Water +3, Energy +4, Stone +4|
+Luminous Whiff VI (Level: 60): Magic|64-90|Parry +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, CHA +5, LUK +5, INT +8, Bonus +6, Health -2, Water +4, Energy +5, Stone +5|
+Luminous Whiff VII (Level: 70): Magic|72-90|Dodge +1, Parry +1, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +6, LUK +6, INT +9, Bonus +7, Health -2, Light +4, Water +5, Energy +5, Stone +5|
+Luminous Whiff VIII (Level: 73): Magic|76-92|Block +1, Dodge +1, Parry +1, Crit +9, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +6, CHA +6, LUK +6, INT +10, Bonus +8, Health -3, Light +5, Water +5, Energy +6, Stone +6|
+Luminous Whiff IX (Level: 75): Magic|76-94|Block +1, Dodge +1, Parry +1, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, END +6, CHA +6, LUK +6, INT +10, Bonus +8, Health -3, Light +6, Water +6, Energy +7, Stone +7|
+Luminous Whiff X (Level: 78): Magic|73-101|Block +1, Dodge +1, Parry +1, Crit +10, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, CHA +6, LUK +6, INT +11, Bonus +8, Health -3, Light +7, Water +7, Energy +8, Stone +8|
+Luminous Whiff XI (Level: 80): Magic|74-102|Block +1, Dodge +1, Parry +2, Crit +11, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, CHA +6, LUK +6, INT +12, Bonus +9, Health -4, Light +8, Water +8, Energy +9, Stone +9|
+
+Page: 81, Row: 19
+Lunar Lantern Knives (Level: 10): Pierce|27-39|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, CHA +2, LUK +2, DEX +3, Bonus +2, Health -3, Light +3, Fire +3|
+Lunar Lantern Knives (Level: 20): Pierce|35-57|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, CHA +2, LUK +2, DEX +3, Bonus +3, Health -3, Light +4, Fire +4|
+Lunar Lantern Knives (Level: 30): Pierce|48-64|Parry +1, Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, CHA +2, LUK +3, DEX +4, Bonus +3, Health -4, Darkness +4, Wind +4, Light +4, Fire +4|
+Lunar Lantern Knives (Level: 40): Pierce|54-76|Parry +1, Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, CHA +2, LUK +4, DEX +5, Bonus +4, Health -5, Darkness +6, Wind +6, Light +6, Fire +6|
+Lunar Lantern Knives (Level: 50): Pierce|65-79|Parry +2, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +4, CHA +2, LUK +5, DEX +6, Bonus +5, Health -5, Darkness +6, Wind +6, Light +8, Fire +8|
+Lunar Lantern Knives (Level: 60): Pierce|70-88|Dodge +1, Parry +2, Crit +6, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +5, CHA +3, LUK +6, DEX +8, Bonus +6, Health -5, Darkness +8, Wind +8, Light +10, Fire +10|
+Lunar Lantern Knives (Level: 70): Pierce|78-94|Dodge +1, Parry +3, Crit +6, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, CHA +4, LUK +8, DEX +10, Bonus +6, Health -5, Darkness +8, Wind +8, Light +12, Fire +12|
+Lunar Lantern Knives (Level: 80): Pierce|82-100|Dodge +2, Parry +3, Crit +10, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +8, CHA +7, LUK +10, DEX +13, Bonus +8, Health -6, Darkness +10, Wind +10, Light +14, Fire +14|
+
+Page: 81, Row: 20
+Lunar Lantern Lighter (Level: 10): Magic|27-39|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, CHA +2, LUK +2, INT +3, Bonus +2, Health -3, Light +3, Fire +3|
+Lunar Lantern Lighter (Level: 20): Magic|35-57|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, CHA +2, LUK +2, INT +3, Bonus +3, Health -3, Light +4, Fire +4|
+Lunar Lantern Lighter (Level: 30): Magic|48-64|Parry +1, Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, CHA +2, LUK +3, INT +4, Bonus +3, Health -4, Darkness +4, Wind +4, Light +4, Fire +4|
+Lunar Lantern Lighter (Level: 40): Magic|54-76|Parry +1, Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, CHA +2, LUK +4, INT +5, Bonus +4, Health -5, Darkness +6, Wind +6, Light +6, Fire +6|
+Lunar Lantern Lighter (Level: 50): Magic|65-79|Parry +2, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +4, CHA +2, LUK +5, INT +6, Bonus +5, Health -5, Darkness +6, Wind +6, Light +8, Fire +8|
+Lunar Lantern Lighter (Level: 60): Magic|70-88|Dodge +1, Parry +2, Crit +6, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +5, CHA +3, LUK +6, INT +8, Bonus +6, Health -5, Darkness +8, Wind +8, Light +10, Fire +10|
+Lunar Lantern Lighter (Level: 70): Magic|78-94|Dodge +1, Parry +3, Crit +6, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, CHA +4, LUK +8, INT +10, Bonus +6, Health -5, Darkness +8, Wind +8, Light +12, Fire +12|
+Lunar Lantern Lighter (Level: 80): Magic|82-100|Dodge +2, Parry +3, Crit +10, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +8, CHA +7, LUK +10, INT +13, Bonus +8, Health -6, Darkness +10, Wind +10, Light +14, Fire +14|
+
+Page: 81, Row: 21
+Lunar Lantern Sword (Level: 10): Melee|27-39|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, CHA +2, LUK +2, STR +3, Bonus +2, Health -3, Light +3, Fire +3|
+Lunar Lantern Sword (Level: 20): Melee|35-57|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, CHA +2, LUK +2, STR +3, Bonus +3, Health -3, Light +4, Fire +4|
+Lunar Lantern Sword (Level: 30): Melee|48-64|Parry +1, Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, CHA +2, LUK +3, STR +4, Bonus +3, Health -4, Darkness +4, Wind +4, Light +4, Fire +4|
+Lunar Lantern Sword (Level: 40): Melee|54-76|Parry +1, Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, CHA +2, LUK +4, STR +5, Bonus +4, Health -5, Darkness +6, Wind +6, Light +6, Fire +6|
+Lunar Lantern Sword (Level: 50): Melee|65-79|Parry +2, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +4, CHA +2, LUK +5, STR +6, Bonus +5, Health -5, Darkness +6, Wind +6, Light +8, Fire +8|
+Lunar Lantern Sword (Level: 60): Melee|70-88|Dodge +1, Parry +2, Crit +6, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +5, CHA +3, LUK +6, STR +8, Bonus +6, Health -5, Darkness +8, Wind +8, Light +10, Fire +10|
+Lunar Lantern Sword (Level: 70): Melee|78-94|Dodge +1, Parry +3, Crit +6, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, CHA +4, LUK +8, STR +10, Bonus +6, Health -5, Darkness +8, Wind +8, Light +12, Fire +12|
+Lunar Lantern Sword (Level: 80): Melee|82-100|Dodge +2, Parry +3, Crit +10, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +8, CHA +7, LUK +10, STR +13, Bonus +8, Health -6, Darkness +10, Wind +10, Light +14, Fire +14|
+
+Page: 81, Row: 22
+Lunatic Shard (Level: 23): Pierce|35-47|Crit +5, Bonus +1|
+
+Page: 81, Row: 23
+Lush Asteraceae (Level: 75): Magic/Pierce/Melee|80-96|Block +10, Dodge +10, Parry +10, Crit +12, WIS +9, END +8, CHA +5, INT +12, DEX +12, STR +12, Bonus +7, Health -7, Mana -7, Immobility +6, Darkness +8, Stone +8|
+
+Page: 81, Row: 24
+Lush Oleanderium (Level: 80): Magic/Pierce/Melee|78-100|Block +1, Dodge +1, Parry +2, Crit +10, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +10, END +10, INT +12, DEX +12, STR +12, Bonus +10, Immobility +12, Fire +12, Wind +12|
+
+Page: 81, Row: 25
+HTTP Error 504: Gateway Timeout
+Luster (Level: 7): Magic|14-34|Crit +1|
+
+Page: 81, Row: 26
+HTTP Error 504: Gateway Timeout
+Lustrous Silver Dirk (Level: 45): Pierce|59-71|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, END +4, LUK +2, DEX +4, Bonus +3, Wind +6, Darkness +6|
+
+Page: 81, Row: 27
+Lustrous Silver Rapier (Level: 45): Melee|59-71|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, END +4, LUK +2, STR +4, Bonus +3, Wind +6, Darkness +6|
+
+Page: 81, Row: 28
+Lustrous Silver Staff (Level: 45): Magic|59-71|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, END +4, LUK +2, INT +4, Bonus +3, Wind +6, Darkness +6|
+
+Page: 81, Row: 29
+Lux Aeterna (Level: 20): Magic/Pierce/Melee|35-45|Darkness +1|
+Lux Aeterna (Level: 31): Magic/Pierce/Melee|42-60|Crit +2, END +1, STR +3, Bonus +2, Immobility +1, Light +3, Darkness +3|
+Lux Aeterna (Level: 45): Magic/Pierce/Melee|57-71|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, END +2, STR +3, Bonus +3, Immobility +3, Light +5, Darkness +5|
+Lux Aeterna (Level: 55): Magic/Pierce/Melee|65-80|Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, END +5, STR +9, Bonus +6, Immobility +5, Light +8, Darkness +9|
+
+Page: 81, Row: 30
+Lyssa's Gall (Level: 36): Pierce|50-63|Crit +2, END +3, LUK +1, DEX +3, Bonus +2, Nature +3, Poison +4|
+
+Page: 82, Row: 1
+HTTP Error 504: Gateway Timeout
+Mace of the North I (Level: 10): Melee|30-36|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, CHA +2, LUK +2, STR +4, Bonus +2, Immobility +1, Wind +2, Ice +2|
+Mace of the North II (Level: 20): Melee|43-49|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, CHA +2, LUK +4, STR +4, Bonus +3, Immobility +1, Wind +3, Ice +3|
+Mace of the North III (Level: 30): Melee|53-59|Block +1, Dodge +1, Parry +1, Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, CHA +3, LUK +4, STR +5, Bonus +3, Immobility +2, Wind +4, Ice +4|
+Mace of the North IV (Level: 40): Melee|62-68|Block +1, Dodge +1, Parry +1, Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, CHA +4, LUK +5, STR +6, Bonus +4, Immobility +3, Wind +6, Ice +6|
+Mace of the North V (Level: 50): Melee|69-75|Block +2, Dodge +2, Parry +2, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, CHA +5, LUK +6, STR +7, Bonus +5, Immobility +7, Wind +6, Ice +6|
+Mace of the North VI (Level: 60): Melee|76-82|Block +2, Dodge +2, Parry +2, Crit +6, Magic Def +6, Pierce Def +6, Melee Def +6, CHA +6, LUK +8, STR +9, Bonus +6, Immobility +6, Wind +8, Ice +8|
+Mace of the North VII (Level: 70): Melee|83-89|Block +3, Dodge +3, Parry +3, Crit +6, Magic Def +7, Pierce Def +7, Melee Def +7, CHA +8, LUK +10, STR +12, Bonus +6, Immobility +7, Wind +9, Ice +9|
+Mace of the North VIII (Level: 80): Melee|88-94|Block +3, Dodge +3, Parry +3, Crit +10, Magic Def +9, Pierce Def +9, Melee Def +9, CHA +10, LUK +15, STR +15, Bonus +8, Health -3, Immobility +8, Wind +13, Ice +13|
+Mace of the North IX (Level: 90): Melee|93-99|Block +4, Dodge +4, Parry +4, Crit +12, Magic Def +9, Pierce Def +9, Melee Def +9, CHA +12, LUK +18, STR +20, Bonus +10, Health -3, Immobility +8, Wind +13, Ice +13|
+
+Page: 82, Row: 2
+Madcap's Mace (Level: 25): Melee|41-49|Crit +2, END +2, STR +2, Bonus +1|
+Madcap's Mace 2010 (Level: 25): Melee|41-49|Crit +2, END +2, STR +2, Bonus +1|
+
+Page: 82, Row: 3
+HTTP Error 504: Gateway Timeout
+Madness Blade (Level: 15): Pierce|33-44|Crit +2, DEX +3|
+
+Page: 82, Row: 4
+Mage's Gift (Level: 12): Magic|1-1|None|
+Mage's Gift (Level: 19): Magic|1-1|None|
+Mage's Gift (Level: 23): Magic|1-1|None|
+Mage's Gift (Level: 32): Magic|1-1|None|
+
+Page: 82, Row: 5
+Mage's Support Staff (Level: 16): Magic|32-40|Darkness +2|
+
+Page: 82, Row: 6
+The Magelord's Scepter (Level: 30): Magic|40-58|Melee Def +1, INT +2|
+
+Page: 82, Row: 7
+HTTP Error 504: Gateway Timeout
+Mages Wept I (Level: 11): Magic|27-43|Parry +1, Crit +1, WIS +1, LUK +1, INT +2, Bonus +1, Ice +4|
+Mages Wept II (Level: 21): Magic|35-59|Parry +1, Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, LUK +1, INT +4, Bonus +3, Darkness +1, Wind +3, Water +3, Ice +5|
+Mages Wept III (Level: 31): Magic|46-68|Parry +1, Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, LUK +3, INT +5, Bonus +4, Darkness +3, Wind +5, Water +5, Ice +7|
+Mages Wept IV (Level: 41): Magic|54-78|Parry +1, Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +3, LUK +4, INT +6, Bonus +5, Darkness +5, Wind +7, Water +7, Ice +8|
+Mages Wept V (Level: 51): Magic|64-82|Parry +1, Crit +3, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, LUK +5, INT +7, Bonus +6, Darkness +6, Wind +8, Water +8, Ice +10|
+Mages Wept VI (Level: 61): Magic|71-89|Parry +2, Crit +4, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, LUK +8, INT +8, Bonus +7, Immobility +1, Darkness +7, Wind +9, Water +9, Ice +11|
+Mages Wept VII (Level: 71): Magic|74-98|Block +1, Parry +2, Crit +5, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +9, LUK +9, INT +9, Bonus +8, Immobility +2, Darkness +8, Wind +10, Water +10, Ice +12|
+Mages Wept VIII (Level: 74): Magic|76-100|Block +1, Parry +2, Crit +6, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +9, LUK +9, INT +11, Bonus +9, Immobility +2, Poison +3, Darkness +8, Wind +10, Water +12, Ice +12|
+Mages Wept IX (Level: 77): Magic|76-102|Block +1, Dodge +1, Parry +2, Crit +6, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +9, END +4, LUK +10, INT +12, Bonus +10, Immobility +2, Poison +6, Darkness +8, Wind +12, Water +12, Ice +12|
+Mages Wept X (Level: 80): Magic|78-104|Block +1, Dodge +1, Parry +2, Crit +7, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +10, END +5, LUK +10, INT +13, Bonus +11, Immobility +2, Poison +8, Darkness +8, Wind +12, Water +12, Ice +12|
+
+Page: 82, Row: 8
+Magestaff (Level: 1): Magic|125-200|Bonus +1, Stone +1, Wind +1, Water +1, Fire +1|
+
+Page: 82, Row: 9
+Magi's Asylum (Level: 14): Magic|6-74|Block +3, Crit +1, Magic Def +3, Pierce Def +2, Melee Def +5|
+
+Page: 82, Row: 10
+Magic BattleHammer (Level: 26): Magic|45-59|Crit +2, Melee Def +2, WIS +1, END +2, INT +3, Bonus +3, Health -2, Water +5|
+Magic BattleHammer (Level: 46): Magic|61-77|Crit +4, Magic Def +2, Melee Def +2, WIS +3, END +4, INT +6, Bonus +5, Health -1, Water +6|
+Magic BattleHammer (Level: 66): Magic|67-99|Dodge +1, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +6, WIS +5, END +5, CHA +4, LUK +4, INT +9, Bonus +7, Immobility +2, Energy +9, Water +9|
+Magic BattleHammer (Level: 76): Magic|78-100|Dodge +1, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +8, END +8, CHA +4, LUK +4, INT +10, Bonus +10, Immobility +5, Fire +8, Energy +12, Water +12|
+
+Page: 82, Row: 11
+HTTP Error 504: Gateway Timeout
+Magic Gemmed BattleHammer (Level: 26): Magic|45-59|Crit +2, Melee Def +2, WIS +1, END +2, INT +3, Bonus +3, Health -2, Ice +5|
+Magic Gemmed BattleHammer (Level: 46): Magic|61-77|Crit +4, Magic Def +2, Melee Def +2, WIS +3, END +4, INT +6, Bonus +5, Health -1, Ice +6|
+Magic Gemmed BattleHammer (Level: 66): Magic|67-99|Dodge +1, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +6, WIS +5, END +5, CHA +4, LUK +4, INT +9, Bonus +7, Immobility +2, Ice +9, Energy +9|
+Magic Gemmed BattleHammer (Level: 76): Magic|78-100|Dodge +1, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +8, END +8, CHA +4, LUK +4, INT +10, Bonus +10, Immobility +5, Ice +12, Energy +12, Nature +8|
+
+Page: 82, Row: 12
+Magic Splatula (Level: 75): Magic/Pierce/Melee|76-94|Block +1, Dodge +1, Parry +1, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, END +6, CHA +6, LUK +6, INT +10, DEX +10, STR +10, Bonus +8, Health -3, Bacon +6, Ice +6, Fire +7, Water +7|
+
+Page: 82, Row: 13
+The Magician's Scepter (Level: 10): Magic|20-32|INT +1|
+
+Page: 82, Row: 14
+The Magister (Level: 20): Magic/Pierce/Melee|35-47|Crit +2, WIS +1, CHA +1, INT +1, DEX +1, STR +1, Bonus +1, Poison +3|
+The Magister (Level: 30): Magic/Pierce/Melee|45-57|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, CHA +1, INT +3, DEX +3, STR +3, Bonus +2, Poison +3, Darkness +1|
+The Magister (Level: 40): Magic/Pierce/Melee|54-68|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, CHA +3, INT +4, DEX +4, STR +4, Bonus +4, Poison +4, Darkness +3|
+The Magister (Level: 50): Magic/Pierce/Melee|60-74|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, CHA +5, LUK +1, INT +6, DEX +6, STR +6, Bonus +5, Health -1, Immobility +2, Poison +5, Darkness +3|
+The Magister (Level: 60): Magic/Pierce/Melee|68-82|Dodge +1, Parry +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +1, CHA +6, LUK +2, INT +8, DEX +8, STR +8, Bonus +7, Health -2, Immobility +3, Poison +9, Darkness +5|
+The Magister (Level: 70): Magic/Pierce/Melee|74-90|Dodge +2, Parry +1, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +2, CHA +8, LUK +4, INT +10, DEX +10, STR +10, Bonus +9, Health -3, Immobility +4, Poison +11, Darkness +8|
+The Magister (Level: 73): Magic/Pierce/Melee|66-102|Dodge +2, Parry +1, Crit +9, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +3, CHA +8, LUK +4, INT +11, DEX +11, STR +11, Bonus +10, Health -3, Immobility +4, Poison +11, Darkness +11|
+The Magister (Level: 76): Magic/Pierce/Melee|74-98|Dodge +2, Parry +1, Crit +9, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +4, CHA +8, LUK +5, INT +12, DEX +12, STR +12, Bonus +10, Health -3, Immobility +4, Light +6, Darkness +11, Poison +11|
+The Magister (Level: 78): Magic/Pierce/Melee|74-100|Block +1, Dodge +2, Parry +1, Crit +10, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, END +6, CHA +8, LUK +5, INT +13, DEX +13, STR +13, Bonus +10, Health -3, Immobility +4, Light +9, Darkness +11, Poison +11|
+The Magister (Level: 80): Magic/Pierce/Melee|74-102|Block +2, Dodge +2, Parry +1, Crit +11, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, END +6, CHA +9, LUK +6, INT +13, DEX +13, STR +13, Bonus +10, Health -3, Immobility +4, Light +10, Darkness +11, Poison +12|
+
+Page: 82, Row: 15
+Magma Trident Staff (Level: 13): Magic|28-34|CHA +1, INT +1, Ice +1|
+
+Page: 82, Row: 16
+Magnificent Hallow'd Dagger (Level: 70): Pierce|74-90|Dodge +2, Parry +1, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, LUK +4, DEX +10, Bonus +9, Health -3, Immobility +4, Light +8, Darkness +8|
+
+Page: 82, Row: 17
+Magnificent Hallow'd Edge (Level: 70): Melee|74-90|Dodge +2, Parry +1, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, LUK +4, STR +10, Bonus +9, Health -3, Immobility +4, Light +8, Darkness +8|
+
+Page: 82, Row: 18
+Magnificent Hallow'd Staff (Level: 70): Magic|74-90|Dodge +2, Parry +1, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, LUK +4, INT +10, Bonus +9, Health -3, Immobility +4, Light +8, Darkness +8|
+
+Page: 82, Row: 19
+HTTP Error 504: Gateway Timeout
+'Item Type: '-1|'Attack Type: '476Mahogany Crunch (Level: 16): Magic|22-52|Dodge +2, Crit +2, Melee Def +2|
+
+Page: 82, Row: 20
+Maize Staff I (Level: 33): Magic|52-54|Crit +1, WIS +1, END +1, CHA +1, LUK +1, STR +2, Bonus +1, Fire +3, Nature +4|
+Maize Staff II (Level: 53): Magic|65-75|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +4, END +4, CHA +4, LUK +3, INT +4, Bonus +3, Fire +4, Nature +5|
+Maize Staff III (Level: 60): Magic|72-78|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +5, END +5, CHA +5, LUK +5, INT +5, Bonus +5, Fire +5, Nature +7|
+Maize Staff IV (Level: 70): Magic|72-94|Dodge +1, Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +6, CHA +5, LUK +5, INT +7, Bonus +6, Fire +6, Nature +8|
+Maize Staff V (Level: 80): Magic|76-102|Dodge +2, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +8, END +8, CHA +7, LUK +7, INT +10, Bonus +8, Fire +8, Nature +10|
+
+Page: 82, Row: 21
+Major Axe-Blade of Aww (Level: 48): Melee|60-74|Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, END +4, CHA +3, LUK +3, STR +2, Bonus +2, Immobility +1, Stone +2, Nature +2, Wind +5|
+
+Page: 82, Row: 22
+Major Axe-Blade of Half Awf (Level: 48): Melee|60-74|Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, END +4, CHA +3, LUK +3, STR +2, Bonus +2, Immobility +1, Stone +2, Nature +2, Wind +5|
+
+Page: 82, Row: 23
+Major Brokenblade (Level: 34): Melee|50-62|Crit +3, Bonus +2, Wind +2|
+
+Page: 82, Row: 24
+Major Brokenblade Dagger (Level: 34): Pierce|50-62|Crit +3, Bonus +2, Wind +2|
+
+Page: 82, Row: 25
+Major Brokenblade Staff (Level: 34): Magic|50-62|Crit +3, Bonus +2, Wind +2|
+
+Page: 82, Row: 26
+Major Bronzed Dagger (Level: 34): Pierce|50-58|Crit +2|
+
+Page: 82, Row: 27
+Major Bronzed Staff (Level: 34): Magic|50-58|Crit +2|
+
+Page: 82, Row: 28
+Major Bronzed Sword (Level: 34): Melee|50-58|Crit +2|
+
+Page: 82, Row: 29
+Major Cyclonic Sickle (Level: 34): Melee|50-60|Crit +3, Bonus +2|
+
+Page: 82, Row: 30
+Major Cyclonic Sickle Dagger (Level: 34): Pierce|50-60|Crit +3, Bonus +2|
+
+Page: 83, Row: 1
+Major Cyclonic Sickle Staff (Level: 34): Magic|50-60|Crit +3, Bonus +2|
+
+Page: 83, Row: 2
+Major Dagger of Aww (Level: 48): Pierce|60-74|Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, END +4, CHA +3, LUK +3, DEX +2, Bonus +2, Immobility +1, Stone +2, Nature +2, Wind +5|
+
+Page: 83, Row: 3
+Major Dagger of Half Awf (Level: 48): Pierce|60-74|Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, END +4, CHA +3, LUK +3, DEX +2, Bonus +2, Immobility +1, Stone +2, Nature +2, Wind +5|
+
+Page: 83, Row: 4
+Major Dragonsfall Blade (Level: 38): Melee|51-63|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, END +3, STR +3, Ice +3|
+
+Page: 83, Row: 5
+Major Dragonsfall Dagger (Level: 38): Pierce|51-63|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, END +3, DEX +3, Ice +3|
+
+Page: 83, Row: 6
+Major Dragonsfall Staff (Level: 38): Magic|51-63|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, END +3, INT +3, Ice +3|
+
+Page: 83, Row: 7
+Major Staff of Aww (Level: 48): Magic|60-74|Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, END +4, CHA +3, LUK +3, INT +2, Bonus +2, Immobility +1, Stone +2, Nature +2, Wind +5|
+
+Page: 83, Row: 8
+Major Staff of Half Awf (Level: 48): Magic|60-74|Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, END +4, CHA +3, LUK +3, INT +2, Bonus +2, Immobility +1, Stone +2, Nature +2, Wind +5|
+
+Page: 83, Row: 9
+Major Sunsabre (Level: 34): Melee|50-64|Crit +3, STR +4, Bonus +3, Wind +2|
+
+Page: 83, Row: 10
+Major Sunsabre Dagger (Level: 34): Pierce|50-64|Crit +3, DEX +4, Bonus +3, Wind +2|
+
+Page: 83, Row: 11
+Major Sunsabre Staff (Level: 34): Magic|50-64|Crit +3, INT +4, Bonus +3, Wind +2|
+
+Page: 83, Row: 12
+Mako Shiv (Level: 31): Pierce|45-61|Crit +2|
+
+Page: 83, Row: 13
+Malachite Edge (Level: 13): Melee|31-35|Crit +2|
+
+Page: 83, Row: 14
+Malclaw (Level: 28): Melee|41-55|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, STR +2|
+
+Page: 83, Row: 15
+HTTP Error 504: Gateway Timeout
+Malevolent 13th 13th Scythe (Level: 80): Magic/Pierce/Melee|82-100|Dodge +2, Parry +3, Crit +14, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +10, END +7, CHA +5, INT +14, DEX +14, STR +14, Bonus +8, Health -3, Immobility +8, Silver +6, Darkness +6, Ice +13, Fire +13, Light +13|
+
+Page: 83, Row: 16
+Malfor (Level: 42): Pierce|58-73|END +3, DEX +4, STR +2, Bonus +4, Silver +5|
+
+Page: 83, Row: 17
+Malich's Retribution (Level: 58): Magic/Pierce/Melee|68-84|Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +3, END +8, CHA +7, LUK +3, INT +6, DEX +6, STR +6, Bonus +4, Immobility +3, Fire +3, Ice +7|
+Malich's Retribution (Level: 68): Magic/Pierce/Melee|72-90|Dodge +1, Crit +8, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +4, END +9, CHA +8, LUK +4, INT +8, DEX +8, STR +8, Bonus +4, Immobility +4, Fire +4, Ice +8|
+Malich's Retribution (Level: 78): Magic/Pierce/Melee|74-100|Dodge +2, Crit +10, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +5, END +10, LUK +5, INT +10, DEX +10, STR +10, Bonus +5, Immobility +5, Fire +5, Ice +9|
+
+Page: 83, Row: 18
+Malignant Plum Flame (Level: 55): Pierce|64-80|Crit +5, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +5, END +6, DEX +4, Bonus +5, Water +8, Fire +8|
+
+Page: 83, Row: 19
+Malspike (Level: 28): Pierce|41-55|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, DEX +2|
+
+Page: 83, Row: 20
+Malsting (Level: 28): Magic|41-55|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, INT +1|
+
+Page: 83, Row: 21
+Manawood Dagger I (Level: 10): Pierce|27-39|Parry +1, Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +2, LUK +2, DEX +2, Bonus +1, All +2, Water +1, Light +1|
+Manawood Dagger II (Level: 30): Pierce|48-64|Parry +1, Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, CHA +3, LUK +3, DEX +4, Bonus +3, All +3, Water +2, Light +2|
+Manawood Dagger III (Level: 50): Pierce|65-79|Dodge +1, Parry +1, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +5, LUK +5, DEX +6, Bonus +6, All +4, Water +3, Light +3|
+Manawood Dagger IV (Level: 70): Pierce|78-94|Dodge +1, Parry +2, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +8, END +6, CHA +6, LUK +6, DEX +10, Bonus +7, All +5, Water +4, Light +4|
+Manawood Dagger V (Level: 80): Pierce|80-102|Block +1, Dodge +1, Parry +2, Crit +12, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +6, END +8, CHA +8, LUK +8, DEX +14, Bonus +10, All +6, Water +6, Light +6|
+
+Page: 83, Row: 22
+Manawood Staff I (Level: 10): Magic|27-39|Parry +1, Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +2, LUK +2, INT +2, Bonus +1, All +2, Water +1, Light +1|
+Manawood Staff II (Level: 30): Magic|48-64|Parry +1, Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, CHA +3, LUK +3, INT +4, Bonus +3, All +3, Water +2, Light +2|
+Manawood Staff III (Level: 50): Magic|65-79|Dodge +1, Parry +1, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +5, LUK +5, INT +6, Bonus +6, All +4, Water +3, Light +3|
+Manawood Staff IV (Level: 70): Magic|78-94|Dodge +1, Parry +2, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +8, END +6, CHA +6, LUK +6, INT +10, Bonus +7, All +5, Water +4, Light +4|
+Manawood Staff V (Level: 80): Magic|80-102|Dodge +2, Parry +2, Crit +12, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +6, END +8, CHA +8, LUK +8, INT +14, Bonus +10, All +6, Water +6, Light +6|
+
+Page: 83, Row: 23
+Manawood Sword I (Level: 10): Melee|27-39|Parry +1, Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +2, LUK +2, STR +2, Bonus +1, All +2, Water +1, Light +1|
+Manawood Sword II (Level: 30): Melee|48-64|Parry +1, Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, CHA +3, LUK +3, STR +4, Bonus +3, All +3, Water +2, Light +2|
+Manawood Sword III (Level: 50): Melee|65-79|Dodge +1, Parry +1, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +5, LUK +5, STR +6, Bonus +6, All +4, Water +3, Light +3|
+Manawood Sword IV (Level: 70): Melee|78-94|Dodge +1, Parry +2, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +8, END +6, CHA +6, LUK +6, STR +10, Bonus +7, All +5, Water +4, Light +4|
+Manawood Sword V (Level: 80): Melee|80-102|Block +1, Dodge +1, Parry +2, Crit +12, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +6, END +8, CHA +8, LUK +8, STR +14, Bonus +10, All +6, Water +6, Light +6|
+
+Page: 83, Row: 24
+Mark of the Eclipse (Level: 50): Magic|60-78|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +3, END +3, LUK +3, INT +5, Bonus +4, Evil +5, Good +5, Light +5, Darkness +5|
+
+Page: 83, Row: 25
+Mark of the Hunter (Level: 36): Magic|55-65|Crit +3, DEX +3, Bonus +3, Immobility +10|
+
+Page: 83, Row: 26
+HTTP Error 504: Gateway Timeout
+Marked Zorbak's Staff (Level: 10): Magic/Pierce/Melee|23-33|Crit +1, WIS +1, END +1, INT +1, DEX +1, STR +1, Bonus +1, Good +1, Light +1|
+Marked Zorbak's Staff (Level: 20): Magic/Pierce/Melee|35-49|Crit +2, WIS +1, END +1, CHA +1, INT +2, DEX +2, STR +2, Bonus +2, Good +1, Light +3|
+Marked Zorbak's Staff (Level: 30): Magic/Pierce/Melee|45-59|Block +2, Dodge +2, Parry +2, Crit +3, WIS +2, END +2, CHA +2, INT +3, DEX +3, STR +3, Bonus +3, Mana -1, Good +2, Light +5|
+Marked Zorbak's Staff (Level: 40): Magic/Pierce/Melee|54-68|Block +4, Dodge +4, Parry +4, Crit +4, WIS +3, END +3, CHA +2, INT +4, DEX +4, STR +4, Bonus +4, Mana -1, Good +3, Light +6|
+Marked Zorbak's Staff (Level: 50): Magic/Pierce/Melee|60-76|Block +6, Dodge +6, Parry +6, Crit +5, WIS +5, END +5, CHA +3, INT +6, DEX +6, STR +6, Bonus +5, Mana -2, Good +4, Light +7|
+Marked Zorbak's Staff (Level: 60): Magic/Pierce/Melee|68-82|Block +8, Dodge +8, Parry +8, Crit +7, WIS +6, END +6, CHA +4, INT +8, DEX +8, STR +8, Bonus +7, Mana -3, Good +5, Light +8|
+Marked Zorbak's Staff (Level: 70): Magic/Pierce/Melee|74-90|Block +10, Dodge +10, Crit +9, WIS +6, END +6, CHA +6, INT +10, DEX +10, STR +10, Bonus +9, Mana -5, Good +6, Water +5, Light +8|
+Marked Zorbak's Staff (Level: 80): Magic/Pierce/Melee|74-102|Block +11, Dodge +11, Parry +11, Crit +10, WIS +6, END +6, CHA +8, INT +13, DEX +13, STR +13, Bonus +10, Mana -7, Good +9, Water +6, Light +11|
+
+Page: 83, Row: 27
+Maroon Love Poison #9 (Level: 80): Magic/Pierce/Melee|78-98|Block +4, Dodge +4, Parry +4, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +12, END +12, CHA +9, INT +11, DEX +11, STR +11, Bonus +9, Ice +14, Fire +14, Water +14|
+
+Page: 83, Row: 28
+HTTP Error 504: Gateway Timeout
+HTTP Error 504: Gateway Timeout
+Marquis Sword (Level: 15): Melee|32-40|Parry +1, Crit +2, Magic Def +2, Pierce Def +2|
+
+Page: 83, Row: 29
+Marsh Malaise (Level: 26): Magic|42-51|Crit +1, Melee Def +1, END -1, INT +2, Nature +2, Poison +2|
+
+Page: 83, Row: 30
+Marvelous Hallow'd Dagger (Level: 50): Pierce|60-76|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +5, LUK +1, DEX +6, Bonus +5, Health -1, Immobility +2, Light +7, Darkness +7|
+HTTP Error 504: Gateway Timeout
+
+Page: 84, Row: 1
+Marvelous Hallow'd Edge (Level: 50): Melee|60-76|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +5, LUK +1, STR +6, Bonus +5, Health -1, Immobility +2, Light +7, Darkness +7|
+
+Page: 84, Row: 2
+Marvelous Hallow'd Staff (Level: 50): Magic|60-76|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +5, LUK +1, INT +6, Bonus +5, Health -1, Immobility +2, Light +7, Darkness +7|
+
+Page: 84, Row: 3
+Masamune (Level: 65): Magic/Pierce/Melee|74-90|Block +2, Crit +10, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, CHA +7, LUK +7, INT +7, DEX +7, STR +7, Bonus +6, Immobility +7, Health -5, All +2, Silver +3, Light +7, Darkness +7|
+
+Page: 84, Row: 4
+HTTP Error 504: Gateway Timeout
+HTTP Error 504: Gateway Timeout
+The Massive Axe I (Level: 11): Magic/Pierce/Melee|22-36|Crit +1, END +1, CHA +2, INT +1, DEX +1, STR +1, All +1|
+The Massive Axe II (Level: 21): Magic/Pierce/Melee|34-48|Crit +2, END +1, CHA +3, INT +2, DEX +2, STR +2, All +2|
+The Massive Axe III (Level: 31): Magic/Pierce/Melee|44-58|Crit +3, END +2, CHA +3, INT +2, DEX +2, STR +2, All +3|
+The Massive Axe IV (Level: 41): Magic/Pierce/Melee|53-67|Crit +3, END +3, CHA +4, INT +3, DEX +3, STR +3, All +4|
+The Massive Axe XL (Level: 51): Magic/Pierce/Melee|60-74|Crit +5, END +4, CHA +5, INT +3, DEX +3, STR +3, All +5|
+
+Page: 84, Row: 5
+Master CorDemi Codex (Level: 20): Melee|35-51|Crit +3|
+
+Page: 84, Row: 6
+HTTP Error 504: Gateway Timeout
+Mauve Arc (Level: 40): Magic|50-72|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, LUK +5, INT +4, Bonus +4, Health -1, Fire +2, Darkness +4, Stone +4|
+
+Page: 84, Row: 7
+Mauve Blade (Level: 40): Melee|50-72|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, LUK +5, STR +4, Bonus +4, Health -1, Fire +2, Darkness +4, Stone +4|
+
+Page: 84, Row: 8
+Mauve Pointer (Level: 40): Pierce|50-72|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, LUK +5, DEX +4, Bonus +4, Health -1, Fire +2, Darkness +4, Stone +4|
+
+Page: 84, Row: 9
+Maxwell's Hammer (Level: 1): Melee|4-11|None|
+
+Page: 84, Row: 10
+HTTP Error 504: Gateway Timeout
+Melee (Level: 1): Melee|600-900|Crit +5|
+
+Page: 84, Row: 11
+HTTP Error 504: Gateway Timeout
+Melon Smasher (Level: 35): Magic|54-62|Crit +4, CHA +1, INT +4, STR +2, Bonus +2, Nature +3, Darkness +3|
+
+Page: 84, Row: 12
+Melted Stirring Spoon (Level: 10): Magic/Pierce/Melee|21-35|Crit +2, WIS +1, END +1, INT +1, DEX +1, STR +1, Bonus +1, Fire +2|
+Melted Stirring Spoon (Level: 20): Magic/Pierce/Melee|29-53|Block +1, Dodge +1, Parry +1, Crit +2, WIS +1, END +1, INT +1, DEX +1, STR +1, Bonus +1, Fire +3|
+Melted Stirring Spoon (Level: 30): Magic/Pierce/Melee|42-60|Block +3, Dodge +3, Parry +3, Crit +4, WIS +1, END +1, INT +3, DEX +3, STR +3, Bonus +3, Darkness +3, Fire +3|
+Melted Stirring Spoon (Level: 40): Magic/Pierce/Melee|50-72|Block +5, Dodge +5, Parry +5, Crit +4, WIS +2, END +2, INT +4, DEX +4, STR +4, Bonus +5, Mana -1, Water +2, Darkness +4, Fire +4|
+Melted Stirring Spoon (Level: 50): Magic/Pierce/Melee|61-75|Block +6, Dodge +6, Parry +6, Crit +6, WIS +4, END +4, INT +6, DEX +6, STR +6, Bonus +7, Mana -2, Water +3, Darkness +4, Fire +4|
+Melted Stirring Spoon (Level: 60): Magic/Pierce/Melee|62-88|Block +8, Dodge +8, Parry +8, Crit +6, WIS +5, END +5, INT +9, DEX +9, STR +9, Bonus +9, Mana -2, Water +4, Darkness +5, Fire +5|
+Melted Stirring Spoon (Level: 70): Magic/Pierce/Melee|72-90|Block +9, Dodge +9, Parry +9, Crit +8, WIS +6, END +6, INT +11, DEX +11, STR +11, Bonus +11, Mana -3, Water +5, Darkness +5, Fire +5|
+Melted Stirring Spoon (Level: 80): Magic/Pierce/Melee|74-102|Block +12, Dodge +12, Parry +12, Crit +10, WIS +8, END +8, INT +12, DEX +12, STR +12, Bonus +12, Mana -6, Water +8, Darkness +9, Fire +9|
+
+Page: 84, Row: 13
+Melting Arctic Blade (Level: 25): Melee|38-58|Crit +2, LUK +2, STR +2, Bonus +2, Ice +4|
+
+Page: 84, Row: 14
+Melting Arctic Dirk (Level: 25): Pierce|38-58| Crit +6, LUK +2, DEX +2, Bonus +2, Ice +4|
+
+Page: 84, Row: 15
+HTTP Error 504: Gateway Timeout
+Melting Arctic Staff (Level: 25): Magic|38-58| Crit +6, LUK +2, INT +2, Bonus +2, Ice +4|
+
+Page: 84, Row: 16
+Memory Staff (Level: 35): Magic|49-65|Crit +3, INT +3, Bonus +3, Wind +4|
+
+Page: 84, Row: 17
+Mephitic Dagger (Level: 23): Pierce|38-58|Crit +2, Magic Def +1, Pierce Def +1, CHA +1, DEX +1|
+
+Page: 84, Row: 18
+Mermaid's Hunting Knife (Level: 12): Pierce|26-38|Block +1, Crit +1|
+
+Page: 84, Row: 19
+Mermaid's Sharp Hunting Knife (Level: 28): Pierce|40-58|END +1, DEX +1, Water +2|
+
+Page: 84, Row: 20
+Metatron's Stave (Level: 25): Magic|41-53|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, CHA +1, LUK +1, INT +2, Bonus +1, Fire +2, Darkness +2|
+Metatron's Sight (Level: 35): Magic|46-66|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, CHA +2, LUK +2, INT +4, Bonus +2, Immobility +1, Evil +1, Fire +3, Darkness +3|
+Metatron's Voice (Level: 45): Magic|58-70|Block +1, Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, CHA +3, LUK +3, INT +5, Bonus +3, Immobility +2, Evil +3, Fire +5, Darkness +5|
+Metatron's Grace (Level: 55): Magic|62-80|Block +1, Parry +1, Crit +6, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, CHA +4, LUK +4, INT +6, Bonus +5, Health -2, Immobility +3, Evil +4, Fire +8, Darkness +8|
+Metatron's Wisdom (Level: 65): Magic|67-91|Block +1, Dodge +1, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +7, CHA +6, LUK +6, INT +9, Bonus +6, Health -3, Immobility +4, Evil +5, Fire +9, Darkness +9|
+Metatron's Wrath (Level: 70): Magic|72-94|Block +1, Dodge +1, Parry +1, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +8, CHA +6, LUK +6, INT +10, Bonus +7, Health -3, Immobility +4, Evil +6, Fire +10, Darkness +10|
+
+Page: 84, Row: 21
+Miasma (Level: 33): Magic|40-70|Crit +3, Melee Def +2, Bonus +3|
+
+Page: 84, Row: 22
+Midday (Level: 8): Pierce|20-32|Crit +1|
+Midday (Level: 23): Pierce|40-50|Crit +2, Bonus +2, Darkness +5|
+Midday (Level: 40): Pierce|54-70|Crit +2, STR +3, Bonus +4, Darkness +7|
+
+Page: 84, Row: 23
+Midgard Serpent Chakram (Level: 30): Pierce|42-62|Crit +6, Magic Def +4, Melee Def +4, WIS +4, END +5, DEX +5, Bonus +3, Energy +4|
+
+Page: 84, Row: 24
+Midknife (Level: 7): Pierce|8-16|Crit +1|
+
+Page: 84, Row: 25
+Midnight Talon (Level: 38): Melee|53-65|Crit +3, Melee Def +1, END +3, LUK +1, STR +3, Bonus +1|
+
+Page: 84, Row: 26
+Midsummer Knight's Blade I (Level: 14): Melee|29-39|Crit +1, END +2, Bonus +1|
+Midsummer Knight's Blade II (Level: 24): Melee|40-50|Crit +2, WIS +2, END +2, Bonus +2, Fire +3, Wind +3, Stone +3|
+Midsummer Knight's Blade III (Level: 34): Melee|49-60|Dodge +2, Crit +4, WIS +2, END +5, Bonus +2, Fire +5, Wind +5, Stone +5|
+Midsummer Knight's Blade IV (Level: 44): Melee|59-67|Dodge +3, Crit +5, WIS +1, END +6, Bonus +3, Fire +6, Wind +6, Stone +6|
+Midsummer Knight's Blade V (Level: 54): Melee|65-77|Dodge +3, Crit +5, END +8, STR +7, Bonus +5, Fire +9, Wind +9, Stone +9|
+Midsummer Knight's Blade VI (Level: 64): Melee|65-89|Dodge +3, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +7, END +9, STR +7, Bonus +7, Love +10, Poison +10, Darkness +10|
+
+Page: 84, Row: 27
+Midsummer Wizard's Wand I (Level: 14): Pierce|29-39|Crit +1, END +2, Bonus +1|
+Midsummer Rogue's Claw II (Level: 24): Pierce|40-50|Crit +2, WIS +2, END +2, Bonus +2, Fire +3, Wind +3, Stone +3|
+MidSummer Rogue's Claw III (Level: 34): Pierce|49-60|Dodge +2, Crit +4, WIS +2, END +5, Bonus +2, Fire +5, Wind +5, Stone +5|
+Midsummer Rogue's Claw IV (Level: 44): Pierce|59-67|Dodge +3, Crit +5, WIS +1, END +6, Bonus +3, Fire +6, Wind +6, Stone +6|
+Midsummer Rogue's Claw V (Level: 54): Pierce|65-77|Dodge +3, Crit +5, END +8, DEX +7, Bonus +5, Fire +9, Wind +9, Stone +9|
+Midsummer Rogue's Claw VI (Level: 64): Pierce|65-89|Dodge +3, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +7, END +9, DEX +7, Bonus +7, Love +10, Poison +10, Darkness +10|
+
+Page: 84, Row: 28
+Midsummer Wizard's Wand I (Level: 14): Magic|29-39|Crit +1, END +2, Bonus +1|
+Midsummer Wizard's Wand II (Level: 24): Magic|40-50|Crit +2, WIS +2, END +2, Bonus +2, Fire +3, Wind +3, Stone +3|
+Midsummer Wizard's Wand III (Level: 34): Magic|49-60|Dodge +2, Crit +4, WIS +2, END +5, Bonus +2, Fire +5, Wind +5, Stone +5|
+Midsummer Wizard Wand IV (Level: 44): Magic|59-67|Dodge +3, Crit +5, WIS +1, END +6, Bonus +3, Fire +6, Wind +6, Stone +6|
+Midsummer Wizard's Wand V (Level: 54): Magic|65-77|Dodge +3, Crit +5, END +8, INT +7, Bonus +5, Fire +9, Wind +9, Stone +9|
+Midsummer Wizard Wand VI (Level: 64): Magic|65-89|Dodge +3, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +7, END +9, INT +7, Bonus +7, Love +10, Poison +10, Darkness +10|
+
+Page: 84, Row: 29
+Mightier 100k Scythe (Level: 61): Magic/Pierce/Melee|70-80|Crit +6, WIS +5, END +5, INT +5, DEX +5, STR +5, Bonus +5, Fire +9, Water +9, Darkness +9, Light +9|
+
+Page: 84, Row: 30
+Mightiest 100k Scythe (Level: 72): Magic/Pierce/Melee|74-96|Dodge +1, Parry +1, Crit +9, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +8, END +8, INT +8, DEX +8, STR +8, Bonus +8, Immobility +2, Fire +11, Water +11, Darkness +11, Light +11|
+
+Page: 85, Row: 1
+HTTP Error 504: Gateway Timeout
+Mighty 100k Scythe (Level: 50): Magic/Pierce/Melee|63-75|Crit +4, END +5, INT +4, DEX +4, STR +4, Bonus +2, Fire +5, Water +5, Light +5, Darkness +5|
+
+Page: 85, Row: 2
+Mighty Ashara (Level: 43): Magic|59-67|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, END +3, INT +4, Bonus +2, Nature +2, Energy +5|
+
+Page: 85, Row: 3
+Mighty Blinding Light of Destiny (Level: 15): Melee|42-74|Crit +3, LUK +5, STR +4, Bonus +2|
+
+Page: 85, Row: 4
+HTTP Error 504: Gateway Timeout
+Mighty DragonStaff of Destiny (Level: 15): Magic|42-74|Crit +3, LUK +5, INT +4, Bonus +2|
+
+Page: 85, Row: 5
+Mighty Dread Scythe (Level: 60): Magic/Pierce/Melee|65-85|Crit +5, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +6, END +6, INT +5, DEX +5, STR +5, Bonus +5, Stone +10, Light +10|
+Mighty Dread Scythe (Level: 60): Magic/Pierce/Melee|65-85|Crit +5, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +6, END +6, INT +5, DEX +5, STR +5, Bonus +5, Stone +10, Light +10|
+
+Page: 85, Row: 6
+Mighty Fireslice (Level: 16): Pierce|36-42|Crit +2, Ice +1|
+
+Page: 85, Row: 7
+Mighty Flameguide (Level: 16): Magic|36-42|Crit +2, Ice +1|
+
+Page: 85, Row: 8
+Mighty Huntari (Level: 43): Melee|59-67|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, END +3, STR +4, Bonus +2, Nature +2, Energy +5|
+
+Page: 85, Row: 9
+Mighty Kaavi (Level: 43): Pierce|59-67|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, END +3, DEX +4, Bonus +2, Nature +2, Energy +5|
+
+Page: 85, Row: 10
+Mighty Purebeam (Level: 24): Melee|37-57|Crit +2, LUK +1, STR +4|
+
+Page: 85, Row: 11
+Mighty ShadowReaper of Doom (Level: 15): Melee|42-74|Crit +3, LUK -5, STR +4, Bonus +2|
+
+Page: 85, Row: 12
+HTTP Error 504: Gateway Timeout
+Mighty Shardknife (Level: 24): Pierce|38-56|Crit +2, LUK +1, DEX +4|
+
+Page: 85, Row: 13
+Mighty SkullStaff of Doom (Level: 15): Magic|42-74|Crit +3, LUK -5, INT +4, Bonus +2|
+
+Page: 85, Row: 14
+Mighty Staff of Purity (Level: 24): Magic|38-56|Crit +2, LUK +1, INT +4|
+
+Page: 85, Row: 15
+Mighty Twin Blades of Destiny (Level: 15): Pierce|42-75|Crit +3, LUK +5, DEX +4, Bonus +2|
+
+Page: 85, Row: 16
+Mighty Twin Blades of Doom (Level: 15): Pierce|42-74|Crit +3, LUK -5, DEX +4, Bonus +2|
+
+Page: 85, Row: 17
+Mighty Wrath of Flame (Level: 16): Melee|37-41|Crit +2, Ice +1|
+
+Page: 85, Row: 18
+Mighty Zephyric Pinwheel +5 (Level: 55): Melee|65-80|Dodge +5, Crit +5, WIS +3, END +8, STR +7, Bonus +5, Fire +9, Wind +9, Stone +9|
+
+Page: 85, Row: 19
+Mighty Zephyric Pinwheel +5 (Level: 55): Pierce|65-80|Dodge +5, Crit +5, WIS +3, END +8, DEX +7, Bonus +5, Fire +9, Wind +9, Stone +9|
+
+Page: 85, Row: 20
+Mighty Zephyric Pinwheel +5 (Level: 55): Magic|65-80|Dodge +5, Crit +5, WIS +3, END +8, INT +7, Bonus +5, Fire +9, Wind +9, Stone +9|
+
+Page: 85, Row: 21
+Minas Blade (Level: 60): Magic/Pierce/Melee|68-82|Dodge +1, Parry +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +1, CHA +7, LUK +4, INT +8, DEX +8, STR +8, Bonus +7, Health -2, Immobility +3, Energy +3, Darkness +5, Water +9|
+
+Page: 85, Row: 22
+HTTP Error 504: Gateway Timeout
+Mind Breaker (Level: 15): Magic|33-44|Block +2, Crit +2, INT +3|
+
+Page: 85, Row: 23
+Mind Vision (Level: 8): Magic|22-30|Crit +1|
+Mind Vision (Level: 23): Magic|40-50|Crit +2, Bonus +2, Darkness +5|
+Mind Vision (Level: 40): Magic|52-72|Crit +2, INT +3, Bonus +4, Darkness +7|
+
+Page: 85, Row: 24
+Mind's Eye Rod (Level: 30): Magic|46-58|Crit +3, END +3, DEX +2|
+
+Page: 85, Row: 25
+Mindtwist Scythe I (Level: 26): Magic/Pierce/Melee|38-58|Block +1, Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA -1, LUK +1, Bonus +2, Evil +2, Good +2, Darkness +3, Light +3|
+Mindtwist Scythe II (Level: 46): Magic/Pierce/Melee|55-75|Block +3, Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +3, CHA -3, LUK +3, Bonus +4, Evil +4, Good +4, Darkness +6, Light +6|
+Mindtwist Scythe III (Level: 66): Magic/Pierce/Melee|68-92|Block +5, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA -6, LUK +6, Bonus +7, Evil +8, Good +8, Darkness +10, Light +10|
+
+Page: 85, Row: 26
+HTTP Error 504: Gateway Timeout
+Mini Lava Dagger (Level: 16): Pierce|36-42|Crit +2, WIS +2, Ice +1|
+Mini Lava Dagger II (Level: 31): Pierce|42-62|Crit +2, END +2, DEX +2, Bonus +2, Ice +3|
+Mini Lava Dagger III (Level: 60): Pierce|71-75|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +4, DEX +5, Bonus +4, Ice +3, Water +3|
+
+Page: 85, Row: 27
+Mini Lava Staff (Level: 16): Magic|36-42|Crit +2, WIS +2, Ice +1|
+Mini Lava Staff II (Level: 31): Magic|42-62|Crit +2, END +2, INT +2, Bonus +2, Ice +3|
+Mini Lava Staff III (Level: 60): Magic|71-75|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +4, END +2, INT +5, Bonus +4, Ice +3, Water +3|
+
+Page: 85, Row: 28
+Mini Lava Sword (Level: 16): Melee|36-42|Crit +2, WIS +2, Ice +1|
+Mini Lava Sword II (Level: 31): Melee|42-62|Crit +2, END +2, STR +2, Bonus +2, Ice +3|
+Mini Lava Sword III (Level: 60): Melee|71-75|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +4, STR +5, Bonus +4, Ice +3, Water +3|
+
+Page: 85, Row: 29
+Minimalist Mayo Mechanism (Level: 29): Magic|44-54|Crit +2, WIS +2, END +2, Immobility +1, Fire +3, Ice +3, Light +3|
+Minimalist Mayo Mechanism II (Level: 38): Magic|53-65|Dodge +1, Crit +2, WIS +4, END +3, Bonus +2, Immobility +3, Fire +5, Ice +5, Light +5|
+Minimalist Mayo Mechanism III (Level: 52): Magic|60-80|Dodge +2, Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +5, Bonus +3, Immobility +5, Fire +8, Ice +8, Light +8|
+
+Page: 85, Row: 30
+Minnow (Level: 18): Pierce|32-44|CHA +2, DEX +1, Fire +1|
+
+Page: 86, Row: 1
+Minor Axe-Blade of Aww (Level: 28): Melee|43-55|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +2, CHA +1, LUK +1, STR +2, Bonus +2, Stone +1, Nature +1, Wind +2|
+
+Page: 86, Row: 2
+Minor Axe-Blade of Half Awf (Level: 28): Melee|43-55|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +2, CHA +1, LUK +1, STR +2, Bonus +2, Stone +1, Nature +1, Wind +2|
+
+Page: 86, Row: 3
+Minor Brokenblade (Level: 16): Melee|27-45|Crit +2, INT +2|
+
+Page: 86, Row: 4
+Minor Brokenblade Dagger (Level: 16): Pierce|27-45|Crit +2, DEX +2|
+
+Page: 86, Row: 5
+Minor Brokenblade Staff (Level: 16): Magic|27-45|Crit +2, INT +2|
+
+Page: 86, Row: 6
+Minor Bronzed Dagger (Level: 16): Pierce|27-41|None|
+
+Page: 86, Row: 7
+HTTP Error 504: Gateway Timeout
+Minor Bronzed Staff (Level: 16): Magic|27-41|None|
+
+Page: 86, Row: 8
+HTTP Error 504: Gateway Timeout
+Minor Bronzed Sword (Level: 16): Melee|27-41|None|
+
+Page: 86, Row: 9
+HTTP Error 504: Gateway Timeout
+Minor Cyclonic Sickle (Level: 16): Melee|27-43|Crit +2|
+
+Page: 86, Row: 10
+Minor Cyclonic Sickle Dagger (Level: 16): Pierce|27-43|Crit +2|
+
+Page: 86, Row: 11
+Minor Cyclonic Sickle Staff (Level: 16): Magic|27-43|Crit +2|
+
+Page: 86, Row: 12
+Minor Dagger of Aww (Level: 28): Pierce|43-55|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +2, CHA +1, LUK +1, DEX +2, Bonus +2, Stone +1, Nature +1, Wind +2|
+
+Page: 86, Row: 13
+Minor Dagger of Half Awf (Level: 28): Pierce|43-55|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +2, CHA +1, LUK +1, DEX +2, Bonus +2, Stone +1, Nature +1, Wind +2|
+
+Page: 86, Row: 14
+Minor Dragonsfall Blade (Level: 10): Melee|18-36|Crit +1, Ice +1|
+
+Page: 86, Row: 15
+Minor Dragonsfall Dagger (Level: 10): Pierce|20-34|Crit +1, Ice +1|
+
+Page: 86, Row: 16
+HTTP Error 504: Gateway Timeout
+Minor Dragonsfall Staff (Level: 10): Magic|20-34|Crit +1, Ice +1|
+
+Page: 86, Row: 17
+Minor Staff of Aww (Level: 28): Magic|43-55|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +2, CHA +1, LUK +1, INT +2, Bonus +2, Stone +1, Nature +1, Wind +2|
+
+Page: 86, Row: 18
+Minor Staff of Half Awf (Level: 28): Magic|43-55|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +2, CHA +1, LUK +1, INT +2, Bonus +2, Stone +1, Nature +1, Wind +2|
+
+Page: 86, Row: 19
+Minor Sunsabre (Level: 16): Melee|27-47|Crit +2, STR +2, Bonus +1, Stone +1|
+
+Page: 86, Row: 20
+Minor Sunsabre Dagger (Level: 16): Pierce|27-47|Crit +2, DEX +2, Bonus +1, Stone +1|
+
+Page: 86, Row: 21
+Minor Sunsabre Staff (Level: 16): Magic|27-47|Crit +2, INT +2, Bonus +1, Stone +1|
+
+Page: 86, Row: 22
+The Minute Hand I (Level: 25): Magic|41-49|Crit +4, INT +2, Bonus +2|
+The Minute Hand II (Level: 45): Magic|57-71|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, END +2, INT +4, Bonus +2|
+The Minute Hand III (Level: 55): Magic|65-79|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, END +4, LUK +2, INT +8, Bonus +4, Metal +6, Energy +6|
+
+Page: 86, Row: 23
+Miracle Staff (Level: 32): Magic|44-64|Crit +4, Pierce Def +3, Melee Def +3, INT +2, Bonus +2|
+
+Page: 86, Row: 24
+Mire Covered Sewer Dagger (Level: 49): Pierce|56-78|Crit +2, Magic Def +4, END +6, CHA -1, DEX +4, Bonus +5, Nature +3, Water +7|
+
+Page: 86, Row: 25
+Mire Covered Sewer Staff (Level: 49): Magic|56-78|Crit +2, Magic Def +4, END +6, CHA -1, INT +4, Bonus +5, Nature +3, Water +7|
+
+Page: 86, Row: 26
+Mire Covered Sewer Sword (Level: 49): Melee|56-78|Crit +2, Magic Def +4, END +6, CHA -1, STR +4, Bonus +5, Nature +3, Water +7|
+
+Page: 86, Row: 27
+Mire Malady (Level: 26): Pierce|42-51|Crit +1, Melee Def +1, END -1, DEX +2, Nature +2, Poison +2|
+
+Page: 86, Row: 28
+Mirror Sheen (Level: 12): Pierce|30-31|Crit +1, Bonus +1|
+
+Page: 86, Row: 29
+Mirrored Edge (Level: 2): Melee|8-12|None|
+
+Page: 86, Row: 30
+Misericorde (Level: 5): Pierce|14-24|Block +1, Crit +1|
+
+Page: 87, Row: 1
+Misplaced Deluge (Level: 5): Pierce|11-27|Crit +1, END +1, Fire +1|
+
+Page: 87, Row: 2
+Misplaced High Tide (Level: 5): Magic|11-27|WIS +1, Bonus +1, Fire +1|
+
+Page: 87, Row: 3
+Missed Ashrka (Level: 56): Melee|64-80|Crit +8, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +8, LUK +6, STR +6, Bonus +4, Water +6, Ice +8|
+
+Page: 87, Row: 4
+Missed Deluge (Level: 34): Pierce|50-64|Crit +4, Melee Def +1, END +3, DEX +4, Bonus +1, Energy +1, Fire +5|
+
+Page: 87, Row: 5
+Missed Eshrva (Level: 56): Pierce|64-80|Crit +8, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +8, LUK +6, DEX +6, Bonus +4, Water +6, Ice +8|
+
+Page: 87, Row: 6
+Missed High Tide (Level: 34): Magic|50-64|Crit +4, Melee Def +1, END +3, INT +4, Bonus +1, Energy +1, Fire +5|
+
+Page: 87, Row: 7
+Missed Ishrva (Level: 56): Magic|64-80|Crit +8, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +8, LUK +6, INT +6, Bonus +4, Water +6, Ice +8|
+
+Page: 87, Row: 8
+Missed Wavecrest (Level: 34): Melee|50-64|Crit +4, Melee Def +1, END +3, STR +4, Bonus +1, Energy +1, Fire +5|
+
+Page: 87, Row: 9
+HTTP Error 504: Gateway Timeout
+Mistral Rod (Level: 20): Magic|41-47|Crit +2, Melee Def +3, LUK +1, END +2|
+
+Page: 87, Row: 10
+Mizzenstaff (Level: 27): Magic|38-54|Crit +2|
+
+Page: 87, Row: 11
+Mjolnir (Level: 30): Melee|42-62|Crit +6, Magic Def +4, Melee Def +4, WIS +4, END +5, STR +5, Bonus +3, Energy +4|
+
+Page: 87, Row: 12
+Mobile Controls (Level: 1): Magic/Pierce/Melee|700-1000|Crit +15, Bonus +25|
+
+Page: 87, Row: 13
+Modded Knife (Level: 16): Pierce|24-48|Block +1, Crit +1|
+
+Page: 87, Row: 14
+Modular Mayo Mallet (Level: 29): Melee|44-54|Crit +2, END +2, STR +2, Immobility +1, Fire +3, Ice +3, Light +3|
+Modular Mayo Mallet II (Level: 38): Melee|53-65|Dodge +1, Crit +2, END +3, STR +4, Bonus +2, Immobility +3, Fire +5, Ice +5, Light +5|
+Modular Mayo Mallet III (Level: 52): Melee|60-80|Dodge +2, Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, END +5, STR +5, Bonus +3, Immobility +5, Fire +8, Ice +8, Light +8|
+
+Page: 87, Row: 15
+Moglin Frier (Level: 3): Melee|2-22|Crit +1|
+
+Page: 87, Row: 16
+Moglinberry Cider Mug Shiv (Level: 80): Pierce|74-102|Block +1, Dodge +1, Parry +2, Crit +11, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, CHA +6, LUK +6, DEX +12, Bonus +9, Health -4, Darkness +9, Energy +9, Water +8, Ice +8|
+
+Page: 87, Row: 17
+Moglinberry Cider Mug Staff (Level: 80): Magic|74-102|Block +1, Dodge +1, Parry +2, Crit +11, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, CHA +6, LUK +6, INT +12, Bonus +9, Health -4, Darkness +9, Energy +9, Water +8, Ice +8|
+
+Page: 87, Row: 18
+HTTP Error 504: Gateway Timeout
+Moglinberry Cider Mug Sword (Level: 80): Melee|74-102|Block +1, Dodge +1, Parry +2, Crit +11, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, CHA +6, LUK +6, STR +12, Bonus +9, Health -4, Ice +8, Water +8, Energy +9, Darkness +9|
+
+Page: 87, Row: 19
+Moglinberry Masher I (Level: 10): Magic/Pierce/Melee|30-36|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, CHA +2, LUK +2, INT +2, DEX +2, STR +2, Bonus +2, Health -1, Fire +1, Wind +1|
+Moglinberry Masher II (Level: 20): Magic/Pierce/Melee|38-44|Parry +1, Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, CHA +3, LUK +3, INT +3, DEX +3, STR +3, Bonus +3, Health -1, Fire +4, Wind +4|
+Moglinberry Masher III (Level: 30): Magic/Pierce/Melee|53-59|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, CHA +4, LUK +4, INT +4, DEX +4, STR +4, Bonus +3, Health -1, Fire +4, Wind +4|
+Moglinberry Masher IV (Level: 40): Magic/Pierce/Melee|45-85|Crit +6, Magic Def +4, Pierce Def +4, Melee Def +4, CHA +5, LUK +5, INT +5, DEX +5, STR +5, Bonus +4, Health -2, Fire +6, Wind +6|
+Moglinberry Masher V (Level: 50): Magic/Pierce/Melee|69-75|Parry +2, Crit +8, Magic Def +5, Pierce Def +5, Melee Def +5, CHA +6, LUK +6, INT +6, DEX +6, STR +6, Bonus +5, Health -2, Fire +6, Wind +6|
+Moglinberry Masher VI (Level: 60): Magic/Pierce/Melee|76-82|Dodge +1, Parry +2, Crit +9, Magic Def +6, Pierce Def +6, Melee Def +6, CHA +7, LUK +7, INT +8, DEX +8, STR +8, Bonus +6, Health -3, Fire +6, Wind +6|
+Moglinberry Masher VII (Level: 70): Magic/Pierce/Melee|83-89|Dodge +1, Parry +3, Crit +10, Magic Def +7, Pierce Def +7, Melee Def +7, CHA +8, LUK +8, INT +10, DEX +10, STR +10, Bonus +6, Health -3, Fire +6, Wind +6|
+Moglinberry Masher VIII (Level: 80): Magic/Pierce/Melee|88-94|Dodge +2, Parry +3, Crit +14, Magic Def +9, Pierce Def +9, Melee Def +9, CHA +10, LUK +10, INT +14, DEX +14, STR +14, Bonus +8, Health -4, Fire +7, Wind +7|
+Moglinberry Masher IX (Level: 90): Magic/Pierce/Melee|93-99|Block +3, Dodge +3, Parry +3, Crit +15, Magic Def +9, Pierce Def +9, Melee Def +9, CHA +12, LUK +12, INT +18, DEX +18, STR +18, Bonus +10, Health -5, Fire +7, Wind +7|
+
+Page: 87, Row: 20
+Moglinberry Void Cider Mug Shiv (Level: 80): Pierce|80-102|Block +1, Dodge +1, Parry +2, Crit +12, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +9, END +9, CHA +6, LUK +6, DEX +13, Bonus +9, Health -4, Ice +8, Water +8, Energy +9, Darkness +9|
+
+Page: 87, Row: 21
+Moglinberry Void Cider Mug Staff (Level: 80): Magic|80-102|Block +1, Dodge +1, Parry +2, Crit +12, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +9, END +9, CHA +6, LUK +6, INT +13, Bonus +9, Health -4, Ice +8, Water +8, Energy +9, Darkness +9|
+
+Page: 87, Row: 22
+Moglinberry Void Cider Mug Sword (Level: 80): Melee|80-102|Block +1, Dodge +1, Parry +2, Crit +12, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +9, END +9, CHA +6, LUK +6, STR +13, Bonus +9, Health -4, Ice +8, Water +8, Energy +9, Darkness +9|
+
+Page: 87, Row: 23
+Molecular Mayo Misericorde (Level: 29): Pierce|44-54|Crit +2, END +2, STR +2, Immobility +1, Fire +3, Ice +3, Light +3|
+Molecular Mayo Misericorde II (Level: 38): Pierce|53-65|Dodge +1, Crit +2, END +3, DEX +4, Bonus +2, Immobility +3, Fire +5, Ice +5, Light +5|
+Molecular Mayo Misericorde III (Level: 52): Pierce|60-80|Dodge +2, Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, END +5, STR +5, Bonus +3, Immobility +5, Fire +8, Ice +8, Light +8|
+
+Page: 87, Row: 24
+Molten Dagger (Level: 13): Pierce|28-34|CHA +1|
+
+Page: 87, Row: 25
+Monkeywrench (Level: 26): Melee|38-52|Crit +1, STR +3|
+
+Page: 87, Row: 26
+Monolith Dagger (Level: 30): Pierce|44-68|Dodge +1, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, CHA +3, DEX +5, Bonus +3, All +1, Fire +1, Ice +4, Energy +4, Water +4|
+
+Page: 87, Row: 27
+Monolith Mace (Level: 30): Melee|44-68|Dodge +1, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, CHA +3, STR +5, Bonus +3, All +1, Fire +1, Ice +4, Energy +4, Water +4|
+
+Page: 87, Row: 28
+Monolith Staff (Level: 30): Magic|44-68|Dodge +1, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, CHA +3, INT +5, Bonus +3, All +1, Fire +1, Ice +4, Energy +4, Water +4|
+
+Page: 87, Row: 29
+Moonbleed (Level: 15): Pierce|34-42|Crit +1|
+
+Page: 87, Row: 30
+Mooncaller Scimitar (Level: 15): Melee|34-34|Crit +2, STR +1, Bonus +2, Light +1, Darkness +1|
+Mooncaller Scimitar (Level: 25): Melee|45-45|Crit +3, STR +2, Bonus +3, Light +1, Darkness +1|
+Mooncaller Scimitar (Level: 35): Melee|55-55|Crit +4, STR +4, Bonus +4, Light +2, Darkness +2|
+Mooncaller Scimitar (Level: 45): Melee|63-63|Block +1, Dodge +1, Parry +1, Crit +5, STR +6, Bonus +5, Light +3, Darkness +3|
+Mooncaller Scimitar (Level: 55): Melee|70-70|Block +2, Dodge +2, Parry +2, Crit +6, STR +7, Bonus +6, Light +4, Darkness +4|
+Mooncaller Scimitar (Level: 65): Melee|78-78|Block +4, Dodge +4, Parry +4, Crit +8, STR +9, Bonus +8, Light +5, Darkness +5|
+Mooncaller Scimitar (Level: 75): Melee|83-83|Block +5, Dodge +5, Parry +5, Crit +10, STR +12, Bonus +10, Light +6, Darkness +6|
+Mooncaller Scimitar (Level: 85): Melee|92-92|Block +8, Dodge +8, Parry +8, Crit +12, STR +14, Bonus +12, Light +7, Darkness +7|
+
+Page: 88, Row: 1
+Mooncaller Sickle (Level: 15): Pierce|34-34|Crit +2, DEX +1, Bonus +2, Light +1, Darkness +1|
+Mooncaller Sickle (Level: 25): Pierce|45-45|Crit +3, DEX +2, Bonus +3, Light +1, Darkness +1|
+Mooncaller Sickle (Level: 35): Pierce|55-55|Crit +4, DEX +4, Bonus +4, Light +2, Darkness +2|
+Mooncaller Sickle (Level: 45): Pierce|63-63|Block +1, Dodge +1, Parry +1, Crit +5, DEX +6, Bonus +5, Light +3, Darkness +3|
+Mooncaller Sickle (Level: 55): Pierce|70-70|Block +2, Dodge +2, Parry +2, Crit +6, DEX +7, Bonus +6, Light +4, Darkness +4|
+Mooncaller Sickle (Level: 65): Pierce|78-78|Block +4, Dodge +4, Parry +4, Crit +8, DEX +9, Bonus +8, Light +5, Darkness +5|
+Mooncaller Sickle (Level: 75): Pierce|83-83|Block +5, Dodge +5, Parry +5, Crit +10, DEX +12, Bonus +10, Light +6, Darkness +6|
+Mooncaller Sickle (Level: 85): Pierce|92-92|Block +8, Dodge +8, Parry +8, Crit +12, DEX +14, Bonus +12, Light +7, Darkness +7|
+
+Page: 88, Row: 2
+Mooncaller Staff (Level: 15): Magic|34-34|Crit +2, INT +1, Bonus +2, Light +1, Darkness +1|
+Mooncaller Staff (Level: 25): Magic|45-45|Crit +3, INT +2, Bonus +3, Light +1, Darkness +1|
+Mooncaller Staff (Level: 35): Magic|55-55|Crit +4, INT +4, Bonus +4, Light +2, Darkness +2|
+Mooncaller Staff (Level: 45): Magic|63-63|Block +1, Dodge +1, Parry +1, Crit +5, INT +6, Bonus +5, Light +3, Darkness +3|
+Mooncaller Staff (Level: 55): Magic|70-70|Block +2, Dodge +2, Parry +2, Crit +6, INT +7, Bonus +6, Light +4, Darkness +4|
+Mooncaller Staff (Level: 65): Magic|78-78|Block +4, Dodge +4, Parry +4, Crit +8, INT +9, Bonus +8, Light +5, Darkness +5|
+Mooncaller Staff (Level: 75): Magic|83-83|Block +5, Dodge +5, Parry +5, Crit +10, INT +12, Bonus +10, Light +6, Darkness +6|
+Mooncaller Staff (Level: 85): Magic|92-92|Block +8, Dodge +8, Parry +8, Crit +12, INT +14, Bonus +12, Light +7, Darkness +7|
+
+Page: 88, Row: 3
+'Item Type: '-1|'Attack Type: '482Mooncalling Staff (Level: 5): Magic|6-30|Crit +1|
+
+Page: 88, Row: 4
+Mooncrash (Level: 15): Magic|34-42|Crit +1|
+
+Page: 88, Row: 5
+Moonridge Cutters (Level: 16): Pierce|28-50|Crit +1, DEX +2, Bonus +1, Darkness +2|
+Moonridge Cutters II (Level: 26): Pierce|37-59|Crit +1, WIS +1, END +1, DEX +2, Bonus +1, Darkness +2|
+Moonridge Cutters III (Level: 36): Pierce|51-63|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +3, END +3, DEX +3, Bonus +2, Darkness +5|
+Moonridge Cutters IV (Level: 46): Pierce|57-73|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +4, END +4, DEX +3, Bonus +3, Immobility +3, Darkness +5|
+Moonridge Cutters V (Level: 56): Pierce|65-83|Dodge +1, Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, DEX +5, Bonus +3, Immobility +3, Darkness +8|
+
+Page: 88, Row: 6
+Moonridge Greatsword (Level: 16): Melee|28-50|Crit +1, STR +2, Bonus +1, Darkness +2|
+Moonridge Greatsword II (Level: 26): Melee|37-59|Crit +1, WIS +1, END +1, STR +2, Bonus +1, Darkness +2|
+Moonridge Greatsword III (Level: 36): Melee|51-63|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +3, END +3, STR +3, Bonus +2, Darkness +5|
+Moonridge Greatsword IV (Level: 46): Melee|57-73|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +4, END +4, STR +3, Bonus +3, Immobility +3, Darkness +5|
+Moonridge Greatsword V (Level: 56): Melee|65-83|Dodge +1, Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, STR +5, Bonus +3, Immobility +3, Darkness +8|
+
+Page: 88, Row: 7
+HTTP Error 504: Gateway Timeout
+Moonridge Honorstaff (Level: 16): Magic|28-50|Crit +1, INT +2, Bonus +1, Darkness +2|
+Moonridge Honorstaff II (Level: 26): Magic|37-59|Crit +1, WIS +1, END +1, INT +2, Bonus +1, Darkness +2|
+Moonridge Honorstaff III (Level: 36): Magic|51-63|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +3, END +3, INT +3, Bonus +2, Darkness +5|
+Moonridge Honorstaff IV (Level: 46): Magic|57-73|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +4, END +4, INT +3, Bonus +3, Immobility +3, Darkness +5|
+Moonridge Honorstaff V (Level: 56): Magic|65-83|Dodge +1, Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, INT +5, Bonus +3, Immobility +3, Darkness +8|
+
+Page: 88, Row: 8
+Moonsabre (Level: 10): Melee|21-33|Crit +1, WIS +1, END +1, STR +1, Bonus +1, Mana -1, Light +1|
+Moonsabre (Level: 20): Melee|29-51|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +1, LUK +1, STR +1, Bonus +1, Mana -1, Fire +1, Water +1, Light +1|
+Moonsabre (Level: 30): Melee|42-58|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +1, END +1, CHA +1, LUK +1, STR +3, Bonus +3, Mana -1, Fire +1, Water +2, Light +2|
+Moonsabre (Level: 40): Melee|50-70|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, CHA +2, LUK +2, STR +4, Bonus +4, Mana -1, Fire +2, Water +3, Light +3|
+Moonsabre (Level: 50): Melee|61-73|Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, CHA +4, LUK +4, STR +6, Bonus +5, Mana -2, Fire +3, Water +4, Light +4|
+Moonsabre (Level: 60): Melee|62-86|Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, CHA +5, LUK +5, STR +8, Bonus +6, Mana -2, Fire +4, Water +5, Light +5|
+Moonsabre (Level: 70): Melee|72-88|Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +6, LUK +6, STR +9, Bonus +7, Mana -3, Fire +5, Water +6, Light +6|
+Moonsabre (Level: 80): Melee|74-102|Crit +11, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, CHA +6, LUK +6, STR +12, Bonus +9, Mana -7, Fire +8, Water +10, Light +10|
+
+Page: 88, Row: 9
+Moonsabre Dagger (Level: 10): Pierce|21-33|Crit +1, WIS +1, END +1, DEX +1, Bonus +1, Mana -1, Light +1|
+Moonsabre Dagger (Level: 20): Pierce|29-51|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +1, LUK +1, DEX +1, Bonus +1, Mana -1, Fire +1, Water +1, Light +1|
+Moonsabre Dagger (Level: 30): Pierce|42-58|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +1, END +1, CHA +1, LUK +1, DEX +3, Bonus +3, Mana -1, Fire +1, Water +2, Light +2|
+Moonsabre Dagger (Level: 40): Pierce|50-70|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, CHA +2, LUK +2, DEX +4, Bonus +4, Mana -1, Fire +2, Water +3, Light +3|
+Moonsabre Dagger (Level: 50): Pierce|61-73|Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, CHA +4, LUK +4, DEX +6, Bonus +5, Mana -2, Fire +3, Water +4, Light +4|
+Moonsabre Dagger (Level: 60): Pierce|62-86|Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, CHA +5, LUK +5, DEX +8, Bonus +6, Mana -2, Fire +4, Water +5, Light +5|
+Moonsabre Dagger (Level: 70): Pierce|72-88|Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +6, LUK +6, DEX +9, Bonus +7, Mana -3, Fire +5, Water +6, Light +6|
+Moonsabre Dagger (Level: 80): Pierce|74-102|Crit +11, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, CHA +6, LUK +6, DEX +12, Bonus +9, Mana -7, Fire +8, Water +10, Light +10|
+
+Page: 88, Row: 10
+Moonsabre Staff (Level: 10): Magic|21-33|Crit +1, WIS +1, END +1, INT +1, Bonus +1, Mana -1, Light +1|
+Moonsabre Staff (Level: 20): Magic|29-51|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +1, LUK +1, INT +1, Bonus +1, Mana -1, Fire +1, Water +1, Light +1|
+Moonsabre Staff (Level: 30): Magic|42-58|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +1, END +1, CHA +1, LUK +1, INT +3, Bonus +3, Mana -1, Fire +1, Water +2, Light +2|
+Moonsabre Staff (Level: 40): Magic|50-70|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, CHA +2, LUK +2, INT +4, Bonus +4, Mana -1, Fire +2, Water +3, Light +3|
+Moonsabre Staff (Level: 50): Magic|61-73|Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, CHA +4, LUK +4, INT +6, Bonus +5, Mana -2, Fire +3, Water +4, Light +4|
+Moonsabre Staff (Level: 60): Magic|62-86|Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, CHA +5, LUK +5, INT +8, Bonus +6, Mana -2, Fire +4, Water +5, Light +5|
+Moonsabre Staff (Level: 70): Magic|72-88|Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +6, LUK +6, INT +9, Bonus +7, Mana -3, Fire +5, Water +6, Light +6|
+Moonsabre Staff (Level: 80): Magic|74-102|Crit +11, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, CHA +6, LUK +6, INT +12, Bonus +9, Mana -7, Fire +8, Water +10, Light +10|
+
+Page: 88, Row: 11
+HTTP Error 504: Gateway Timeout
+Moonstriker (Level: 15): Melee|33-43|Crit +1|
+
+Page: 88, Row: 12
+MOP (Level: 60): Magic/Pierce/Melee|67-83|Parry +1, Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +5, LUK +4, INT +5, DEX +5, STR +5, Bonus +6, Water +7, Darkness +3|
+
+Page: 88, Row: 13
+Moss Green Crystal Blade I (Level: 23): Pierce|35-51|Crit +2, WIS +2, END +2, DEX +1, Bonus +1, Water +2|
+Moss Green Crystal Blade II (Level: 43): Pierce|54-70|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +4, END +4, DEX +4, Bonus +4, Light +3, Fire +3, Water +4|
+Moss Green Crystal Blade III (Level: 63): Pierce|68-84|Block +1, Dodge +1, Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +6, END +6, DEX +6, Bonus +6, Immobility +2, Light +6, Fire +6, Water +7|
+Moss Green Crystal Blade IV (Level: 75): Pierce|76-90|Block +1, Dodge +2, Crit +8, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +7, END +7, DEX +8, Bonus +7, Immobility +3, Light +7, Fire +7, Water +9|
+Moss Green Crystal Blade V (Level: 80): Pierce|74-102|Block +2, Dodge +2, Parry +1, Crit +11, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +9, END +9, DEX +13, Bonus +9, Immobility +3, Fire +11, Wind +11, Light +11, Water +11|
+
+Page: 88, Row: 14
+Mossy Slime Staff (Level: 32): Magic|49-57|Crit +3, WIS +1, INT +2, Bonus +3, Nature +3|
+
+Page: 88, Row: 15
+Mother's Love (Level: 65): Magic|74-90|Block +1, Crit +8, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +7, CHA +7, LUK +7, INT +7, Bonus +6, All +2, Health -5, Immobility +7, Light +7, Darkness +7|
+
+Page: 88, Row: 16
+Motherlove I (Level: 15): Magic|22-44|Melee Def +1, END +1, Light +1, Darkness +1|
+Motherlove II (Level: 30): Magic|43-56|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, END +1, INT +2, Bonus +1, Light +3, Darkness +3|
+Motherlove III (Level: 37): Magic|53-63|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, END +3, INT +3, Bonus +1|
+Motherlove IV (Level: 45): Magic|57-71|Crit +3, Magic Def +3, Pierce Def +1, Melee Def +3, END +4, INT +5, Bonus +2, Light +5, Darkness +5|
+
+Page: 88, Row: 17
+HTTP Error 504: Gateway Timeout
+Mottoro Shari Avi (Level: 55): Pierce|65-79|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, END +7, DEX +7, Bonus +4, Water +5, Energy +7|
+
+Page: 88, Row: 18
+Mournful Gloom Glaive (Level: 70): Magic/Pierce/Melee|78-94|Dodge +1, Parry +3, Crit +10, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +8, END +5, CHA +4, INT +10, DEX +10, STR +10, Bonus +6, Health -16, All +13|
+
+Page: 88, Row: 19
+Mountain Mover (Level: 16): Magic|31-49|Crit +2, END +1, INT +2|
+
+Page: 88, Row: 20
+Movement Blade (Level: 20): Melee|38-40|Crit +1, STR +1|
+
+Page: 88, Row: 21
+Mud Covered Sewer Dagger (Level: 39): Pierce|46-70|Crit +1, Magic Def +3, END +5, CHA -1, DEX +3, Bonus +4, Nature +2, Water +6|
+
+Page: 88, Row: 22
+Mud Covered Sewer Staff (Level: 39): Magic|46-70|Crit +1, Magic Def +3, END +5, CHA -1, INT +3, Bonus +4, Nature +2, Water +6|
+
+Page: 88, Row: 23
+Mud Covered Sewer Sword (Level: 39): Melee|46-70|Crit +1, Magic Def +3, END +5, CHA -1, STR +3, Bonus +4, Nature +2, Water +6|
+
+Page: 88, Row: 24
+Mulberry Arc (Level: 50): Magic|61-75|Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, LUK +6, INT +6, Bonus +5, Health -2, Fire +3, Darkness +4, Stone +4|
+
+Page: 88, Row: 25
+Mulberry Blade (Level: 50): Melee|61-75|Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, LUK +6, STR +6, Bonus +5, Health -2, Fire +3, Darkness +4, Stone +4|
+
+Page: 88, Row: 26
+Mulberry Pointer (Level: 50): Pierce|61-75|Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, LUK +6, DEX +6, Bonus +5, Health -2, Fire +3, Darkness +4, Stone +4|
+
+Page: 88, Row: 27
+Mulled Cider Mug Shiv (Level: 60): Pierce|62-88|Parry +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, CHA +5, LUK +5, DEX +8, Bonus +6, Health -2, Darkness +5, Energy +5, Water +4|
+
+Page: 88, Row: 28
+Mulled Cider Mug Staff (Level: 60): Magic|62-88|Parry +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, CHA +5, LUK +5, INT +8, Bonus +6, Health -2, Darkness +5, Energy +5, Water +4|
+
+Page: 88, Row: 29
+Mulled Cider Mug Sword (Level: 60): Melee|62-88|Parry +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, CHA +5, LUK +5, STR +8, Bonus +6, Health -2, Darkness +5, Energy +5, Water +4|
+
+Page: 88, Row: 30
+Mulled Void Cider Mug Shiv (Level: 60): Pierce|68-92|Parry +1, Crit +8, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +6, CHA +5, LUK +5, DEX +9, Bonus +6, Health -2, Water +4, Energy +5, Darkness +5|
+
+Page: 89, Row: 1
+Mulled Void Cider Mug Staff (Level: 60): Magic|68-92|Parry +1, Crit +8, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +6, CHA +5, LUK +5, INT +9, Bonus +6, Health -2, Water +4, Energy +5, Darkness +5|
+
+Page: 89, Row: 2
+HTTP Error 504: Gateway Timeout
+Mulled Void Cider Mug Sword (Level: 60): Melee|68-92|Parry +1, Crit +8, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +6, CHA +5, LUK +5, STR +9, Bonus +6, Health -2, Water +4, Energy +5, Darkness +5|
+
+Page: 89, Row: 3
+Mummy's Torment (Level: 13): Magic|27-37|Crit +2|
+Mummy's Curse (Level: 32): Magic|40-68|LUK -2, INT +2, DEX +2, Darkness +3|
+
+Page: 89, Row: 4
+Murdok's Hand (Level: 32): Melee|48-60|Bonus +3|
+
+Page: 89, Row: 5
+Musty Parasol I (Level: 28): Magic/Pierce/Melee|42-56|Magic Def +1, Pierce Def +1, Melee Def +1, END +4, Bonus +2, Light +1, Darkness +1, Stone +1|
+Musty Parasol II (Level: 48): Magic/Pierce/Melee|60-74|Block +1, Dodge +1, Parry +1, Magic Def +3, Pierce Def +3, Melee Def +3, END +6, Bonus +3, Light +6, Darkness +6, Stone +6|
+Musty Parasol III (Level: 58): Magic/Pierce/Melee|68-82|Block +3, Dodge +3, Parry +3, Magic Def +4, Pierce Def +4, Melee Def +4, END +8, Bonus +4, Light +10, Darkness +10, Stone +10|
+
+Page: 89, Row: 6
+Mutated Staph (Level: 49): Magic|58-75|Crit +3, Melee Def +3, END +4, INT +6, Bonus +3, Poison -1, Stone +6|
+
+Page: 89, Row: 7
+Mystic Desert Glass (Level: 32): Magic|52-58|Crit +3, Melee Def +2, INT +2, DEX +1, Bonus +1|
+
+Page: 89, Row: 8
+HTTP Error 504: Gateway Timeout
+HTTP Error 504: Gateway Timeout
+Mystical Katana (Level: 10): Magic/Pierce/Melee|28-36|Crit +1, INT +1, DEX +1, STR +1|
+Mystical Katana (Level: 20): Magic/Pierce/Melee|35-55|Crit +2, WIS +1, END +1, INT +1, DEX +1, STR +1, Bonus +1|
+Mystical Katana (Level: 40): Magic/Pierce/Melee|58-70|Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, END +3, INT +4, DEX +4, STR +4, Bonus +4|
+Mystical Katana (Level: 60): Magic/Pierce/Melee|76-82|Block +1, Dodge +1, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, INT +8, DEX +8, STR +8, Bonus +7|
+Mystical Katana (Level: 80): Magic/Pierce/Melee|84-102|Block +2, Dodge +2, Parry +1, Crit +15, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +8, END +10, INT +15, DEX +15, STR +15, Bonus +10, All +2, Immobility +8, Energy +6, Nature +6, Stone +13, Ice +13, Darkness +13|
+
+Page: 89, Row: 9
+Mystical Sapphire Broadsword (Level: 10): Melee|21-33|Crit +1, WIS +1, END +1, STR +1, Bonus +1, Health -1, Wind +1|
+Mystical Sapphire Broadsword (Level: 20): Melee|29-51|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +1, LUK +1, STR +1, Bonus +1, Health -1, Fire +1, Water +1, Wind +1|
+Mystical Sapphire Broadsword (Level: 30): Melee| 42-58|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +1, END +1, CHA +1, LUK +1, STR +3, Bonus +3, Health -1, Fire +1, Water +2, Wind +2|
+Mystical Sapphire Broadsword (Level: 40): Melee|50-70|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, CHA +2, LUK +2, STR +4, Bonus +4, Health -1, Fire +2, Water +3, Wind +3|
+Mystical Sapphire Broadsword (Level: 50): Melee|61-73|Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, CHA +4, LUK +4, STR +6, Bonus +5, Health -2, Fire +3, Water +4, Wind +4|
+Mystical Sapphire Broadsword (Level: 60): Melee|62-86|Parry +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, CHA +5, LUK +5, STR +8, Bonus +6, Health -2, Fire +4, Water +5, Wind +5|
+Mystical Sapphire Broadsword (Level: 70): Melee|72-88|Dodge +1, Parry +1, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +6, LUK +6, STR +9, Bonus +7, Health -3, Fire +5, Water +6, Wind +6|
+Mystical Sapphire Broadsword (Level: 75): Melee|76-94|Block +1, Dodge +1, Parry +1, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, END +6, CHA +6, LUK +6, STR +10, Bonus +8, Health -4, Fire +6, Water +8, Wind +8|
+Mystical Sapphire Broadsword (Level: 80): Melee|74-102|Block +1, Dodge +1, Parry +2, Crit +11, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, CHA +6, LUK +6, STR +12, Bonus +9, Health -7, Fire +8, Water +10, Wind +10|
+
+Page: 89, Row: 10
+Nalmir's Consummate Gift (Level: 70): Melee|72-94|Parry +2, Crit +8, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +7, END +2, CHA +7, STR +7, Bonus +3, Immobility +4, Ice +8, Water +8, Fire +8|
+
+Page: 89, Row: 11
+Nalmir's Final Gift (Level: 18): Melee|33-47|Crit +4, Fire +5|
+
+Page: 89, Row: 12
+Nalmir's Paramount Gift (Level: 49): Melee|58-74|Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, CHA +4, STR +4, Bonus +2, Ice +5, Water +5, Fire +5|
+
+Page: 89, Row: 13
+Nalmir's Refined Gift (Level: 33): Melee|50-58|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, CHA +2, STR +2, Bonus +1, Water +5, Fire +5|
+
+Page: 89, Row: 14
+Nalmir's True Gift (Level: 57): Melee|65-79|Parry +1, Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, CHA +5, STR +5, Bonus +2, Ice +7, Water +7, Fire +7|
+
+Page: 89, Row: 15
+Naner One (Level: 4): Melee|12-24|Crit +1|
+Naner Two (Level: 11): Melee|28-36|Crit +2|
+Naner Three (Level: 17): Melee|36-44|Crit +2, Bonus +1|
+Naner Four (Level: 24): Melee|40-54|Crit +2, STR +2, Bonus +1|
+Naner Five (Level: 28): Melee|45-57|Crit +3, STR +2, Bonus +2|
+Naner Six (Level: 33): Melee|52-60|Crit +3, STR +4, Bonus +2|
+Naner Seven (Level: 40): Melee|50-74|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, END +2, STR +4, Bonus +2|
+
+Page: 89, Row: 16
+HTTP Error 504: Gateway Timeout
+Naturaus (Level: 21): Pierce|38-48|Crit +1, Melee Def +1, END +1, LUK +1, DEX +1, Fire +1|
+
+Page: 89, Row: 17
+Nature Dragon's Power I (Level: 10): Magic|27-39|Crit +2, WIS +1, END +1, INT +1, Bonus +1, Health -1, Metal +2|
+Nature Dragon's Power II (Level: 20): Magic|37-57|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +2, CHA +1, LUK +1, INT +2, Bonus +1, Health -1, Metal +3|
+Nature Dragon's Power III (Level: 30): Magic|48-64|Crit +5, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +2, CHA +1, LUK +1, INT +4, Bonus +3, Health -1, Fire +3, Metal +3|
+Nature Dragon's Power IV (Level: 40): Magic|56-76|Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +3, END +3, CHA +2, LUK +2, INT +5, Bonus +4, Health -1, Water +2, Fire +4, Metal +4|
+Nature Dragon's Power V (Level: 50): Magic|65-79|Crit +7, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +5, CHA +4, LUK +4, INT +7, Bonus +5, Health -2, Water +3, Fire +4, Metal +4|
+Nature Dragon's Power VI (Level: 60): Magic|68-92|Parry +1, Crit +8, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +6, CHA +5, LUK +5, INT +9, Bonus +6, Health -2, Water +4, Fire +5, Metal +5|
+Nature Dragon's Power VII (Level: 70): Magic|78-94|Dodge +1, Parry +1, Crit +10, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +7, END +7, CHA +6, LUK +6, INT +10, Bonus +7, Health -2, Ice +4, Water +5, Fire +5, Metal +5|
+Nature Dragon's Power VIII (Level: 73): Magic|78-96|Block +1, Dodge +1, Parry +1, Crit +10, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +7, END +7, CHA +6, LUK +6, INT +11, Bonus +8, Health -3, Ice +5, Water +5, Fire +6, Metal +6|
+Nature Dragon's Power IX (Level: 75): Magic|80-96|Block +1, Dodge +1, Parry +1, Crit +10, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +8, END +8, CHA +6, LUK +6, INT +11, Bonus +8, Health -3, Ice +6, Water +6, Fire +7, Metal +7|
+Nature Dragon's Power X (Level: 78): Magic|75-105|Block +1, Dodge +1, Parry +1, Crit +11, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +8, END +8, CHA +6, LUK +6, INT +12, Bonus +8, Health -3, Ice +7, Water +7, Fire +8, Metal +8|
+Nature Dragon's Power XI (Level: 80): Magic|80-102|Block +1, Dodge +1, Parry +2, Crit +12, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +9, END +9, CHA +6, LUK +6, INT +13, Bonus +9, Health -4, Ice +8, Water +8, Fire +9, Metal +9|
+
+Page: 89, Row: 18
+Nature's Call (Level: 3): Magic|6-18|Crit +1|
+
+Page: 89, Row: 19
+Nature's Favor (Level: 10): Pierce|24-36|Crit +2|
+
+Page: 89, Row: 20
+HTTP Error 504: Gateway Timeout
+Nature's Force (Level: 10): Magic|24-36|Crit +2|
+
+Page: 89, Row: 21
+Nature's Point (Level: 16): Pierce|30-44|Crit +3|
+
+Page: 89, Row: 22
+Nature's Power I (Level: 10): Magic|21-35|Crit +1, WIS +1, END +1, INT +1, Bonus +1, Health -1, Metal +2|
+Nature's Power II (Level: 20): Magic|29-53|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +1, LUK +1, INT +1, Bonus +1, Health -1, Metal +3|
+Nature's Power III (Level: 30): Magic|29-53|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +1, END +1, CHA +1, LUK +1, INT +3, Bonus +3, Health -1, Fire +3, Metal +3|
+Nature's Power IV (Level: 40): Magic|50-72|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, CHA +2, LUK +2, INT +4, Bonus +4, Health -1, Water +2, Fire +4, Metal +4|
+Nature's Power V (Level: 50): Magic|61-75|Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, CHA +4, LUK +4, INT +6, Bonus +5, Health -2, Water +3, Fire +4, Metal +4|
+Nature's Power VI (Level: 60): Magic|62-88|Parry +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, CHA +5, LUK +5, INT +8, Bonus +6, Health -2, Water +4, Fire +5, Metal +5|
+Nature's Power VII (Level: 70): Magic|72-90|Dodge +1, Parry +1, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +6, LUK +6, INT +9, Bonus +7, Health -2, Ice +4, Water +5, Fire +5, Metal +5|
+Nature's Power VIII (Level: 73): Magic|76-92|Block +1, Dodge +1, Parry +1, Crit +9, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +6, CHA +6, LUK +6, INT +10, Bonus +8, Health -3, Ice +5, Water +5, Fire +6, Metal +6|
+Nature's Power IX (Level: 75): Magic|76-94|Block +1, Dodge +1, Parry +1, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, END +6, CHA +6, LUK +6, INT +10, Bonus +8, Health -3, Ice +6, Water +6, Fire +7, Metal +7|
+Nature's Power X (Level: 78): Magic|73-101|Block +1, Dodge +1, Parry +1, Crit +10, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, CHA +6, LUK +6, INT +11, Bonus +8, Health -3, Ice +7, Water +7, Fire +8, Metal +8|
+Nature's Power XI (Level: 80): Magic|74-102|Block +1, Dodge +1, Parry +2, Crit +11, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, CHA +6, LUK +6, INT +12, Bonus +9, Health -4, Ice +8, Water +8, Fire +9, Metal +9|
+
+Page: 89, Row: 23
+Nature's Wrath (Level: 10): Melee|25-35|Crit +2|
+
+Page: 89, Row: 24
+Necro Paragon Soulblade I (Level: 25): Magic/Pierce/Melee|54-60|Block +1, Dodge +1, Parry +1, Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +2, CHA +3, LUK +4, INT +5, DEX +5, STR +5, Bonus +3, All +2|
+Necro Paragon Soulblade II (Level: 45): Magic/Pierce/Melee|65-75|Block +2, Dodge +2, Parry +2, Crit +5, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +3, CHA +4, LUK +6, INT +10, DEX +10, STR +10, Bonus +5, Health -10, All +5|
+Necro Paragon Soulblade III (Level: 65): Magic/Pierce/Melee|80-88|Block +4, Dodge +4, Parry +4, Crit +8, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, END +4, CHA +8, LUK +12, INT +16, DEX +16, STR +16, Bonus +8, Health -14, All +7|
+Necro Paragon Soulblade IV (Level: 85): Magic/Pierce/Melee|92-100|Block +5, Dodge +5, Parry +5, Crit +12, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, CHA +10, LUK +15, INT +20, DEX +20, STR +20, Bonus +12, Health -20, All +10|
+
+Page: 89, Row: 25
+Necroblade (Level: 1): Magic/Pierce/Melee|5-15|Crit +5, Bonus +1|
+
+Page: 89, Row: 26
+Necroblade (Level: 1): Melee|1-10|None|
+
+Page: 89, Row: 27
+Necromancer Staff (Level: 23): Magic/Pierce/Melee|35-51|Crit +2, WIS +1, END +1, INT +1, DEX +1, STR +1, Bonus +1, Health -1, Light +1, Darkness +1|
+Necromancer Staff (Level: 26): Magic/Pierce/Melee|45-59|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +2, INT +3, DEX +3, STR +3, Bonus +3, Health -1, Light +3, Darkness +3|
+Necromancer Staff (Level: 30): Magic/Pierce/Melee|41-61|Dodge +2, Crit +5, WIS +2, END +2, INT +5, DEX +5, STR +5, Bonus +2, Health -1, Light +3, Darkness +3|
+Necromancer Staff (Level: 40): Magic/Pierce/Melee|51-71|Dodge +3, Crit +6, WIS +3, END +3, INT +6, DEX +6, STR +6, Bonus +3, Health -2, Light +5, Darkness +5|
+Necromancer Staff (Level: 43): Magic/Pierce/Melee|54-70|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +3, INT +4, DEX +4, STR +4, Bonus +4, Health -2, Light +3, Darkness +3|
+Necromancer Staff (Level: 46): Magic/Pierce/Melee|61-77|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +4, INT +6, DEX +6, STR +6, Bonus +5, Health -2, Light +5, Darkness +5|
+Necromancer Staff (Level: 50): Magic/Pierce/Melee|58-78|Dodge +3, Crit +7, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +5, END +5, INT +7, DEX +7, STR +7, Bonus +5, Health -3, Light +6, Darkness +6|
+Necromancer Staff (Level: 60): Magic/Pierce/Melee|69-81|Dodge +3, Crit +8, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +7, END +7, INT +8, DEX +8, STR +8, Bonus +6, Health -4, Light +7, Darkness +7|
+Necromancer Staff (Level: 63): Magic/Pierce/Melee|68-84|Block +1, Dodge +1, Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +5, INT +6, DEX +6, STR +6, Bonus +5, Health -2, Light +5, Darkness +5|
+Necromancer Staff (Level: 66): Magic/Pierce/Melee|67-99|Dodge +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, INT +9, DEX +9, STR +9, Bonus +7, Health -3, Light +7, Darkness +7|
+Necromancer Staff (Level: 70): Magic/Pierce/Melee|73-89|Crit +8, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +8, END +8, INT +10, DEX +10, STR +10, Bonus +8, Health -5, Light +8, Darkness +8|
+Necromancer Staff (Level: 75): Magic/Pierce/Melee|76-90|Block +1, Dodge +2, Crit +8, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, INT +8, DEX +8, STR +8, Bonus +6, Health -3, Light +7, Darkness +7|
+Necromancer Staff (Level: 76): Magic/Pierce/Melee|80-96|Block +2, Dodge +3, Crit +9, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +10, END +10, INT +13, DEX +13, STR +13, Bonus +10, Health -6, Light +9, Darkness +9|
+Necromancer Staff (Level: 80): Magic/Pierce/Melee|80-96|Block +2, Dodge +3, Crit +9, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +10, END +10, INT +13, DEX +13, STR +13, Bonus +10, Health -6, Light +9, Darkness +9|
+
+Page: 89, Row: 28
+Necrostaff (Level: 1): Magic|1-10|None|
+
+Page: 89, Row: 29
+HTTP Error 504: Gateway Timeout
+Necrostaff (Level: 1): Magic|5-15|Bonus +1|
+
+Page: 89, Row: 30
+Necrotic Sword of Doom (Level: 1): Magic/Pierce/Melee|1-19|None|
+Necrotic Sword of Doom (Level: 10): Magic/Pierce/Melee|28-36|Crit +1, INT +1, DEX +1, STR +1, Darkness +3|
+Necrotic Sword of Doom (Level: 20): Magic/Pierce/Melee|35-55|Crit +2, WIS +1, END +1, INT +1, DEX +1, STR +1, Bonus +1, Darkness +3|
+Necrotic Sword of Doom (Level: 30): Magic/Pierce/Melee|47-63|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +1, END +1, INT +3, DEX +3, STR +3, Bonus +2, Ice +1, Fire +1, Darkness +3|
+Necrotic Sword of Doom (Level: 40): Magic/Pierce/Melee|58-70|Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, END +3, INT +4, DEX +4, STR +4, Bonus +4, Ice +3, Fire +3, Darkness +4|
+Necrotic Sword of Doom (Level: 50): Magic/Pierce/Melee|68-76|Block +1, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, INT +6, DEX +6, STR +6, Bonus +5, Immobility +3, Ice +3, Fire +3, Darkness +5|
+Necrotic Sword of Doom (Level: 60): Magic/Pierce/Melee|76-82|Block +1, Dodge +1, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, INT +8, DEX +8, STR +8, Bonus +7, Immobility +5, Poison +2, Disease +2, Ice +5, Fire +5, Darkness +9|
+Necrotic Sword of Doom (Level: 70): Magic/Pierce/Melee|78-94|Block +2, Dodge +2, Parry +1, Crit +12, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, END +8, INT +10, DEX +10, STR +10, Bonus +9, All +2, Immobility +6, Poison +3, Disease +3, Ice +8, Fire +8, Darkness +13|
+Necrotic Sword of Doom (Level: 80): Magic/Pierce/Melee|84-102|Block +2, Dodge +2, Parry +1, Crit +15, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +8, END +10, INT +15, DEX +15, STR +15, Bonus +10, All +2, Immobility +8, Poison +6, Disease +6, Ice +13, Fire +13, Darkness +13|
+Necrotic Sword of Doom (Level: 90): Magic/Pierce/Melee|90-108|Block +2, Dodge +2, Parry +2, Crit +15, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +10, END +12, INT +18, DEX +18, STR +18, Bonus +10, All +2, Immobility +8, Poison +6, Disease +6, Ice +13, Fire +13, Darkness +13|
+
+Page: 90, Row: 1
+Neela Paani Blade I (Level: 10): Melee|19-37|Crit +2, Bonus +1, Ice +1, Water +1, Fire +1|
+Neela Paani Blade II (Level: 20): Melee|33-51|Crit +2, END +2, Bonus +2, Ice +2, Water +2, Fire +2|
+Neela Paani Blade III (Level: 30): Melee|49-55|Crit +3, END +2, Bonus +3, Ice +4, Water +4, Fire +4|
+Neela Paani Blade IV (Level: 40): Melee|49-75|Crit +4, END +4, STR +4, Bonus +4, Ice +6, Water +6, Fire +6|
+Neela Paani Blade V (Level: 50): Melee|57-79|Crit +5, END +6, STR +5, Bonus +4, Ice +8, Water +8, Fire +8|
+Neela Paani Blade VI (Level: 60): Melee|70-80|Dodge +2, Crit +6, Magic Def +2, Pierce Def +2, Melee Def +2, END +6, STR +8, Bonus +6, Ice +9, Water +9, Fire +9|
+
+Page: 90, Row: 2
+Neela Paani Dagger I (Level: 10): Pierce|19-37|Crit +2, Bonus +1, Ice +1, Water +1, Fire +1|
+Neela Paani Dagger II (Level: 20): Pierce|33-51|Crit +2, END +2, Bonus +2, Ice +2, Water +2, Fire +2|
+Neela Paani Dagger III (Level: 30): Pierce|49-55|Crit +3, END +2, Bonus +3, Ice +4, Water +4, Fire +4|
+Neela Paani Dagger IV (Level: 40): Pierce|49-75|Crit +4, END +4, DEX +4, Bonus +4, Ice +6, Water +6, Fire +6|
+Neela Paani Dagger V (Level: 50): Pierce|57-79|Crit +5, END +6, DEX +5, Bonus +4, Ice +8, Water +8, Fire +8|
+Neela Paani Dagger VI (Level: 60): Pierce|70-80|Dodge +2, Crit +6, Magic Def +2, Pierce Def +2, Melee Def +2, END +6, DEX +8, Bonus +6, Ice +9, Water +9, Fire +9|
+
+Page: 90, Row: 3
+Neela Paani Staff I (Level: 10): Magic|19-37|Crit +2, Bonus +1, Ice +1, Water +1, Fire +1|
+Neela Paani Staff II (Level: 20): Magic|33-51|Crit +2, END +2, Bonus +2, Ice +2, Water +2, Fire +2|
+Neela Paani Staff III (Level: 30): Magic|49-55|Crit +3, END +2, Bonus +3, Ice +4, Water +4, Fire +4|
+Neela Paani Staff IV (Level: 40): Magic|49-75|Crit +4, END +4, INT +4, Bonus +4, Ice +6, Water +6, Fire +6|
+Neela Paani Staff V (Level: 50): Magic|57-79|Crit +5, END +6, INT +5, Bonus +4, Ice +8, Water +8, Fire +8|
+Neela Paani Staff VI (Level: 60): Magic|70-80|Dodge +2, Crit +6, Magic Def +2, Pierce Def +2, Melee Def +2, END +6, INT +8, Bonus +6, Ice +9, Water +9, Fire +9|
+
+Page: 90, Row: 4
+HTTP Error 504: Gateway Timeout
+Nefarious 13th 13th Scythe (Level: 75): Magic/Pierce/Melee|80-96|Dodge +2, Parry +3, Crit +12, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +9, END +6, CHA +5, INT +12, DEX +12, STR +12, Bonus +7, Health -3, Immobility +7, Darkness +3, Silver +3, Ice +13, Fire +13, Light +13|
+
+Page: 90, Row: 5
+'Item Type: '-1|'Attack Type: '428Nereid Sagaris (Level: 7): Melee|16-28|Crit +1|
+
+Page: 90, Row: 6
+'Item Type: '-1|'Attack Type: '493Nereid Sagaris Aquis (Level: 48): Melee|58-74|Block +1, Crit +1, Magic Def +2, Pierce Def +2, Melee Def +2, END +1, STR +3, Bonus +2|
+
+Page: 90, Row: 7
+Neriad's Eye (Level: 48): Magic|58-75|Crit +3, Melee Def +3, END +4, LUK +2, INT +4, Bonus +3, Ice +1, Energy +5|
+
+Page: 90, Row: 8
+Neutron Dagger (Level: 30): Pierce|45-55|Dodge +1, Crit +3, END +4, Bonus +1|
+
+Page: 90, Row: 9
+Neutron Staff (Level: 30): Magic|45-55|Dodge +1, Crit +3, END +4, Bonus +1|
+
+Page: 90, Row: 10
+Neutron Sword (Level: 30): Melee|45-55|Dodge +1, Crit +3, END +4, Bonus +1|
+
+Page: 90, Row: 11
+New Day Break (Level: 37): Melee|51-62|Crit +3, END +3, LUK +3, STR +3, Bonus +1|
+
+Page: 90, Row: 12
+Night Annex Blades (Level: 30): Melee|42-58|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +1, END +1, STR +3, Bonus +2, Metal +1, Darkness +2, Light +4, Energy +4|
+
+Page: 90, Row: 13
+Night Annex Daggers (Level: 30): Pierce|42-58|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +1, END +1, DEX +3, Bonus +2, Metal +1, Darkness +2, Light +4, Energy +4|
+
+Page: 90, Row: 14
+Night Annex Stave (Level: 30): Magic|42-58|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +1, END +1, INT +3, Bonus +2, Metal +1, Darkness +2, Light +4, Energy +4|
+
+Page: 90, Row: 15
+Night Vision (Level: 7): Magic|12-32|Crit +1|
+
+Page: 90, Row: 16
+Nightfall (Level: 7): Melee|16-26|Crit +1|
+
+Page: 90, Row: 17
+Nightli's Cry (Level: 41): Magic|56-74|Magic Def +3, Pierce Def +3, Melee Def +3, INT +4, Bonus +2, Stone -3|
+
+Page: 90, Row: 18
+Nightli's Song (Level: 41): Melee|56-74|Magic Def +3, Pierce Def +3, Melee Def +3, STR +4, Bonus +2, Stone -3|
+
+Page: 90, Row: 19
+Nightli's Whisper (Level: 41): Pierce|56-75|Magic Def +3, Pierce Def +3, Melee Def +3, DEX +3, STR +2, Bonus +2, Stone -3|
+
+Page: 90, Row: 20
+Nightlocke Scythesword (Level: 20): Magic/Pierce/Melee|38-46|Crit +2, END +1, LUK +1, INT +2, DEX +2, STR +2, Bonus +1|
+Nightlocke Scythesword (Level: 40): Magic/Pierce/Melee|57-65|Crit +4, WIS +4, LUK +4, INT +5, DEX +5, STR +5, Bonus +4|
+Nightlocke Scythesword (Level: 60): Magic/Pierce/Melee|71-79|Block +2, Dodge +2, Parry +2, Crit +6, WIS +7, LUK +7, INT +8, DEX +8, STR +8, Bonus +6|
+Nightlocke Scythesword (Level: 80): Magic/Pierce/Melee|83-91|Block +5, Dodge +5, Parry +5, Crit +11, WIS +13, LUK +13, INT +14, DEX +14, STR +14, Bonus +11|
+
+Page: 90, Row: 21
+Nightstar (Level: 17): Melee|36-38|None|
+
+Page: 90, Row: 22
+Nikemorya Blade of Rebellion (Level: 26): Melee|45-59|Crit +2, Melee Def +2, WIS +1, END +2, STR +3, Bonus +3, Health -2, Water +5|
+Nikemorya Blade of Rebellion (Level: 46): Melee|61-77|Crit +4, Magic Def +2, Melee Def +2, WIS +3, END +4, STR +6, Bonus +5, Health -1, Water +6|
+Nikemorya Blade of Rebellion (Level: 66): Melee|67-99|Dodge +1, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +6, WIS +5, END +5, CHA +4, LUK +4, STR +9, Bonus +7, Immobility +2, Energy +9, Water +9|
+Nikemorya Blade of Rebellion (Level: 76): Melee|78-100|Dodge +1, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +8, END +8, CHA +4, LUK +4, STR +10, Bonus +10, Immobility +5, Fire +8, Energy +12, Water +12|
+
+Page: 90, Row: 23
+HTTP Error 504: Gateway Timeout
+Ninja Blade (Level: 1): Melee|5-12|Crit +5, Bonus +1|
+
+Page: 90, Row: 24
+Ninja-To Sword (Level: 1): Melee|9-15|None|
+
+Page: 90, Row: 25
+Noble Hallow'd Dagger (Level: 40): Pierce|54-68|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +3, DEX +4, Bonus +4, Light +6, Darkness +6|
+
+Page: 90, Row: 26
+Noble Hallow'd Edge (Level: 40): Melee|54-68|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +3, STR +4, Bonus +4, Light +6, Darkness +6|
+
+Page: 90, Row: 27
+Noble Hallow'd Staff (Level: 40): Magic|54-68|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +3, INT +4, Bonus +4, Light +6, Darkness +6|
+
+Page: 90, Row: 28
+Noble Sword (Level: 5): Melee|5-30|None|
+
+Page: 90, Row: 29
+Norite Rod (Level: 20): Magic|37-43|Stone +4|
+
+Page: 90, Row: 30
+North Pole-arm (Level: 2): Melee|7-14|Parry +1, Ice +5|

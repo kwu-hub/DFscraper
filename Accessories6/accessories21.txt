@@ -1,0 +1,1300 @@
+
+Page: 21, Row: 1
+DragonLord Vath Wings (Level: 10): Back|Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, INT +1, DEX +1, STR +1, All +1|
+DragonLord Vath Wings (Level: 20): Back|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +2, INT +2, DEX +2, STR +2, All +1|
+DragonLord Vath Wings (Level: 30): Back|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +4, END +4, INT +3, DEX +3, STR +3, All +1|
+DragonLord Vath Wings (Level: 40): Back|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, INT +3, DEX +3, STR +3, Bonus +2, All +2|
+DragonLord Vath Wings (Level: 50): Back|Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +6, INT +4, DEX +4, STR +4, Bonus +3, All +2|
+DragonLord Vath Wings (Level: 60): Back|Block +1, Dodge +1, Parry +1, Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +7, END +7, INT +6, DEX +6, STR +6, Bonus +4, All +3|
+DragonLord Vath Wings (Level: 70): Back|Block +2, Dodge +2, Parry +2, Crit +6, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +8, END +8, INT +8, DEX +8, STR +8, Bonus +5, All +3|
+DragonLord Vath Wings (Level: 80): Back|Block +2, Dodge +2, Parry +2, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +10, END +10, INT +9, DEX +9, STR +9, Bonus +6, All +4|
+DragonLord Vath Wings (Level: 90): Back|Block +2, Dodge +2, Parry +2, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +10, END +10, INT +10, DEX +10, STR +10, Bonus +9, All +4|
+
+Page: 21, Row: 2
+DragonLord's Wings (Level: 20): Back|Crit +1, END +2, CHA +2, LUK +2, INT +2, DEX +2, STR +2, Bonus +1, Wind +1, Water +1|
+DragonLord's Wings (Level: 35): Back|Crit +4, END +2, INT +3, DEX +3, STR +3, Bonus +4, Wind +5, Water +5|
+
+Page: 21, Row: 3
+Dragonmaster Helm (Level: 7): Head|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +2, CHA +1, LUK +1, INT +3, STR +4, Light +2, Dark +2|
+
+Page: 21, Row: 4
+Dragonoid Mask (Level: 1): Head|None|
+
+Page: 21, Row: 5
+Drakath's Wings (Level: 10): Back|Crit +1, WIS +1, LUK +4, INT +2, DEX +2, STR +2, Bonus +2, Darkness +2|
+Drakath's Wings (Level: 30): Back|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +1, LUK +5, INT +3, DEX +3, STR +3, Bonus +3, Darkness +4|
+Drakath's Wings (Level: 50): Back|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +2, LUK +6, INT +4, DEX +4, STR +4, Bonus +5, All +1, Darkness +6|
+Drakath's Wings (Level: 70): Back|Dodge +1, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +3, LUK +8, INT +6, DEX +6, STR +6, Bonus +6, All +2, Darkness +10|
+Drakath's Wings (Level: 80): Back|Dodge +2, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, LUK +10, INT +9, DEX +9, STR +9, Bonus +8, All +3, Darkness +12|
+Drakath's Wings (Level: 90): Back|Dodge +2, Crit +8, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +7, END +7, LUK +12, INT +10, DEX +10, STR +10, Bonus +8, All +3, Darkness +18|
+
+Page: 21, Row: 6
+Drakathian Sigil (Level: 32): Neck|Crit +3, WIS +1, END +2, INT +3, DEX +3, STR +3, Bonus +1, Immobility +3, Darkness +6, Poison +6|
+
+Page: 21, Row: 7
+Drakonnan's Armored Helm (Level: 40): Head|Magic Def +3, Pierce Def +3, Melee Def +3, END +3, INT +4, STR +4, Bonus +3, Ice +5, Fire +5|
+
+Page: 21, Row: 8
+Drakonnan's Doom (Level: 1): Head|None|
+Drakonnan's Doom (Level: 10): Head|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, INT +3, DEX +3, STR +3, Bonus +2, Darkness +2, Light +2|
+Drakonnan's Doom (Level: 20): Head|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, INT +3, DEX +3, STR +3, Bonus +2, Darkness +3, Light +3|
+Drakonnan's Doom (Level: 30): Head|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, INT +4, DEX +4, STR +4, Bonus +3, Darkness +4, Light +4|
+Drakonnan's Doom (Level: 40): Head|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, INT +4, DEX +4, STR +4, Bonus +3, Darkness +5, Light +5|
+Drakonnan's Doom (Level: 50): Head|Dodge +1, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, END +4, INT +5, DEX +5, STR +5, Bonus +5, Immobility +2, Fire +5, Darkness +6, Light +6|
+Drakonnan's Doom (Level: 60): Head|Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +7, END +7, INT +8, DEX +8, STR +8, Bonus +6, Immobility +3, Fire +7, Darkness +7, Light +7|
+Drakonnan's Doom (Level: 70): Head|Crit +7, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +9, END +9, INT +11, DEX +11, STR +11, Bonus +7, Immobility +4, Fire +8, Darkness +8, Light +8|
+Drakonnan's Doom (Level: 80): Head|Crit +8, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +12, END +12, INT +13, DEX +13, STR +13, Bonus +8, Immobility +5, Fire +9, Darkness +9, Light +9|
+
+Page: 21, Row: 9
+Drakonnan's Fiery Helm (Level: 50): Head|Crit +2, Magic Def +3, Pierce Def +3, Melee Def +3, END +4, INT +4, STR +4, Bonus +4, Ice +6, Fire +6|
+
+Page: 21, Row: 10
+Drakonnan's Helm (Level: 30): Head|Magic Def +2, Pierce Def +2, Melee Def +2, END +2, INT +3, STR +3, Bonus +3, Ice +4, Fire +4|
+
+Page: 21, Row: 11
+Dravalkyrie I (Level: 15): Head|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +1, INT +1, DEX +1, STR +1, Bonus +1, Wind +2, Water +2|
+Dravalkyrie II (Level: 25): Head|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +2, INT +1, DEX +1, STR +1, Bonus +2, Wind +3, Water +3|
+Dravalkyrie III (Level: 35): Head|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +4, INT +2, DEX +2, STR +2, Bonus +3, Wind +4, Water +4|
+Dravalkyrie IV (Level: 45): Head|Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +5, INT +3, DEX +3, STR +3, Bonus +4, Wind +6, Water +6|
+Dravalkyrie V (Level: 55): Head|Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +7, END +6, INT +4, DEX +4, STR +4, Bonus +5, Wind +8, Water +8|
+Dravalkyrie VI (Level: 65): Head|Dodge +1, Parry +1, Crit +7, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +8, END +7, INT +5, DEX +5, STR +5, Bonus +6, Immobility +1, Wind +9, Water +9|
+Dravalkyrie VII (Level: 75): Head|Dodge +1, Parry +1, Crit +9, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +11, END +10, INT +6, DEX +6, STR +6, Bonus +7, Health -2, Immobility +5, Wind +10, Water +10|
+Dravalkyrie VIII (Level: 80): Head|Dodge +1, Parry +2, Crit +10, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +11, END +10, INT +6, DEX +6, STR +6, Bonus +7, Health -3, Immobility +5, Water +11, Wind +11|
+
+Page: 21, Row: 12
+Dravir Wings I (Level: 15): Back|Crit +2, END +3, CHA +3, LUK +3, INT +1, DEX +1, STR +1, Darkness +1, Light +1|
+Dravir Wings II (Level: 30): Back|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, END +4, CHA +4, LUK +4, INT +2, DEX +2, STR +2, Darkness +3, Light +3|
+Dravir Wings III (Level: 45): Back|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, END +5, CHA +5, LUK +5, INT +3, DEX +3, STR +3, Bonus +2, Darkness +5, Light +5|
+Dravir Wings IV (Level: 60): Back|Dodge +1, Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, END +7, CHA +7, LUK +7, INT +5, DEX +5, STR +5, Bonus +3, Darkness +7, Light +7|
+Dravir Wings V (Level: 75): Back|Dodge +2, Crit +8, Magic Def +8, Pierce Def +8, Melee Def +8, END +9, CHA +9, LUK +9, INT +7, DEX +7, STR +7, Bonus +6, Health -2, Immobility +4, Darkness +9, Light +9|
+Dravir Wings VI (Level: 80): Back|Block +1, Dodge +2, Crit +9, Magic Def +8, Pierce Def +8, Melee Def +8, END +10, CHA +9, LUK +9, INT +9, DEX +9, STR +9, Bonus +7, Health -3, Immobility +4, Darkness +10, Light +10|
+
+Page: 21, Row: 13
+Dread Pirate Hat I (Level: 10): Head|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +1, INT +2, DEX +2, STR +2, Bonus +1, Immobility +1, Water +1, Energy +1|
+Dread Pirate Hat II (Level: 20): Head|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +2, INT +3, DEX +3, STR +3, Bonus +2, Immobility +1, Water +1, Energy +2|
+Dread Pirate Hat III (Level: 30): Head|Crit +4, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +2, CHA +2, INT +3, DEX +3, STR +3, Bonus +2, Immobility +1, Water +2, Energy +3, Poison +1|
+Dread Pirate Hat IV (Level: 40): Head|Crit +5, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +2, CHA +2, INT +4, DEX +4, STR +4, Bonus +3, Immobility +2, Water +3, Energy +4, Poison +2|
+Dread Pirate Hat V (Level: 50): Head|Dodge +2, Crit +7, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +3, END +3, CHA +2, INT +4, DEX +4, STR +4, Bonus +3, Immobility +3, Water +4, Energy +5, Poison +3|
+Dread Pirate Hat VI (Level: 60): Head|Block +1, Dodge +2, Crit +9, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, END +4, CHA +2, INT +6, DEX +6, STR +6, Bonus +4, Health -1, Immobility +4, Water +6, Energy +6, Poison +5|
+Dread Pirate Hat VII (Level: 70): Head|Block +2, Dodge +3, Crit +10, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, CHA +7, INT +8, DEX +8, STR +8, Bonus +5, Health -2, Immobility +5, Water +8, Energy +8, Poison +7|
+Dread Pirate Hat VIII (Level: 75): Head|Block +2, Dodge +3, Crit +11, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +7, INT +9, DEX +9, STR +9, Bonus +7, Health -3, Immobility +6, Water +9, Energy +9, Poison +8|
+Dread Pirate Hat IX (Level: 80): Head|Block +2, Dodge +3, Crit +12, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, END +6, CHA +8, INT +11, DEX +11, STR +11, Bonus +8, Health -4, Immobility +6, Poison +9, Water +10, Energy +10|
+
+Page: 21, Row: 14
+Dread Pirate Helm (Level: 10): Head|Crit +2, WIS +5, END +1, INT +1, DEX +1, STR +1, Bonus +1, Light +3|
+Dread Pirate Helm (Level: 10): Head|Crit +2, WIS +5, END +1, INT +1, DEX +1, STR +1, Bonus +1, Light +3|
+
+Page: 21, Row: 15
+Dread Pirate Mask (Level: 3): Head|Crit +1, INT +1, DEX +1, STR +1, Light +1, Silver +1, Poison +3|
+
+Page: 21, Row: 16
+Dread Pirate Mask I (Level: 10): Head|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +1, INT +2, DEX +2, STR +2, Bonus +1, Immobility +1, Water +1, Energy +1|
+Dread Pirate Mask II (Level: 20): Head|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +2, INT +3, DEX +3, STR +3, Bonus +2, Immobility +1, Water +1, Energy +2|
+Dread Pirate Mask III (Level: 30): Head|Crit +4, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +2, CHA +2, INT +3, DEX +3, STR +3, Bonus +2, Immobility +1, Water +2, Energy +3, Poison +1|
+Dread Pirate Mask IV (Level: 40): Head|Crit +5, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +2, CHA +2, INT +4, DEX +4, STR +4, Bonus +3, Immobility +2, Water +3, Energy +4, Poison +2|
+Dread Pirate Mask V (Level: 50): Head|Dodge +2, Crit +7, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +3, END +3, CHA +2, INT +4, DEX +4, STR +4, Bonus +3, Immobility +3, Water +4, Energy +5, Poison +3|
+Dread Pirate Mask VI (Level: 60): Head|Block +1, Dodge +2, Crit +9, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, END +4, CHA +2, INT +6, DEX +6, STR +6, Bonus +4, Health -1, Immobility +4, Water +6, Energy +6, Poison +5|
+Dread Pirate Mask VII (Level: 70): Head|Block +2, Dodge +3, Crit +10, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, CHA +7, INT +8, DEX +8, STR +8, Bonus +5, Health -2, Immobility +5, Water +8, Energy +8, Poison +7|
+Dread Pirate Mask VIII (Level: 75): Head|Block +2, Dodge +3, Crit +11, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +7, INT +9, DEX +9, STR +9, Bonus +7, Health -3, Immobility +6, Water +9, Energy +9, Poison +8|
+Dread Pirate Mask IX (Level: 80): Head|Block +2, Dodge +3, Crit +12, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, END +6, CHA +8, INT +11, DEX +11, STR +11, Bonus +8, Health -4, Immobility +6, Poison +9, Water +10, Energy +10|
+
+Page: 21, Row: 17
+Dread Skull King (Level: 47): Head|Dodge +1, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, END +7, CHA -3, INT +3, Bonus +2, Darkness +10|
+
+Page: 21, Row: 18
+Dread Wings (Level: 20): Back|Crit +3, WIS +2, END +2, INT +2, DEX +2, STR +2, Bonus +1, Ice +1, Water +1|
+Dread Wings (Level: 20): Back|Crit +3, WIS +2, END +2, INT +2, DEX +2, STR +2, Bonus +1, Ice +1, Water +1|
+
+Page: 21, Row: 19
+Dream Whisper (Level: 21): Neck|Crit +2, Magic Def +2, WIS +2, INT +2, DEX +2, STR +2, Fire +5, Energy +5|
+
+Page: 21, Row: 20
+HTTP Error 504: Gateway Timeout
+HTTP Error 504: Gateway Timeout
+Dreamer Beast Helm (Level: 10): Head|Block +1, Dodge +1, Parry +1, WIS +2, END +2, INT +1, DEX +1, STR +1, Mana -2, Health -2, Nature +1|
+Dreamer Beast Helm (Level: 20): Head|Block +2, Dodge +2, Parry +2, Crit +1, WIS +3, END +3, INT +1, DEX +1, STR +1, Mana -2, Health -2, Nature +3|
+Dreamer Beast Helm (Level: 30): Head|Block +3, Dodge +3, Parry +3, Crit +2, WIS +4, END +4, INT +2, DEX +2, STR +2, Bonus +1, Mana -4, Health -4, Nature +5|
+Dreamer Beast Helm (Level: 40): Head|Block +3, Dodge +3, Parry +3, Crit +2, WIS +5, END +5, INT +2, DEX +2, STR +2, Bonus +3, Mana -6, Health -6, Nature +5|
+Dreamer Beast Helm (Level: 50): Head|Block +4, Dodge +4, Parry +4, Crit +4, WIS +6, END +6, INT +2, DEX +2, STR +2, Bonus +3, Mana -7, Health -7, Nature +7|
+Dreamer Beast Helm (Level: 60): Head|Block +5, Dodge +5, Parry +5, Crit +4, WIS +7, END +7, INT +3, DEX +3, STR +3, Bonus +4, Mana -8, Health -8, Nature +9|
+Dreamer Beast Helm (Level: 70): Head|Block +5, Dodge +5, Parry +5, Crit +6, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +8, END +8, INT +3, DEX +3, STR +3, Bonus +5, Mana -9, Health -9, Nature +11|
+Dreamer Beast Helm (Level: 80): Head|Block +6, Dodge +6, Parry +6, Crit +6, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +10, END +10, INT +4, DEX +4, STR +4, Bonus +6, Mana -10, Health -10, Nature +15|
+
+Page: 21, Row: 21
+Dreamer Beast Tail (Level: 20): Back|Block +2, Dodge +2, Parry +2, Crit +2, WIS +4, END +3, Bonus +1, Nature +3, Wind +1|
+Dreamer Beast Tail (Level: 30): Back|Block +3, Dodge +3, Parry +3, Crit +3, WIS +5, END +4, Bonus +2, Nature +4, Wind +2|
+Dreamer Beast Tail (Level: 40): Back|Block +4, Dodge +4, Parry +4, Crit +4, WIS +6, END +5, INT +1, DEX +1, STR +1, Bonus +4, Health -1, Immobility +2, Nature +5, Wind +3|
+Dreamer Beast Tail (Level: 50): Back|Block +4, Dodge +4, Parry +4, Crit +5, WIS +7, END +6, INT +2, DEX +2, STR +2, Bonus +5, Health -1, Immobility +2, Nature +6, Wind +4|
+Dreamer Beast Tail (Level: 60): Back|Block +5, Dodge +5, Parry +5, Crit +6, WIS +8, END +7, INT +4, DEX +4, STR +4, Bonus +6, Health -2, Immobility +3, Nature +7, Wind +5|
+Dreamer Beast Tail (Level: 70): Back|Block +6, Dodge +6, Parry +6, Crit +7, WIS +9, END +8, INT +5, DEX +5, STR +5, Bonus +7, Health -3, Immobility +4, Nature +7, Wind +6|
+Dreamer Beast Tail (Level: 80): Back|Block +7, Dodge +7, Parry +7, Crit +9, WIS +11, END +10, INT +6, DEX +6, STR +6, Bonus +9, Health -5, Immobility +5, Nature +9, Wind +9|
+
+Page: 21, Row: 22
+Dripping Ring (Level: 56): Finger|Crit +1, Magic Def +4, Pierce Def +4, Melee Def +4, WIS -1, END +6, CHA -2, INT +6, DEX +6, STR +6, Bonus +5, Immobility +1, Ice +4, Water +6, Poison +6|
+
+Page: 21, Row: 23
+Drones On Your Back (Level: 10): Back|Crit +1, WIS +1, LUK +4, INT +2, DEX +2, STR +2, Bonus +2, Stone +2|
+Drones On Your Back (Level: 30): Back|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +1, LUK +5, INT +3, DEX +3, STR +3, Bonus +3, Stone +4|
+Drones On Your Back (Level: 50): Back|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +2, LUK +6, INT +4, DEX +4, STR +4, Bonus +5, All +1, Stone +6|
+Drones On Your Back (Level: 70): Back|Dodge +1, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +3, LUK +8, INT +6, DEX +6, STR +6, Bonus +6, All +2, Stone +10|
+Drones On Your Back (Level: 80): Back|Dodge +2, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, LUK +10, INT +9, DEX +9, STR +9, Bonus +8, All +3, Stone +12|
+Drones On Your Back (Level: 90): Back|Block +2, Dodge +2, Parry +2, Crit +10, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, LUK +12, INT +11, DEX +11, STR +11, Bonus +10, All +3, Stone +12|
+
+Page: 21, Row: 24
+Dry-Aged Master Chef Hat (Level: 90): Head|Dodge +2, Parry +2, Crit +10, Magic Def +10, Pierce Def +10, Melee Def +10, WIS +8, END +8, CHA +8, LUK +9, INT +10, DEX +10, STR +10, Bonus +8, Immobility +5, Bacon +8, Water +10, Light +10, Ice +12|
+
+Page: 21, Row: 25
+Dual Nature (Level: 35): Hand|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, END +5, INT +2, DEX +2, STR +2, Fire +4, Ice +4|
+
+Page: 21, Row: 26
+Duke's Cerulean Cape (Level: 2): Back|Energy +1|
+
+Page: 21, Row: 27
+HTTP Error 504: Gateway Timeout
+Dusk Raven's Wing (Level: 51): Back|Dodge +1, Crit +4, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +4, LUK +5, INT +2, DEX +2, STR +2, Bonus +5, Immobility +3, Light +6|
+
+Page: 21, Row: 28
+Dust of Temblor (Level: 20): Back|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, END +3, Stone +5|
+
+Page: 21, Row: 29
+Dusty Lucky Cap (Level: 46): Head|Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, END +5, CHA +6, LUK +6, INT +4, DEX +4, STR +4, Bonus +5, Immobility +1, Water +3, Wind +5, Stone +5|
+
+Page: 21, Row: 30
+Dwarven Artifact (Level: 18): Neck|Crit +1, WIS +3, CHA +2, LUK +2, Fire +3, Stone +3|
+
+Page: 22, Row: 1
+Dwarvish Army Helm (Level: 5): Head|Crit +1, Magic Def +3, Pierce Def +3, Melee Def +3, DEX +3, STR +2, Metal +3|
+
+Page: 22, Row: 2
+Eagle of Freedom Helm (Level: 27): Head|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, END +3, Bonus +3, Darkness +5|
+Eagle of Freedom Helm (Level: 52): Head|Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +6, Bonus +3, Darkness +9|
+Eagle of Freedom Helm (Level: 15): Head|Block +2, Dodge +2, Parry +2, Crit +2, WIS +2, END +2, Bonus +1, Darkness +2, Light +2|
+Eagle of Freedom Helm (Level: 25): Head|Block +2, Dodge +2, Parry +2, Crit +3, WIS +3, END +3, Bonus +2, Darkness +3, Light +3|
+Eagle of Freedom Helm (Level: 35): Head|Block +4, Dodge +4, Parry +4, Crit +4, WIS +5, END +5, Bonus +3, Darkness +4, Light +4|
+Eagle of Freedom Helm (Level: 45): Head|Block +6, Dodge +6, Parry +6, Crit +5, WIS +6, END +6, INT +2, DEX +2, STR +2, Bonus +4, Immobility +1, Darkness +5, Light +5|
+Eagle of Freedom Helm (Level: 55): Head|Block +6, Dodge +6, Crit +6, WIS +7, END +7, INT +3, DEX +3, STR +3, Bonus +5, Immobility +3, Darkness +6, Light +6|
+Eagle of Freedom Helm (Level: 65): Head|Block +8, Dodge +8, Parry +8, Crit +7, WIS +8, END +8, INT +4, DEX +4, STR +4, Bonus +6, Immobility +5, Darkness +8, Light +8|
+Eagle of Freedom Helm (Level: 75): Head|Block +10, Dodge +10, Parry +10, Crit +9, WIS +10, END +10, INT +5, DEX +5, STR +5, Bonus +7, Immobility +7, Darkness +10, Light +10|
+
+Page: 22, Row: 3
+Early Bird Wings (Level: 58): Back|Block +1, Crit +4, WIS +4, END +6, CHA +4, LUK +8, Bonus +6, Fire +1, Silver +8, Darkness +8|
+
+Page: 22, Row: 4
+Earth Mask (Level: 1): Head|None|
+Earth Mask (Level: 20): Head|Crit +4, WIS +3, END +3, CHA +5, INT +3, DEX +3, STR +3, Bonus +4, Immobility +4, Stone +3, Wind +3|
+Earth Mask (Level: 40): Head|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +5, CHA +7, INT +4, DEX +4, STR +4, Bonus +5, Immobility +6, Stone +4, Wind +4|
+Earth Mask (Level: 60): Head|Block +1, Dodge +1, Parry +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +7, END +7, CHA +9, INT +5, DEX +5, STR +5, Bonus +7, Immobility +8, Stone +6, Wind +6|
+Earth Mask (Level: 70): Head|Block +2, Dodge +2, Parry +2, Crit +8, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +8, END +8, CHA +12, INT +7, DEX +7, STR +7, Bonus +8, Immobility +10, Stone +8, Wind +8|
+Earth Mask (Level: 80): Head|Crit +10, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +6, END +6, CHA +14, INT +11, DEX +11, STR +11, Bonus +10, Health -1, Immobility +12, Water +9, Stone +10, Wind +10|
+
+Page: 22, Row: 5
+Earthern Fortitude (Level: 15): Trinket|END +2|
+
+Page: 22, Row: 6
+Earthflow Chain (Level: 8): Neck|END +2, LUK +2, Stone +1, Wind +1|
+
+Page: 22, Row: 7
+Earthly Helm (Level: 60): Head|Dodge +1, Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +4, END +4, CHA +8, LUK +8, INT +6, DEX +6, STR +6, Bonus +4, Wind +5, Stone +5, Water +9, Nature +9|
+
+Page: 22, Row: 8
+EbilCorp Chairman Mask (Level: 1): Head|Crit +2, WIS +2, INT +2, DEX +2, STR +2|
+
+Page: 22, Row: 9
+Ebony Early Bird Wings (Level: 58): Back|Block +1, Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +4, END +6, CHA +4, LUK +8, INT +2, DEX +2, STR +2, Bonus +6, Silver +10, Darkness +8|
+
+Page: 22, Row: 10
+Eerie Jack 'o Helm (Level: 45): Head|Crit +4, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +3, END +3, INT +3, DEX +3, STR +3, Bonus +5, Nature +6, Light +6|
+
+Page: 22, Row: 11
+Eggplant Helm (Level: 45): Head|Crit +5, Magic Def +5, Pierce Def +4, Melee Def +4, WIS +5, END +5, LUK +6, Bonus +4, Ice +6, Water +6|
+
+Page: 22, Row: 12
+Eggshell Master Chef Hat (Level: 50): Head|Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, END +3, CHA +4, LUK +4, INT +3, DEX +3, STR +3, Bonus +4, Water +3, Ice +6, Light +6|
+
+Page: 22, Row: 13
+Electric Chain (Level: 35): Waist|Dodge +1, Crit +3, Magic Def +3, Pierce Def +1, Melee Def +1, WIS +1, LUK +3, INT +2, DEX +2, STR +2, Water -1, Light +3, Energy +5|
+
+Page: 22, Row: 14
+Electric Hair (Level: 1): Head|Block +5, Dodge +5, Parry +5, Crit +15, Light +20, Darkness +20|
+
+Page: 22, Row: 15
+Electric Orbit (Level: 27): Finger|Crit +4, Magic Def +4, Pierce Def +3, Melee Def +3, END +5, DEX +5, Water -2, Energy +4|
+
+Page: 22, Row: 16
+Elemental Seal Ring (Level: 37): Finger|Block +1, Dodge +2, Parry +1, Crit +5, Magic Def +3, Pierce Def +4, Melee Def +5, WIS +6, END +1, CHA +4, LUK +2, INT +6, DEX +3, STR +1, Bonus +4, Wind +7, Water +7, Ice +7, Fire +7|
+
+Page: 22, Row: 17
+Elemental Unity (Level: 5): Trinket|Crit +2, CHA +5, INT +7, DEX +7, STR +7|
+
+Page: 22, Row: 18
+Elemental Unity Defender I (Level: 10): Trinket|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, CHA +5, INT +7, DEX +7, STR +7, Bonus +1, All +1|
+Elemental Unity Defender II (Level: 15): Trinket|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, CHA +5, LUK +1, INT +7, DEX +7, STR +7, Bonus +2, All +1|
+Elemental Unity Defender III (Level: 20): Trinket|Block +1, Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, CHA +5, LUK +2, INT +7, DEX +7, STR +7, Bonus +3, All +2|
+Elemental Unity Defender IV (Level: 25): Trinket|Block +1, Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, CHA +5, LUK +3, INT +7, DEX +7, STR +7, Bonus +3, All +2|
+Elemental Unity Defender V (Level: 30): Trinket|Block +1, Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, CHA +5, LUK +3, INT +7, DEX +7, STR +7, Bonus +4, All +3, Health -1|
+Elemental Unity Defender VI (Level: 35): Trinket|Block +1, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, CHA +5, LUK +4, INT +7, DEX +7, STR +7, Bonus +4, All +3, Health -1|
+Elemental Unity Defender VII (Level: 40): Trinket|Block +1, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +1, END +1, CHA +5, LUK +4, INT +7, DEX +7, STR +7, Bonus +4, All +3, Health -1|
+Elemental Unity Defender VIII (Level: 45): Trinket|Block +1, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +2, END +2, CHA +5, LUK +4, INT +7, DEX +7, STR +7, Bonus +4, All +3, Health -2|
+Elemental Unity Defender IX (Level: 50): Trinket|Block +1, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +3, END +3, CHA +5, LUK +5, INT +7, DEX +7, STR +7, Bonus +4, All +3, Health -2|
+Elemental Unity Defender X (Level: 55): Trinket|Block +1, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +4, END +4, CHA +5, LUK +5,  INT +7, DEX +7, STR +7, Bonus +5, All +3, Health -3|
+Elemental Unity Defender XI (Level: 60): Trinket|Block +1, Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +4, END +4, CHA +6, LUK +6, INT +7, DEX +7, STR +7, Bonus +5, All +3, Health -4|
+Elemental Unity Defender XII (Level: 65): Trinket|Block +1, Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +4, END +4, CHA +6, LUK +6, INT +7, DEX +7, STR +7, Bonus +5, All +4, Health -5|
+Elemental Unity Defender XIII (Level: 70): Trinket|Block +1, Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, CHA +6, LUK +6, INT +7, DEX +7, STR +7, Bonus +5, All +4, Health -5|
+Elemental Unity Defender XIV (Level: 75): Trinket|Block +2, Dodge +1, Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, CHA +6, LUK +6, INT +7, DEX +7, STR +7, Bonus +6, All +5, Health -5|
+Elemental Unity Defender XV (Level: 77): Trinket|Block +2, Dodge +1, Parry +1, Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +5, CHA +6, LUK +6, INT +7, DEX +7, STR +7, Bonus +7, All +5, Health -5|
+
+Page: 22, Row: 19
+Elite Custom HarleHelm (Level: 40): Head|Dodge +2, Crit +4, Magic Def +2, Melee Def +2, CHA +4, INT +5, STR +5, Bonus +4, Immobility +1, Fire +4, Darkness +6|
+Elite Custom HarleHelm 2010 (Level: 40): Head|Dodge +2, Crit +4, Magic Def +2, Melee Def +2, CHA +4, INT +5, STR +5, Bonus +4, Immobility +1, Fire +4, Darkness +6|
+
+Page: 22, Row: 20
+Elite Custom HarleQuape (Level: 35): Back|Dodge +2, Crit +3, Magic Def +2, Melee Def +2, END +3, CHA +3, INT +4, STR +4, Bonus +2, Fire +3, Darkness +3|
+Elite Custom HarleQuape 2010 (Level: 35): Back|Dodge +2, Crit +3, Magic Def +2, Melee Def +2, END +3, CHA +3, INT +4, STR +4, Bonus +2, Fire +3, Darkness +3|
+
+Page: 22, Row: 21
+Elite Mechpilot Helmet (Level: 7): Head|Crit +2, Magic Def +9, Pierce Def +2, Melee Def +2, END +2, LUK +3, INT +1, DEX +2, STR +1, Ice +2, Fire +2, Energy +3|
+
+Page: 22, Row: 22
+HTTP Error 504: Gateway Timeout
+Elite Pactogonal Cape (Level: 2): Back|Bonus +1, Water +1|
+Elite Pactogonal Cape (Level: 4): Back|Bonus +1, Water +2|
+Elite Pactogonal Cape (Level: 4): Back|Bonus +1, Water +3|
+Elite Pactogonal Cape (Level: 7): Back|Crit +1, WIS +1, END +1, Bonus +1, Ice +1, Water +3|
+
+Page: 22, Row: 23
+Elite Pactogonal Helm (Level: 4): Head|INT +1, DEX +1, STR +1, Bonus +1, Fire -2, Water +2|
+
+Page: 22, Row: 24
+Elite TerraStag Horns (Level: 30): Head|Crit +4, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +2, INT +3, DEX +3, STR +3, Bonus +2, Water +1, Wind +1, Nature +2, Stone +3|
+
+Page: 22, Row: 25
+Elucidas' Cord (Level: 23): Waist|Crit +2, END +2, Bonus +2, Wind +1, Stone +1|
+
+Page: 22, Row: 26
+Embodiment of Might Helm (Level: 50): Head|Crit +5, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +7, END +7, INT +4, DEX +4, STR +4, Bonus +5, Immobility +8, Stone +8, Wind +8|
+
+Page: 22, Row: 27
+Embodiment of Perception Helm (Level: 58): Head|Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, INT +6, DEX +6, STR +6, Bonus +4, Fire +9, Water +9, Stone +9, Wind +9|
+
+Page: 22, Row: 28
+Embodiment of Will Helm (Level: 43): Head|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +5, Bonus +3, Immobility +7, Fire +7, Ice +7|
+
+Page: 22, Row: 29
+Embroidered Guard Tunic (Level: 15): Trinket|Immobility +4|
+
+Page: 22, Row: 30
+HTTP Error 504: Gateway Timeout
+Emerald Cloak (Level: 30): Back|Dodge +1, Crit +1, INT +4, DEX +4, STR +4, Darkness +5|
+HTTP Error 504: Gateway Timeout
+
+Page: 23, Row: 1
+Emerald Pendant (Level: 57): Neck|Crit +2, Magic Def +6, Pierce Def +3, Melee Def +3, WIS +2, END +5, INT +6, DEX +6, STR +6, Bonus +5, Immobility +1, Water +4, Nature +12|
+
+Page: 23, Row: 2
+En's Helm I (Level: 20): Head|Crit +3, WIS +1, END +1, CHA -2, LUK +2, INT +2, DEX +2, STR +2, Bonus +2, Nature +2, Light +2|
+En's Helm II (Level: 40): Head|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +3, END +3, CHA -3, LUK +5, INT +5, DEX +5, STR +5, Bonus +3, Nature +5, Light +5|
+En's Helm III (Level: 60): Head|Crit +6, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, END +4, CHA -4, LUK +6, INT +6, DEX +6, STR +6, Bonus +4, Nature +9, Light +9|
+
+Page: 23, Row: 3
+Enchanted Kehaan Helm (Level: 60): Head|Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +7, END +4, CHA +5, LUK +5, STR +7, Bonus +2, Stone +3, Wind +3|
+
+Page: 23, Row: 4
+Enchanted Lightguard Helm (Level: 25): Head|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, INT +1, DEX +1, STR +1, Bonus +4, Light +5, Darkness +5|
+Enchanted Lightguard Helm (Level: 45): Head|Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, INT +3, DEX +3, STR +3, Bonus +5, Light +7, Darkness +7|
+Enchanted Lightguard Helm (Level: 65): Head|Dodge +1, Parry +1, Crit +8, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, INT +5, DEX +5, STR +5, Bonus +7, Disease +3, Light +10, Darkness +10|
+Enchanted Lightguard Helm (Level: 75): Head|Dodge +1, Parry +1, Crit +9, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +10, END +10, INT +7, DEX +7, STR +7, Bonus +7, Disease +5, Light +12, Darkness +12|
+
+Page: 23, Row: 5
+Enchanted Niadhoor Helm (Level: 60): Head|Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +7, END +4, CHA +5, LUK +5, DEX +7, Bonus +2, Stone +3, Wind +3|
+
+Page: 23, Row: 6
+Enchanted Seal Ring (Level: 27): Finger|Parry +1, Crit +3, Magic Def +2, Pierce Def +3, Melee Def +4, WIS +2, CHA +2, INT +6, DEX +1, Bonus +1, Ice +5, Darkness +8|
+
+Page: 23, Row: 7
+Enchanted Viadme Headdress (Level: 60): Head|Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +7, END +4, CHA +5, LUK +5, INT +7, Bonus +2, Stone +3, Wind +3|
+
+Page: 23, Row: 8
+Enchanted Vind Chain (Level: 35): Waist|Crit +4, Magic Def +5, WIS +5, INT +2, DEX +2, STR +2, Bonus +5, Immobility +3, Wind +5, Stone +5|
+
+Page: 23, Row: 9
+HTTP Error 504: Gateway Timeout
+Energetic Ninja Headband (Level: 25): Head|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, INT +1, DEX +1, STR +1, Bonus +4, Wind +5, Stone +5|
+Energetic Ninja Headband (Level: 45): Head|Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, INT +3, DEX +3, STR +3, Bonus +5, Wind +7, Stone +7|
+Energetic Ninja Headband (Level: 65): Head|Dodge +1, Parry +1, Crit +8, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, INT +5, DEX +5, STR +5, Bonus +7, Wind +10, Stone +10, Poison +3|
+Energetic Ninja Headband (Level: 75): Head|Dodge +1, Parry +1, Crit +9, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +10, END +10, INT +7, DEX +7, STR +7, Bonus +7, Wind +12, Stone +12, Poison +5|
+
+Page: 23, Row: 10
+HTTP Error 504: Gateway Timeout
+Energizer's Azure Band (Level: 49): Finger|Dodge +1, Crit +4, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +8, END +5, CHA +5, INT +4, DEX +4, STR +4, Bonus +4, Energy +5, Darkness +7, Light +7|
+
+Page: 23, Row: 11
+Energy Ball (Level: 0): Neck|Energy +10|
+
+Page: 23, Row: 12
+Energy Mask (Level: 1): Head|None|
+Energy Mask (Level: 20): Head|Crit +4, WIS +3, END +3, CHA +5, INT +3, DEX +3, STR +3, Bonus +4, Immobility +4, Water +3, Energy +3|
+Energy Mask (Level: 40): Head|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +5, CHA +7, INT +4, DEX +4, STR +4, Bonus +5, Immobility +6, Water +4, Energy +4|
+Energy Mask (Level: 60): Head|Block +1, Dodge +1, Parry +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +7, END +7, CHA +9, INT +5, DEX +5, STR +5, Bonus +7, Immobility +8, Water +6, Energy +6|
+Energy Mask (Level: 70): Head|Block +2, Dodge +2, Parry +2, Crit +8, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +8, END +8, CHA +12, INT +7, DEX +7, STR +7, Bonus +8, Immobility +10, Water +8, Energy +8|
+Energy Mask (Level: 80): Head|Crit +10, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +6, END +6, CHA +14, INT +11, DEX +11, STR +11, Bonus +10, Health -1, Immobility +12, Fire +9, Water +10, Energy +10|
+
+Page: 23, Row: 13
+Entropic Cape I (Level: 22): Back|WIS +2, END +2, LUK +1, INT +1, DEX +1, STR +1, Bonus +2, Stone +5, Darkness +3|
+Entropic Cape II (Level: 32): Back|Crit +2, WIS +4, END +4, LUK +1, INT +3, DEX +3, STR +3, Bonus +4, Immobility +1, Fire +5, Stone +5, Darkness +5|
+Entropic Cape III (Level: 62): Back|Block +1, Crit +3, WIS +6, END +6, LUK +3, INT +5, DEX +5, STR +5, Bonus +6, Immobility +3, Fire +7, Stone +7, Darkness +7|
+
+Page: 23, Row: 14
+HTTP Error 504: Gateway Timeout
+Escelense Defender Cape I (Level: 23): Back|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, CHA +1, INT +1, DEX +1, STR +1, Bonus +2, Fire +3, Energy +3|
+Escelense Defender Cape II (Level: 33): Back|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, CHA +2, INT +2, DEX +2, STR +2, Bonus +3, Fire +4, Energy +4|
+Escelense Defender Cape III (Level: 43): Back|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +3, CHA +3, INT +3, DEX +3, STR +3, Bonus +3, Fire +5, Energy +5|
+Escelense Defender Cape IV (Level: 53): Back|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, CHA +4, INT +4, DEX +4, STR +4, Bonus +4, Immobility +1, Fire +6, Energy +6|
+Escelense Defender Cape V (Level: 63): Back|Crit +6, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, CHA +5, INT +4, DEX +4, STR +4, Bonus +5, Immobility +2, Fire +7, Energy +7|
+
+Page: 23, Row: 15
+Escelense Defender Helm I (Level: 23): Head|Magic Def +2, Pierce Def +2, Melee Def +2, WIS +1, END +1, CHA +2, LUK +2, Bonus +2, Fire +3, Light +3|
+Escelense Defender Helm II (Level: 33): Head|Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, CHA +4, LUK +4, Bonus +4, Fire +4, Light +4|
+Escelense Defender Helm III (Level: 43): Head|Crit +1, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +3, END +3, CHA +5, LUK +5, Bonus +4, Fire +5, Light +5|
+Escelense Defender Helm IV (Level: 53): Head|Crit +2, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +4, END +4, CHA +6, LUK +6, Bonus +5, Fire +6, Light +6|
+Escelense Defender Helm V (Level: 63): Head|Dodge +1, Crit +3, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +5, END +5, CHA +7, LUK +7, Bonus +6, Immobility +1, Fire +7, Light +7|
+
+Page: 23, Row: 16
+Escelense Dragon Defender Cape I (Level: 23): Back|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, CHA +1, INT +1, DEX +1, STR +1, Bonus +2, Fire +4, Energy +4|
+Escelense Dragon Defender Cape II (Level: 33): Back|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, CHA +2, INT +2, DEX +2, STR +2, Bonus +3, Health -1, Fire +5, Energy +5|
+Escelense Dragon Defender Cape III (Level: 43): Back|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +3, CHA +3, INT +3, DEX +3, STR +3, Bonus +4, Health -1, Immobility +1, Fire +6, Energy +6|
+Escelense Dragon Defender Cape IV (Level: 53): Back|Crit +6, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, CHA +4, INT +4, DEX +4, STR +4, Bonus +5, Health -1, Immobility +2, Fire +7, Energy +7|
+Escelense Dragon Defender Cape V (Level: 63): Back|Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, CHA +5, INT +5, DEX +5, STR +5, Bonus +6, Health -2, Immobility +3, Fire +8, Energy +8|
+Escelense Dragon Defender Cape VI (Level: 73): Back|Crit +8, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +9, CHA +9, INT +6, DEX +6, STR +6, Bonus +7, Health -2, Immobility +4, Fire +10, Energy +10|
+
+Page: 23, Row: 17
+Escelense Dragon Defender Helm I (Level: 23): Head|Crit +1, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +2, CHA +4, LUK +4, Bonus +3, Nature +2, Fire +4, Light +4|
+Escelense Dragon Defender Helm II (Level: 33): Head|Crit +2, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +3, END +3, CHA +5, LUK +5, Bonus +4, Immobility +1, Nature +3, Fire +5, Light +5|
+Escelense Dragon Defender Helm III (Level: 43): Head|Crit +3, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, END +4, CHA +6, LUK +6, Bonus +5, Health -1, Immobility +1, Nature +4, Fire +6, Light +6|
+Escelense Dragon Defender Helm IV (Level: 53): Head|Crit +4, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, CHA +7, LUK +7, Bonus +6, Health -1, Immobility +3, Nature +5, Fire +7, Light +7|
+Escelense Dragon Defender Helm V (Level: 63): Head|Dodge +1, Crit +5, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +6, CHA +8, LUK +8, Bonus +7, Health -2, Immobility +4, Nature +6, Fire +8, Light +8|
+Escelense Dragon Defender Helm VI (Level: 73): Head|Dodge +1, Parry +1, Crit +7, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +7, END +7, CHA +10, LUK +10, Bonus +9, Health -2, Immobility +5, Nature +7, Fire +10, Light +10|
+
+Page: 23, Row: 18
+Escherion Cape (Level: 10): Back|Crit +1, WIS +1, LUK +4, INT +2, DEX +2, STR +2, Bonus +2, Wind +2|
+Escherion Cape (Level: 30): Back|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +1, LUK +5, INT +3, DEX +3, STR +3, Bonus +3, Wind +4|
+Escherion Cape (Level: 50): Back|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +2, LUK +6, INT +4, DEX +4, STR +4, Bonus +5, All +1, Wind +6|
+Escherion Cape (Level: 70): Back|Dodge +1, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +3, LUK +8, INT +6, DEX +6, STR +6, Bonus +6, All +2, Wind +10|
+Escherion Cape (Level: 80): Back|Dodge +2, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, LUK +10, INT +9, DEX +9, STR +9, Bonus +8, All +3, Wind +12|
+Escherion Cape (Level: 90): Back|Block +2, Dodge +2, Parry +2, Crit +8, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, LUK +10, INT +10, DEX +10, STR +10, Bonus +8, All +3, Wind +12|
+
+Page: 23, Row: 19
+Escherion Hood (Level: 10): Head|Block +1, Crit +1, END +2, CHA +2, INT +1, DEX +1, STR +1, Bonus +1, Immobility +1, Energy +1|
+Escherion Hood (Level: 30): Head|Parry +1, Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +4, CHA +3, INT +3, DEX +3, STR +3, Bonus +3, Immobility +1, Stone +2, Metal +2, Energy +4|
+Escherion Hood (Level: 50): Head|Parry +1, Crit +6, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +7, CHA +6, INT +5, DEX +5, STR +5, Bonus +5, Immobility +2, Stone +4, Metal +4, Energy +6|
+Escherion Hood (Level: 70): Head|Dodge +1, Parry +1, Crit +8, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +8, CHA +7, INT +7, DEX +7, STR +7, Bonus +7, Immobility +3, Water +4, Stone +6, Metal +6, Energy +6|
+Escherion Hood (Level: 75): Head|Dodge +1, Parry +1, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +7, END +9, CHA +8, INT +8, DEX +8, STR +8, Bonus +7, Immobility +4, Water +5, Stone +8, Metal +8, Energy +10|
+Escherion Hood (Level: 80): Head|Block +1, Dodge +1, Parry +1, Crit +10, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +8, END +10, CHA +9, INT +9, DEX +9, STR +9, Bonus +9, Immobility +5, Water +6, Stone +10, Metal +8, Energy +10|
+Escherion Hood (Level: 90): Head|Block +1, Dodge +1, Parry +1, Crit +10, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +8, END +10, CHA +10, INT +10, DEX +10, STR +10, Bonus +10, Immobility +5, Water +6, Stone +10, Metal +10, Energy +10|
+
+Page: 23, Row: 20
+Esrom Helm (Level: 80): Head|Dodge +1, Parry +2, Crit +10, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +10, END +11, CHA +5, INT +3, DEX +3, STR +3, Bonus +7, Health -3, Immobility +6, Bacon +6, Stone +8, Wind +12, Light +12|
+
+Page: 23, Row: 21
+Esrom Ring (Level: 6): Finger|Melee Def +1, END +1, LUK +1|
+
+Page: 23, Row: 22
+Etched Ring (Level: 78): Finger|Block +2, Dodge +2, Parry +2, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +9, END +9, CHA +4, LUK +4, INT +5, DEX +5, STR +5, Bonus +8, Immobility +4, Health -10, Water +7, Darkness +8|
+
+Page: 23, Row: 23
+Eternal Hourglass Cape I (Level: 30): Back|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +4, CHA +2, Bonus +2, Fire +1, Light +4|
+Eternal Hourglass Cape II (Level: 50): Back|Dodge +1, Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, END +6, CHA +4, INT +2, DEX +2, STR +2, Bonus +5, Fire +5, Light +7|
+Eternal Hourglass Cape III (Level: 70): Back|Block +1, Dodge +1, Crit +8, Magic Def +6, Pierce Def +6, Melee Def +6, WIs +6, END +8, CHA +6, INT +4, DEX +4, STR +4, Bonus +8, All +2, Darkness +5, Fire +5, Light +10|
+Eternal Hourglass Cape IV (Level: 75): Back|Block +1, Dodge +1, Parry +1, Crit +10, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +7, END +9, CHA +7, INT +5, DEX +5, STR +5, Bonus +9, All +2, Darkness +6, Fire +6, Light +11|
+
+Page: 23, Row: 24
+Eternal Hourglass Helm I (Level: 35): Head|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +4, CHA +4, INT +2, DEX +2, STR +2, Bonus +3, Stone +4, Light +4|
+Eternal Hourglass Helm II (Level: 65): Head|Dodge +1, Parry +1, Crit +7, Magic Def +6, Pierce Def +6, Melee Def +6, WIs +6, END +7, CHA +7, INT +4, DEX +4, STR +4, Bonus +6, Immobility +1, Wind +3, Stone +10, Light +10|
+Eternal Hourglass Helm III (Level: 75): Head|Dodge +1, Parry +1, Crit +9, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +5, END +10, CHA +10, INT +5, DEX +5, STR +5, Bonus +7, Health -2, Immobility +5, Wind +5, Stone +12, Light +12|
+Eternal Hourglass Helm IV (Level: 80): Head|Dodge +1, Parry +2, Crit +10, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +7, END +10, CHA +10, INT +6, DEX +6, STR +6, Bonus +7, Health -3, Immobility +6, Wind +8, Stone +12, Light +12|
+
+Page: 23, Row: 25
+Eternal Locket (Level: 1): Wrist|Crit +5, WIS +1, END +1, CHA +1, LUK +1, INT +1, DEX +1, STR +1, Bonus +5, All +1|
+
+Page: 23, Row: 26
+Ethereal Atreileon Wings I (Level: 31): Back|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, INT +2, DEX +2, STR +2, Bonus +2, Light +3, Darkness +3|
+Ethereal Atreileon Wings II (Level: 41): Back|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, INT +3, DEX +3, STR +3, Bonus +3, Silver +1, Light +4, Darkness +4|
+Ethereal Atreileon Wings III (Level: 51): Back|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +1, END +1, INT +4, DEX +4, STR +4, Bonus +4, Immobility +1, Silver +2, Light +5, Darkness +5|
+Ethereal Atreileon Wings IV (Level: 61): Back|Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +2, END +2, INT +7, DEX +7, STR +7, Bonus +6, Immobility +3, Silver +3, Light +7, Darkness +7|
+Ethereal Atreileon Wings V (Level: 71): Back|Crit +8, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +3, END +3, INT +8, DEX +8, STR +8, Bonus +8, Immobility +4, Silver +4, Light +8, Darkness +8|
+
+Page: 23, Row: 27
+Evil Cultist Hood (Level: 35): Head|Crit +4, Magic Def +4, Pierce Def +3, Melee Def +3, WIS +4, END +4, CHA +3, Bonus +3, Ice +4, Darkness +4|
+
+Page: 23, Row: 28
+Evil Eye (Level: 13): Head|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, END +1, CHA -3, LUK -3, INT +1, STR +1, Fire +5, Darkness +5|
+
+Page: 23, Row: 29
+Evil Pumpkin Head (Level: 1): Head|None|
+Evil Pumpkin Head (Level: 1): Head|None|
+Evil Pumpkin Mask (Level: 35): Head|Block +1, Magic Def +2, Pierce Def +2, Melee Def +2, LUK +6, INT +2, DEX +2, STR +2, Bonus +6, Nature +5, Fire +5, Darkness +5|
+
+Page: 23, Row: 30
+Ewolyn's Angry Visage (Level: 30): Head|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +1, END +2, LUK +1, INT +2, DEX +2, STR +2, Bonus +1, Nature +2, Darkness +3|
+
+Page: 24, Row: 1
+Ewolyn's Fierce Visage (Level: 70): Head|Dodge +1, Crit +8, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +5, END +4, LUK +3, INT +6, DEX +6, STR +6, Bonus +6, Immobility +3, Fire +3, Nature +7, Darkness +8|
+
+Page: 24, Row: 2
+Ewolyn's Furious Visage (Level: 50): Head|Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +3, END +2, LUK +2, INT +3, DEX +3, STR +3, Bonus +4, Immobility +1, Nature +4, Darkness +5|
+
+Page: 24, Row: 3
+Ewolyn's Visage (Level: 10): Head|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, END +1, LUK +1, Nature +1, Darkness +1|
+
+Page: 24, Row: 4
+Expensive Silk Cape (Level: 50): Back|Crit +4, END +4, CHA +4, INT +4, DEX +4, STR +4, Bonus +3, Wind +8, Water +8|
+
+Page: 24, Row: 5
+Explorer's Band (Level: 10): Finger|LUK +3, INT +2|
+
+Page: 24, Row: 6
+Exquisite Seal Ring (Level: 57): Finger|Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +7, END +2, CHA +5, LUK +3, INT +7, DEX +4, STR +3, Bonus +4, Nature +6, Light +7, Metal +10|
+
+Page: 24, Row: 7
+Extra Spooky Green Cape (Level: 65): Back|Block +1, Dodge +1, Parry +1, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +4, END +4, CHA +7, LUK +7, INT +6, DEX +6, STR +6, Bonus +5, Immobility +2, Energy +8, Nature +8|
+
+Page: 24, Row: 8
+Extra Spooky Orange Cloak (Level: 75): Back|Block +3, Dodge +3, Parry +3, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +8, END +7, CHA +8, LUK +7, INT +5, DEX +5, STR +5, Bonus +8, Nature +8, Darkness +9|
+
+Page: 24, Row: 9
+Extra Spooky Violet Cloak (Level: 65): Back|Block +1, Dodge +1, Parry +1, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +4, END +4, CHA +7, LUK +7, INT +6, DEX +6, STR +6, Bonus +5, Immobility +2, Darkness +8, Nature +8|
+
+Page: 24, Row: 10
+Extremely Spooky Orange Cloak (Level: 80): Back|Block +3, Dodge +3, Parry +3, Crit +8, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +8, CHA +8, LUK +8, INT +6, DEX +6, STR +6, Bonus +9, Nature +9, Darkness +10|
+
+Page: 24, Row: 11
+Eye of Bastet (Level: 42): Neck|Crit +3, END +4, INT +4, DEX +4, STR +4, Bonus +3, Immobility +1, Darkness +4, Silver +4|
+
+Page: 24, Row: 12
+Eye of Kathool (Level: 55): Waist|Block +1, Crit +4, Magic Def +5, WIS +3, END +3, CHA +2, INT +3, DEX +3, STR +3, Bonus +6, Darkness +8, Water +8, Immobility +5|
+
+Page: 24, Row: 13
+Eye of the Void Helm I (Level: 10): Head|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +1, INT +2, DEX +2, STR +2, Bonus +1, Immobility +1, Ice +1, Light +1|
+Eye of the Void Helm II (Level: 20): Head|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +1, CHA +2, INT +3, DEX +3, STR +3, Bonus +2, Immobility +1, Ice +1, Light +2|
+Eye of the Void Helm III (Level: 30): Head|Crit +4, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +2, CHA +2, INT +3, DEX +3, STR +3, Bonus +2, Ice +2, Light +3, Poison +1, Evil +1|
+Eye of the Void Helm IV (Level: 40): Head|Crit +5, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +2, CHA +2, INT +4, DEX +4, STR +4, Bonus +3, Ice +3, Light +4, Poison +2, Evil +2|
+Eye of the Void Helm V (Level: 50): Head|Dodge +2, Crit +7, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +3, END +3, CHA +2, INT +4, DEX +4, STR +4, Bonus +3, Ice +4, Light +5, Poison +3, Evil +3|
+Eye of the Void Helm VI (Level: 60): Head|Block +1, Dodge +2, Crit +9, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, END +4, CHA +2, INT +6, DEX +6, STR +6, Bonus +4, Health -1, Poison +5, Evil +4, Ice +6, Light +6|
+Eye of the Void Helm VII (Level: 70): Head|Block +2, Dodge +3, Crit +10, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, CHA +7, INT +8, DEX +8, STR +8, Bonus +5, Health -2, Ice +8, Light +8, Poison +7, Evil +5|
+Eye of the Void Helm VIII (Level: 75): Head|Block +2, Dodge +3, Crit +11, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +7, INT +9, DEX +9, STR +9, Bonus +7, Health -3, Ice +9, Light +9, Poison +8, Evil +6|
+Eye of the Void Helm IX (Level: 80): Head|Block +2, Dodge +3, Parry +2, Crit +12, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, END +6, CHA +8, INT +11, DEX +11, STR +11, Bonus +8, Health -4, Light +10, Ice +10, Poison +9, Evil +6|
+
+Page: 24, Row: 14
+Eye of the Void Wings I (Level: 20): Back|Dodge +1, Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +4, END +3, LUK +4, Bonus +1, Immobility +1, Darkness +3|
+Eye of the Void Wings II (Level: 30): Back|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +4, LUK +5, Bonus +2, Immobility +1, Darkness +4|
+Eye of the Void Wings III (Level: 40): Back|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +6, END +5, CHA +1, LUK +6, INT +1, STR +1, DEX +1, Bonus +4, Immobility +2, Darkness +5|
+Eye of the Void Wings IV (Level: 50): Back|Dodge +1, Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +7, END +6, CHA +2, LUK +7, INT +2, STR +2, DEX +2, Bonus +5, Immobility +2, Darkness +6|
+Eye of the Void Wings V (Level: 60): Back|Dodge +1, Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +8, END +7, CHA +3, LUK +8, INT +4, STR +4, DEX +4, Bonus +6, Immobility +3, Darkness +7|
+Eye of the Void Wings VI (Level: 70): Back|Block +1, Dodge +1, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +9, END +8, CHA +4, LUK +9, INT +5, STR +5, DEX +5, Bonus +8, Immobility +3, Darkness +8, All +1|
+Eye of the Void Wings VII (Level: 75): Back|Block +1, Dodge +1, Parry +1, Crit +8, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +10, END +9, CHA +5, LUK +10, INT +6, STR +6, DEX +6, Bonus +9, Immobility +4, Darkness +9, All +2|
+Eye of the Void Wings VIII (Level: 80): Back|Block +1, Dodge +1, Parry +1, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +11, END +10, CHA +5, LUK +11, INT +6, STR +6, DEX +6, Bonus +9, Immobility +4, Darkness +10, All +3|
+
+Page: 24, Row: 15
+Eyeball Helm (Level: 30): Head|Block +3, Crit +3, INT +5, DEX +5, STR +5, Bonus +2, Fire +3, Water +3, Stone +3, Wind +3|
+
+Page: 24, Row: 16
+Face of Ebil (Level: 40): Head|Magic Def +3, Melee Def +1, END +3, CHA +5, INT +4, STR +4, Bonus +5, Immobility +1, Light +5|
+
+Page: 24, Row: 17
+Faded Lucky Cap (Level: 16): Head|Magic Def +2, Pierce Def +2, Melee Def +2, CHA +3, LUK +3, Bonus +3, Stone +3|
+
+Page: 24, Row: 18
+Faded Runed Plates (Level: 63): Waist|Block +1, Dodge +1, Parry +2, Crit +6, Magic Def +6, Pierce Def +6, Melee Def +6, END +6, INT +2, DEX +2, STR +2, Bonus +6, Darkness +2, Fire +10, Water +10|
+
+Page: 24, Row: 19
+Faerie Floss Belt (Level: 27): Waist|Magic Def +2, Pierce Def +2, Melee Def +2, END +2, LUK +2, INT +1, STR +1, Immobility +1, Darkness -1|
+
+Page: 24, Row: 20
+Faerie Floss Helm (Level: 1): Head|LUK +1|
+Faerie Floss Helm (Level: 5): Head|LUK +1, Bonus +1|
+Faerie Floss Helm (Level: 15): Head|LUK +3, INT +2, STR +2, Bonus +3|
+Faerie Floss Helm (Level: 25): Head|Magic Def +1, LUK +4, INT +3, STR +3, Bonus +4, Darkness +3|
+Faerie Floss Helm (Level: 35): Head|Crit +1, Magic Def +3, END +1, LUK +4, INT +4, STR +4, Bonus +4, Darkness +4|
+Faerie Floss Helm (Level: 45): Head|Crit +2, Magic Def +4, END +2, LUK +5, INT +5, STR +5, Bonus +6, Darkness +5|
+
+Page: 24, Row: 21
+Faerie Lights (Level: 77): Waist|Crit +6, Magic Def +10, WIS +8, CHA +5, INT +5, DEX +5, STR +5, Bonus +8, Stone -2, Energy +3, Fire +3, Darkness +6, Water +8, Wind +8, Light +10|
+
+Page: 24, Row: 22
+Fairy Dust Vial (Level: 56): Neck|Parry +2, Crit +2, Magic Def +2, Piece Def +2, Melee Def +2, WIS +3, CHA +3, INT +4, DEX +4, STR +4, Bonus +3, Immobility +3, Darkness +5|
+
+Page: 24, Row: 23
+Fake Wedding Ring (Level: 1): Finger|Melee Def +2|
+
+Page: 24, Row: 24
+Fall Foilage Frock I (Level: 29): Back|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, LUK +1, INT +1, DEX +1, STR +1, Bonus +1, Fire -3, Stone +3, Nature +3|
+Fall Foilage Frock II (Level: 49): Back|Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +3, LUK +3, INT +4, DEX +4, STR +4, Bonus +4, Fire -4, Stone +4, Nature +4|
+Fall Foilage Frock III (Level: 60): Back|Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +4, LUK +4, INT +5, DEX +5, STR +5, Bonus +4, Fire -5, Stone +9, Nature +9|
+
+Page: 24, Row: 25
+Fallen Arbitrator I (Level: 15): Head|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +1, INT +1, DEX +1, STR +1, Bonus +1, Darkness +2, Light +2|
+Fallen Arbitrator II (Level: 25): Head|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +2, INT +1, DEX +1, STR +1, Bonus +2, Darkness +3, Light +3|
+Fallen Arbitrator III (Level: 35): Head|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +4, INT +2, DEX +2, STR +2, Bonus +3, Darkness +4, Light +4|
+Fallen Arbitrator IV (Level: 45): Head|Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +5, INT +3, DEX +3, STR +3, Bonus +4, Darkness +6, Light +6|
+Fallen Arbitrator V (Level: 55): Head|Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +7, END +6, INT +4, DEX +4, STR +4, Bonus +5, Darkness +8, Light +8|
+Fallen Arbitrator VI (Level: 65): Head|Dodge +1, Parry +1, Crit +7, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +8, END +7, INT +5, DEX +5, STR +5, Bonus +6, Immobility +1, Darkness +9, Light +9|
+Fallen Arbitrator VII (Level: 75): Head|Dodge +1, Parry +1, Crit +9, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +11, END +10, INT +6, DEX +6, STR +6, Bonus +7, Health -2, Immobility +5, Darkness +10, Light +10|
+Fallen Arbitrator VIII (Level: 80): Head|Dodge +1, Parry +2, Crit +10, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +11, END +10, INT +6, DEX +6, STR +6, Bonus +7, Health -3, Immobility +5, Darkness +11, Light +11|
+
+Page: 24, Row: 26
+Fallen Hero's Chain (Level: 15): Waist|Magic Def +2, Pierce Def +1, Melee Def +1, END +2, CHA +2, STR +1, Bonus +2, Poison +2, Darkness +2|
+
+Page: 24, Row: 27
+Fallen Ice Dragon Wings (Level: 10): Back|Crit +1, WIS +1, INT +2, DEX +2, STR +2, Bonus +2, Fire +2|
+Fallen Ice Dragon Wings (Level: 30): Back|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +1, INT +3, DEX +3, STR +3, Bonus +3, Fire +4|
+Fallen Ice Dragon Wings (Level: 50): Back|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +2, INT +4, DEX +4, STR +4, Bonus +5, All +1, Fire +6|
+Fallen Ice Dragon Wings (Level: 70): Back|Dodge +1, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +3, INT +6, DEX +6, STR +6, Bonus +6, All +2, Fire +10|
+Fallen Ice Dragon Wings (Level: 80): Back|Dodge +2, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, INT +9, DEX +9, STR +9, Bonus +8, All +3, Fire +12|
+Fallen Ice Dragon Wings (Level: 90): Back|Block +2, Dodge +2, Parry +2, Crit +10, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +7, END +7, INT +10, DEX +10, STR +10, Bonus +8, All +3, Fire +18|
+
+Page: 24, Row: 28
+Fallen Minion's Chain (Level: 15): Waist|Block +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, END +2, CHA +2, Bonus +2, Water +2, Darkness +2|
+
+Page: 24, Row: 29
+HTTP Error 504: Gateway Timeout
+Fallen Ripper Wings (Level: 30): Back|Crit +5, INT +4, DEX +4, STR +4, Bonus +3, Silver +2, Stone +4, Light +4|
+
+Page: 24, Row: 30
+HTTP Error 504: Gateway Timeout
+Fallen Skull Ripper Helm (Level: 35): Head|Dodge +1, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +3, END +3, INT +5, DEX +5, STR +5, Bonus +4, Ice +4, Fire +4, Darkness +6|
+
+Page: 25, Row: 1
+Falwynn Mask (Level: 1): Head|None|
+Falwynn Mask (Level: 20): Head|Crit +2, WIS +2, CHA +2, LUK +4, INT +2, DEX +2, STR +2, Bonus +2, All +2|
+Falwynn Mask (Level: 40): Head|Crit +4, WIS +5, CHA +5, LUK +6, INT +3, DEX +3, STR +3, Bonus +4, All +3|
+Falwynn Mask (Level: 60): Head|Crit +6, WIS +7, CHA +7, LUK +9, INT +5, DEX +5, STR +5, Bonus +6, All +5|
+Falwynn Mask (Level: 80): Head|Crit +8, WIS +10, CHA +12, LUK +12, INT +10, DEX +10, STR +10, Bonus +8, All +8|
+
+Page: 25, Row: 2
+Falwynn's Disguise Kit (Level: 30): Wrist|CHA +2|
+
+Page: 25, Row: 3
+Falwynn's Lucky Rock (Level: 30): Wrist|LUK +2|
+
+Page: 25, Row: 4
+Fancy Collar (Level: 67): Neck|Parry +1, Crit +7, Magic Def +1, Pierce Def +1, Melee Def +2, WIS +5, END +7, INT +5, DEX +5, STR +5, Bonus +6, Immobility +3, Fire +5, Darkness +5, Light +8|
+
+Page: 25, Row: 5
+Fancy Tie Belt (Level: 65): Waist|Crit +6, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +6, Bonus +6, Stone +20|
+
+Page: 25, Row: 6
+Fangblade Mask (Level: 1): Head|None|
+Fangblade Mask (Level: 20): Head|Crit +2, WIS +2, CHA +2, LUK +4, INT +2, DEX +2, STR +2, Bonus +2, All +2|
+Fangblade Mask (Level: 40): Head|Crit +4, WIS +5, CHA +5, LUK +6, INT +3, DEX +3, STR +3, Bonus +4, All +3|
+Fangblade Mask (Level: 60): Head|Crit +6, WIS +7, CHA +7, LUK +9, INT +5, DEX +5, STR +5, Bonus +6, All +5|
+Fangblade Mask (Level: 80): Head|Crit +8, WIS +10, CHA +12, LUK +12, INT +10, DEX +10, STR +10, Bonus +8, All +8|
+
+Page: 25, Row: 7
+Far Darrig I (Level: 40): Back|Crit +8, WIS +8, END +4, CHA +2, LUK +2, INT +6, DEX +6, STR +6, Bonus +3, Metal +1, Fire +4|
+Far Darrig II (Level: 50): Back|Crit +9, WIS +9, END +5, CHA +3, LUK +3, INT +7, DEX +7, STR +7, Bonus +4, Metal +2, Fire +5|
+Far Darrig III (Level: 60): Back|Crit +10, WIS +10, END +6, CHA +4, LUK +4, INT +8, DEX +8, STR +8, Bonus +5, Metal +3, Fire +6|
+Far Darrig IV (Level: 70): Back|Crit +11, WIS +11, END +7, CHA +5, LUK +5, INT +9, DEX +9, STR +9, Bonus +6, Metal +4, Fire +7|
+
+Page: 25, Row: 8
+Faunus Dragon Helm (Level: 54): Head|Block +1, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +4, Bonus +4, Immobility +2, Nature +5, Stone +5|
+Faunus Dragon Helm (Level: 61): Head|Block +1, Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +6, Bonus +6, Immobility +5, Nature +8, Stone +8|
+
+Page: 25, Row: 9
+Faunus Helm (Level: 14): Head|Crit +1, WIS +1, END +1, CHA +1, Bonus +1, Nature +2, Stone +2|
+
+Page: 25, Row: 10
+Faunus Lichen Helm (Level: 24): Head|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +3, CHA +2, Bonus +2, Immobility +1, Nature +3, Stone +3|
+
+Page: 25, Row: 11
+Faunus Mossy Helm (Level: 34): Head|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, CHA +3, Bonus +3, Nature +4, Stone +4|
+
+Page: 25, Row: 12
+Faust Mask (Level: 1): Head|None|
+Faust Mask (Level: 20): Head|Crit +2, WIS +2, CHA +2, LUK +4, INT +2, DEX +2, STR +2, Bonus +2, All +2|
+Faust Mask (Level: 40): Head|Crit +4, WIS +5, CHA +5, LUK +6, INT +3, DEX +3, STR +3, Bonus +4, All +3|
+Faust Mask (Level: 60): Head|Crit +6, WIS +7, CHA +7, LUK +9, INT +5, DEX +5, STR +5, Bonus +6, All +5|
+Faust Mask (Level: 80): Head|Crit +8, WIS +10, CHA +12, LUK +12, INT +10, DEX +10, STR +10, Bonus +8, All +8|
+
+Page: 25, Row: 13
+Favored Gambler Wings (Level: 62): Back|Dodge +1, Crit +3, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +5, END +5, CHA +5, LUK +6, INT +3, DEX +3, STR +3, Bonus +6, Darkness +5, Wind +9|
+
+Page: 25, Row: 14
+Feathered Band (Level: 36): Finger|Crit +1, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +3, CHA +2, INT +3, DEX +3, STR +3, Bonus +2, Wind +2, Light +4|
+
+Page: 25, Row: 15
+Feathered Sash (Level: 35): Waist|Dodge +1, Crit +2, Magic Def +2, Pierce Def +1, Melee Def +3, END +2, INT +2, Light +3, Darkness +3, Wind +1|
+
+Page: 25, Row: 16
+Feathers of Odium's Bane I (Level: 15): Back|Block +2, Dodge +2, Parry +2, Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, END +1, CHA +1, INT +3, DEX +3, STR +3, Bonus +1, Evil +1, All +1|
+Feathers of Odium's Bane II (Level: 25): Back|Block +2, Dodge +2, Parry +2, Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, END +2, CHA +2, INT +4, DEX +4, STR +4, Bonus +2, Evil +2, All +1|
+Feathers of Odium's Bane III (Level: 35): Back|Block +3, Dodge +3, Parry +3, Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, END +3, CHA +3, INT +5, DEX +5, STR +5, Bonus +3, Evil +3, All +2|
+Feathers of Odium's Bane IV (Level: 45): Back|Block +4, Dodge +4, Parry +4, Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, END +4, CHA +4, LUK +1, INT +6, DEX +6, STR +6, Bonus +4, Evil +4, All +2|
+Feathers of Odium's Bane V (Level: 55): Back|Block +4, Dodge +4, Parry +4, Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, END +5, CHA +5, LUK +2, INT +7, DEX +7, STR +7, Bonus +5, Evil +5, All +3|
+Feathers of Odium's Bane VI (Level: 65): Back|Block +5, Dodge +5, Parry +5, Crit +6, Magic Def +4, Pierce Def +4, Melee Def +4, END +6, CHA +6, LUK +4, INT +8, DEX +8, STR +8, Bonus +6, Evil +6, All +3|
+Feathers of Odium's Bane VII (Level: 75): Back|Block +6, Dodge +6, Parry +6, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, END +7, CHA +7, LUK +5, INT +9, DEX +9, STR +9, Bonus +7, Evil +7, All +4|
+Feathers of Odium's Bane VIII (Level: 85): Back|Block +7, Dodge +7, Parry +7, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, END +8, CHA +8, LUK +6, INT +12, DEX +12, STR +12, Bonus +9, Evil +8, All +4|
+
+Page: 25, Row: 17
+Feeding Pouch (Level: 17): Waist|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, CHA +1, LUK +1, Bonus +1, Nature +1, Fire +1|
+
+Page: 25, Row: 18
+Female Bug Ears Helm (Level: 10): Head|Crit +2, END +5, CHA +2, INT +2, DEX +2, STR +2, Bonus +2, Darkness +5|
+
+Page: 25, Row: 19
+Female Frost Moglin Helm (Level: 5): Head|Block +2, Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, END +2, INT +1, STR +1, Bonus +3, Ice +2|
+Female Frost Moglin Helm II (Level: 10): Head|Block +2, Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, END +2, INT +2, STR +2, Bonus +3, Ice +4|
+Female Frost Moglin Helm III (Level: 20): Head|Block +2, Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, END +4, INT +2, STR +2, Bonus +3, Ice +4, Darkness +3|
+Female Frost Moglin Helm IV (Level: 30): Head|Block +2, Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, END +2, INT +4, STR +4, Bonus +3, Ice +4, Darkness +3|
+Female Frost Moglin Helm V (Level: 40): Head|Block +2, Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, END +4, INT +4, STR +4, Bonus +3, Immobility +2, Ice +4, Darkness +3|
+Female Frost Moglin Helm VI (Level: 50): Head|Block +2, Crit +4, Magic Def +2, Pierce Def +2, Melee Def +2, END +4, INT +5, STR +5, Bonus +3, Immobility +2, Ice +6, Darkness +3|
+Female Frost Moglin Helm VII (Level: 60): Head|Block +2, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +5, INT +6, DEX +6, STR +6, Bonus +4, Immobility +2, Ice +7, Darkness +4|
+Female Frost Moglin Helm VIII (Level: 70): Head|Block +2, Crit +6, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +6, INT +7, DEX +7, STR +7, Bonus +5, Immobility +3, Ice +8, Darkness +5|
+Female Frost Moglin Helm IX (Level: 80): Head|Block +4, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +8, END +8, INT +8, DEX +8, STR +8, Bonus +7, Immobility +4, Ice +10, Darkness +6|
+
+Page: 25, Row: 20
+HTTP Error 504: Gateway Timeout
+HTTP Error 504: Gateway Timeout
+Female Gnome Wig (Level: 1): Head|CHA +4|
+
+Page: 25, Row: 21
+Female Goggle Wig (Level: 1): Head|CHA +4|
+
+Page: 25, Row: 22
+Female Hard Battlehelm (Level: 30): Head|Block +3, Crit +2, INT +6, DEX +6, STR +6, Water +3, Fire +3|
+
+Page: 25, Row: 23
+Female Hero Hat (Level: 15): Head|Dodge +1, Crit +2, CHA +4, INT +4, STR +4, Fire +2|
+
+Page: 25, Row: 24
+Female Highland Headwear (Level: 40): Head|Crit +3, Magic Def +4, Pierce Def +4, Melee Def +4, INT +3, DEX +3, STR +3, Bonus +3, Water +6, Ice +6|
+
+Page: 25, Row: 25
+HTTP Error 504: Gateway Timeout
+Female Lightguard (Level: 25): Head|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +2, INT +1, DEX +1, STR +1, Bonus +3, Darkness +3, Light +3|
+Female Lightguard (Level: 45): Head|Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, INT +2, DEX +2, STR +2, Bonus +4, Darkness +6, Light +6|
+Female Lightguard (Level: 65): Head|Dodge +1, Parry +1, Crit +6, Magic Def +7, Pierce Def +6, Melee Def +6, WIS +7, END +7, INT +4, DEX +4, STR +4, Bonus +5, Disease +2, Darkness +8, Light +8|
+Female Lightguard (Level: 75): Head|Dodge +1, Parry +1, Crit +8, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +10, END +10, INT +5, DEX +5, STR +5, Bonus +6, Disease +3, Darkness +10, Light +10|
+
+Page: 25, Row: 26
+Female Mad Tophat (Level: 50): Head|Crit +3, Magic Def +4, Pierce Def +4, Melee Def +4, INT +4, DEX +4, STR +4, Bonus +3, Immobility +2, Light +6, Darkness +6|
+
+Page: 25, Row: 27
+Female Rubber Ducky Helm (Level: 20): Head|Crit +2, Magic Def +3, Pierce Def +3, Melee Def +3, END +4, INT +2, STR +2, Bonus +2, Energy +5, Fire +5|
+
+Page: 25, Row: 28
+Feral Helm (Level: 45): Head|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, CHA +5, LUK +5, INT +4, DEX +4, STR +4, Water +5, Nature +5|
+
+Page: 25, Row: 29
+Ferrous Dude Mach 1 Mask (Level: 1): Head|None|
+Ferrous Dude Mach 1 Mask (Level: 45): Head|Parry +2, Magic Def +4, Pierce Def +4, Melee Def +4, END +4, INT +3, DEX +3, STR +3, Bonus +4, Fire +3, Stone +3, Metal +7|
+
+Page: 25, Row: 30
+Ferrous Dude Mach 2 Mask (Level: 55): Head|Magic Def +4, Pierce Def +4, Melee Def +4, END +6, CHA +5, INT +4, DEX +4, STR +4, Fire +7, Ice +5, Energy +5|
+Ferrous Dude Mach 2 Mask (Level: 1): Head|None|
+
+Page: 26, Row: 1
+Fervid Flare Imp Hat (Level: 73): Head|Parry +1, Crit +7, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +5, END +5, CHA +4, INT +8, DEX +8, STR +8, Bonus +8, All +2, Immobility +3, Light +5, Ice +7, Water +7, Fire +9|
+
+Page: 26, Row: 2
+Festival Facelaunch (Level: 0): Head|None|
+
+Page: 26, Row: 3
+Fevered Flare Imp Hat (Level: 51): Head|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +3, END +3, CHA +2, INT +4, DEX +4, STR +4, Bonus +5, Immobility +1, Ice +4, Water +4, Fire +6|
+
+Page: 26, Row: 4
+Fierce Baron Cat Mask (Level: 79): Head|Block +2, Dodge +3, Parry +1, Crit +10, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +6, END +6, CHA +6, INT +10, DEX +10, STR +10, Bonus +9, Health -2, Immobility +3, Light +15, Darkness +15|
+
+Page: 26, Row: 5
+Fierce Bone Golem Head (Level: 26): Head|Block +1, Crit +3, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +2, INT +3, DEX +3, STR +3, Bonus +2, Health -1, Immobility +1, Disease +3, Darkness +3|
+
+Page: 26, Row: 6
+Fierce BraveSirRobin Cat Mask (Level: 77): Head|Block +2, Dodge +3, Parry +1, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, END +6, CHA +6, INT +9, DEX +9, STR +9, Bonus +8, Health -2, Immobility +3, Poison +14, Metal +14|
+
+Page: 26, Row: 7
+Fierce Bunny Helm (Level: 50): Head|Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +3, END +1, CHA +2, LUK +2, INT +3, DEX +3, STR +3, Bonus +5, Immobility +1, Nature +4, Darkness +5|
+
+Page: 26, Row: 8
+Fierce Deatharrows Cat Mask (Level: 78): Head|Block +2, Dodge +3, Parry +1, Crit +10, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +6, END +6, CHA +6, INT +10, DEX +10, STR +10, Bonus +9, Health -2, Immobility +3, Light +14, Darkness +14|
+
+Page: 26, Row: 9
+Fierce DragonLord Helm (Level: 12): Head|Crit +1, Magic Def +2, Melee Def +3, END +1, LUK +1, INT +5, DEX +2, STR +5, Bonus +2, All +4|
+Fierce DragonLord Helm (Level: 22): Head|Crit +1, Magic Def +2, Melee Def +3, END +1, LUK +1, INT +5, DEX +5, STR +5, Bonus +2, All +5|
+Fierce DragonLord Helm (Level: 32): Head|Crit +3, Magic Def +2, Melee Def +3, END +1, LUK +1, INT +5, DEX +5, STR +5, Bonus +2, All +6|
+Fierce DragonLord Helm (Level: 42): Head|Crit +4, Magic Def +2, Melee Def +3, END +1, LUK +1, INT +5, DEX +5, STR +5, Bonus +4, All +6|
+Fierce DragonLord Helm (Level: 52): Head|Crit +5, Magic Def +2, Melee Def +3, END +3, LUK +1, INT +5, DEX +5, STR +5, Bonus +5, All +6|
+Fierce DragonLord Helm (Level: 62): Head|Block +1, Dodge +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +6, CHA +5, LUK +5, INT +6, DEX +6, STR +6, Bonus +7, All +7, Immobility +2, Health -9|
+Fierce DragonLord Helm (Level: 72): Head|Block +1, Dodge +2, Parry +2, Crit +10, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +8, END +8, CHA +7, LUK +7, INT +9, DEX +9, STR +9, Bonus +13, All +10, Immobility +4, Health -14|
+
+Page: 26, Row: 10
+Fierce Josh Cat Mask (Level: 76): Head|Block +2, Dodge +3, Parry +1, Crit +9, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +6, CHA +5, INT +9, DEX +9, STR +9, Bonus +8, Health -2, Immobility +3, Stone +13, Energy +13|
+
+Page: 26, Row: 11
+Fierce LFAL Cat Mask (Level: 74): Head|Block +2, Dodge +3, Parry +1, Crit +9, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +5, END +5, CHA +5, INT +9, DEX +9, STR +9, Bonus +8, Health -2, Immobility +3, Wind +13, Water +13|
+
+Page: 26, Row: 12
+Fierce Prius Cat Mask (Level: 72): Head|Block +2, Dodge +3, Crit +9, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +5, END +5, CHA +5, INT +9, DEX +9, STR +9, Bonus +7, Health -2, Immobility +3, Ice +13, Fire +13|
+
+Page: 26, Row: 13
+Fifth Golden Ring (Level: 1): Finger|END +5, Bonus +4|
+
+Page: 26, Row: 14
+Filthy Aye Guardian Pirate Hat (Level: 70): Head|Parry +2, Crit +6, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +5, CHA +8, LUK +8, INT +5, DEX +5, STR +5, Bonus +7, Immobility +4, Wind +8, Nature +8, Water +8, Poison +8|
+
+Page: 26, Row: 15
+Filthy Aye Pirate Scarf (Level: 70): Head|Parry +2, Crit +6, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +5, CHA +8, LUK +8, INT +5, DEX +5, STR +5, Bonus +7, Immobility +4, Wind +8, Nature +8, Water +8, Poison +8|
+
+Page: 26, Row: 16
+Filthy Bearded Guardian Pirate Hat (Level: 70): Head|Parry +2, Crit +6, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +5, CHA +8, LUK +8, INT +5, DEX +5, STR +5, Bonus +7, Immobility +4, Wind +8, Nature +8, Water +8, Poison +8|
+
+Page: 26, Row: 17
+Filthy Guardian Pirate Hat (Level: 70): Head|Parry +2, Crit +6, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +5, CHA +8, LUK +8, INT +5, DEX +5, STR +5, Bonus +7, Immobility +4, Wind +8, Nature +8, Water +8, Poison +8|
+
+Page: 26, Row: 18
+Filthy Guardian Pirate Scarf (Level: 70): Head|Parry +2, Crit +6, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +5, CHA +8, LUK +8, INT +5, DEX +5, STR +5, Bonus +7, Immobility +4, Wind +8, Nature +8, Water +8, Poison +8|
+
+Page: 26, Row: 19
+Filthy Pirate Scarf (Level: 70): Head|Parry +2, Crit +6, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +5, CHA +8, LUK +8, INT +5, DEX +5, STR +5, Bonus +7, Immobility +4, Wind +8, Nature +8, Water +8, Poison +8|
+
+Page: 26, Row: 20
+Fingerbone Belt (Level: 10): Waist|Magic Def +3, Pierce Def +2, Melee Def +1, DEX +3, Bonus +2, Fire +1, Darkness +3|
+
+Page: 26, Row: 21
+Fire Mask (Level: 1): Head|None|
+Fire Mask (Level: 20): Head|Crit +4, WIS +3, END +3, CHA +5, INT +3, DEX +3, STR +3, Bonus +4, Immobility +4, Ice +3, Fire +3|
+Fire Mask (Level: 40): Head|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +5, CHA +7, INT +4, DEX +4, STR +4, Bonus +5, Immobility +6, Ice +4, Fire +4|
+Fire Mask (Level: 60): Head|Block +1, Dodge +1, Parry +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +7, END +7, CHA +9, INT +5, DEX +5, STR +5, Bonus +7, Immobility +8, Ice +6, Fire +6|
+Fire Mask (Level: 70): Head|Block +2, Dodge +2, Parry +2, Crit +8, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +8, END +8, CHA +12, INT +7, DEX +7, STR +7, Bonus +8, Immobility +10, Ice +8, Fire +8|
+Fire Mask (Level: 80): Head|Crit +10, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +6, END +6, CHA +14, INT +11, DEX +11, STR +11, Bonus +10, Health -1, Immobility +12, Water +9, Ice +10, Fire +10|
+
+Page: 26, Row: 22
+Fire Ray Mask (Level: 1): Head|None|
+Fire Ray Helm (Level: 40): Head|Crit +4, END +4, CHA +4, LUK +4, DEX +3, Bonus +6, Wind +6, Fire +4|
+
+Page: 26, Row: 23
+Fireproof Ring (Level: 1): Finger|Block +1, Crit +1, Fire +5|
+
+Page: 26, Row: 24
+Fireworks (Level: 5): Trinket|Magic Def -3, Pierce Def -3, Melee Def -3, INT +2, DEX +2, STR +2, Bonus +2|
+
+Page: 26, Row: 25
+HTTP Error 504: Gateway Timeout
+First Golden Ring (Level: 1): Finger|END +2, CHA +2, LUK +2, INT +2, DEX +2, STR +2|
+
+Page: 26, Row: 26
+First Mate's Hat (Level: 10): Head|STR +3, Water +5|
+
+Page: 26, Row: 27
+Fishy Mask (Level: 1): Head|None|
+Fishy Mask (Level: 10): Head|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, CHA -2, INT +3, DEX +3, STR +3, Bonus +2, Water +3|
+
+Page: 26, Row: 28
+Fishy Ring (Level: 56): Finger|Crit +1, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +1, CHA -2, INT +6, DEX +6, STR +6, Bonus +5, Immobility +1, Ice +4, Water +6, Fire +6|
+
+Page: 26, Row: 29
+FishyFish (Level: 20): Back|END +2, CHA +2, LUK +2, Bonus +1, Energy +1|
+FishyFish (Level: 30): Back|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +3, END +3, CHA +2, LUK +2, Bonus +2, Energy +2|
+FishyFish (Level: 40): Back|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +3, CHA +3, LUK +3, Bonus +4, Fire +2, Energy +3|
+FishyFish (Level: 50): Back|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, CHA +4, LUK +4, INT +2, DEX +2, STR +2, Bonus +5, Fire +3, Energy +4|
+FishyFish (Level: 60): Back|Crit +3, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, CHA +5, LUK +5, INT +4, DEX +4, STR +4, Bonus +6, Fire +4, Energy +5|
+FishyFish (Level: 70): Back|Dodge +1, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +6, LUK +6, INT +5, DEX +5, STR +5, Bonus +8, Immobility +1, Fire +5, Energy +6|
+FishyFish (Level: 75): Back|Block +1, Dodge +1, Parry +1, Crit +6, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +8, END +8, CHA +7, LUK +7, INT +6, DEX +6, STR +6, Bonus +9, Immobility +3, Fire +6, Energy +7|
+FishyFish (Level: 80): Back|Block +1, Dedge +1, Parry +1, Crit +7, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +9, END +9, CHA +7, LUK +7, INT +6, DEX +6, STR +6, Bonus +9, Immobility +4, Fire +8, Energy +8|
+
+Page: 26, Row: 30
+Five &quot;Lucky&quot; Wishbones (Level: 70): Trinket|Block +4, Dodge +4, Crit +8, LUK +14, INT +6, DEX +6, STR +6, Bonus +8, Light +12|
+
+Page: 27, Row: 1
+Five Found &quot;Lucky&quot; Wishbones (Level: 70): Trinket|Block +4, Dodge +4, Crit +8, LUK +14, INT +6, DEX +6, STR +6, Bonus +8, Light +12|
+
+Page: 27, Row: 2
+Flamewrath Phoenix Wings (Level: 40): Back|Crit +4, END +6, INT +3, DEX +3, STR +3, Bonus +2, Ice +5, Fire +7|
+
+Page: 27, Row: 3
+Flare Imp Hat (Level: 11): Head|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, INT +1, DEX +1, STR +1, Bonus +1, Ice +1, Water +1, Fire +1|
+
+Page: 27, Row: 4
+Flea Collar (Level: 73): Neck|Parry +1, Crit +8, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +7, END +7, INT +5, DEX +5, STR +5, Bonus +6, Immobility +4, Darkness +9, Water +9, Nature +9|
+
+Page: 27, Row: 5
+Floodplain Wader (Level: 78): Waist|Block +1, Dodge +1, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, CHA +5, LUK +1, INT +7, DEX +7, STR +7, Bonus +7, Immobility +2, All +1, Nature +6, Fire +8, Water +8|
+
+Page: 27, Row: 6
+Flourishing Oleander Cape (Level: 62): Back|Crit +6, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +7, CHA +7, INT +4, DEX +4, STR +4, Bonus +5, Immobility +2, Nature +8, Light +8|
+
+Page: 27, Row: 7
+Flourishing Oleander Veil (Level: 64): Head|Dodge +1, Crit +3, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +7, CHA +7, LUK +7, Bonus +6, Immobility +1, Light +10, Darkness +10|
+
+Page: 27, Row: 8
+Flourishing Sakura Adornment (Level: 64): Head|Dodge +1, Crit +3, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +7, CHA +7, LUK +7, Bonus +7, Immobility +3, Light +10, Darkness +10|
+
+Page: 27, Row: 9
+Flourishing Sakura Wrap (Level: 62): Back|Crit +6, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +7, CHA +7, INT +4, DEX +4, STR +4, Bonus +5, Immobility +3, Nature +10, Light +10|
+
+Page: 27, Row: 10
+Flower Necklace (Level: 56): Neck|Parry +1, Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +1, CHA +2, INT +4, DEX +4, STR +4, Bonus +3, Immobility +3, Darkness +5|
+
+Page: 27, Row: 11
+Flowering Oleander Cape (Level: 52): Back|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, CHA +5, INT +4, DEX +4, STR +4, Bonus +4, Immobility +1, Nature +7, Light +7|
+
+Page: 27, Row: 12
+Flowering Oleander Veil (Level: 54): Head|Crit +2, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, CHA +6, LUK +6, Bonus +5, Light +8, Darkness +8|
+
+Page: 27, Row: 13
+Flowering Sakura Adornment (Level: 54): Head|Crit +2, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, CHA +6, LUK +6, Bonus +5, Darkness +8, Light +8|
+
+Page: 27, Row: 14
+HTTP Error 504: Gateway Timeout
+Flowering Sakura Wrap (Level: 52): Back|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, CHA +5, INT +4, DEX +4, STR +4, Bonus +4, Immobility +1, Nature +7, Light +7|
+
+Page: 27, Row: 15
+HTTP Error 504: Gateway Timeout
+Flutterfly-dragon Wings (Level: 5): Back|CHA +5, LUK +5, INT +3, DEX +3, STR +3, Bonus +1, Wind +3, Light +5|
+Flutterfly-dragon Wings (Level: 15): Back|CHA +3, LUK +6, INT +3, DEX +3, Bonus +2, Darkness +3, Light +3|
+Flutterfly-dragon Wings (Level: 25): Back|CHA +3, LUK +6, INT +4, DEX +4, Bonus +3, Darkness +5, Light +5|
+Flutterfly-dragon Wings (Level: 35): Back|CHA +5, LUK +6, INT +5, DEX +5, Bonus +4, Darkness +7, Light +6|
+Flutterfly-dragon Wings (Level: 45): Back|Crit +2, CHA +5, LUK +8, INT +5, DEX +5, Bonus +5, Darkness +8, Light +8|
+Flutterfly-dragon Wings (Level: 55): Back|Crit +3, CHA +5, LUK +8, INT +5, DEX +5, Bonus +6, Darkness +9, Light +9|
+Flutterfly-dragon Wings (Level: 65): Back|Crit +4, CHA +8, LUK +8, INT +6, DEX +6, STR +6, Bonus +7, Darkness +10, Light +10|
+
+Page: 27, Row: 16
+Flux Contrapcitor Band (Level: 51): Waist|Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, END +5, INT +4, Bonus +5, Immobility +3, Poison +5, Fire +8|
+
+Page: 27, Row: 17
+HTTP Error 504: Gateway Timeout
+Flux Vortex Band (Level: 50): Waist|Crit +5, END +5, INT +5, Bonus +5, Ice +9, Fire +9|
+
+Page: 27, Row: 18
+Flying Saucer Belt I (Level: 10): Waist|Block +1, Dodge +1, Parry +1, Crit +1, END +1, LUK +1, ??? +1|
+Flying Saucer Belt II (Level: 20): Waist|Block +2, Dodge +2, Parry +2, Crit +2, END +2, LUK +2, INT +1, DEX +1, STR +1, ??? +2|
+Flying Saucer Belt III (Level: 30): Waist|Block +3, Dodge +3, Parry +3, Crit +3, END +3, LUK +3, INT +2, DEX +2, STR +2, ??? +3|
+Flying Saucer Belt IV (Level: 40): Waist|Block +4, Dodge +4, Parry +4, Crit +4, END +4, LUK +4, INT +3, DEX +3, STR +3, ??? +4|
+Flying Saucer Belt V (Level: 50): Waist|Block +5, Dodge +5, Parry +5, Crit +5, END +5, LUK +5, INT +4, DEX +4, STR +4, ??? +5|
+Flying Saucer Belt VI (Level: 60): Waist|Block +6, Dodge +6, Parry +6, Crit +6, END +7, LUK +7, INT +5, DEX +5, STR +5, ??? +6|
+Flying Saucer Belt VII (Level: 70): Waist|Block +7, Dodge +7, Parry +7, Crit +7, END +8, LUK +8, INT +7, DEX +7, STR +7, ??? +7|
+Flying Saucer Belt VIII (Level: 80): Waist|Block +8, Dodge +8, Parry +8, Crit +8, END +10, LUK +10, INT +8, DEX +8, STR +8, ??? +8|
+Flying Saucer Belt IX (Level: 85): Waist|Block +9, Dodge +9, Parry +9, Crit +9, END +11, LUK +11, INT +9, DEX +9, STR +9, ??? +8|
+
+Page: 27, Row: 19
+Foaming Tidal Helm (Level: 47): Head|Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, LUK +6, Bonus +4, Ice +6, Water +6|
+
+Page: 27, Row: 20
+Foamy Cider Keg (Level: 70): Back|Dodge +1, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +7, CHA +6, LUK +6, INT +5, STR +5, DEX +5, Bonus +8, Immobility +1, Fire +6, Darkness +5|
+
+Page: 27, Row: 21
+Foamy Cider Keg (Level: 70): Back|Block +2, Dodge +2, Crit +8, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, CHA +6, LUK +6, INT +5, DEX +5, STR +5, Bonus +8, Immobility +1, Fire +9, Water +7, Darkness +5|
+
+Page: 27, Row: 22
+Foamy Cider Mug (Level: 75): Head|Dodge +1, Parry +1, Crit +9, Magic Def +9, Pierce Def +8, Melee Def +8, WIS +10, END +10, CHA +8, Bonus +7, Health -2, Immobility +5, Fire +12, Energy +12, Disease +5|
+
+Page: 27, Row: 23
+Foamy Void Cider Mug (Level: 75): Head|Dodge +1, Parry +1, Crit +9, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +10, END +10, CHA +8, INT +6, DEX +6, STR +6, Bonus +7, Health -2, Immobility +5, Darkness +12, Water +12, Disease +5|
+
+Page: 27, Row: 24
+Fool's Gold Chain (Level: 1): Neck|CHA -50, LUK -50|
+
+Page: 27, Row: 25
+Foreman's Helm (Level: 6): Head|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1|
+Foreman's Helm (Level: 20): Head|Crit +2, Magic Def +3, Melee Def +3, END +4, INT +2, DEX +2, STR +2, Stone +3|
+
+Page: 27, Row: 26
+Formal Jester Helm (Level: 45): Head|Dodge +2, Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, CHA +4, INT +4, STR +4, Bonus +2, Immobility +1, Fire +2, Darkness +3|
+
+Page: 27, Row: 27
+Fortunate Gambler Wings (Level: 52): Back|Dodge +1, Crit +2, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +4, END +4, CHA +4, LUK +5, INT +2, DEX +2, STR +2, Bonus +5, Darkness +5, Wind +7|
+
+Page: 27, Row: 28
+Fossil Necklace (Level: 47): Neck|Block +1, Crit +5, WIS +4, END +7, LUK +6, INT +3, DEX +3, STR +3, Bonus +3, Water +7, Stone +10|
+
+Page: 27, Row: 29
+Fossil Ring (Level: 57): Finger|Crit +2, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, INT +5, DEX +5, STR +5, Bonus +5, Immobility +1, Stone +6, Ice +4, Water +4|
+
+Page: 27, Row: 30
+Fossilized Scarab (Level: 51): Neck|Block +2, Dodge +2, Parry +2, Magic Def +1, Pierce Def +1, Melee Def +1, Bonus +1, Immobility +2, Light +5, Fire +5, Energy +2|
+HTTP Error 504: Gateway Timeout
+
+Page: 28, Row: 1
+Foul Cultist Hood (Level: 65): Head|Dodge +1, Parry +1, Crit +7, Magic Def +7, Pierce Def +6, Melee Def +6, WIS +7, END +7, CHA +6, Bonus +6, Immobility +1, Disease +3, Ice +10, Darkness +10|
+
+Page: 28, Row: 2
+Foul Doom Harvester Wings (Level: 60): Back|Crit +8, WIS +2, CHA +7, LUK +7, INT +7, DEX +7, STR +7, Bonus +6, Energy +8, Darkness +8|
+
+Page: 28, Row: 3
+Found &quot;Lucky&quot; Wishbone (Level: 1): Trinket|Crit +1, LUK +3|
+
+Page: 28, Row: 4
+Found Ancient Ripper Wings (Level: 40): Back|Crit +6, INT +5, DEX +5, STR +5, Bonus +4, Health -1, Poison +1, Silver +3, Stone +5, Light +5|
+
+Page: 28, Row: 5
+Found Ancient Skull Ripper Helm (Level: 45): Head|Block +1, Dodge +1, Crit +6, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, END +4, INT +6, DEX +6, STR +6, Bonus +5, Immobility +1, Disease +2, Ice +5, Fire +5, Darkness +7|
+
+Page: 28, Row: 6
+Found Blighted Ripper Wings (Level: 70): Back|Crit +10, INT +8, DEX +8, STR +8, Bonus +7, Health -4, Poison +4, Silver +6, Stone +10, Light +10|
+
+Page: 28, Row: 7
+Found Blighted Skull Ripper Helm (Level: 70): Head|Block +2, Dodge +2, Crit +10, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, INT +10, DEX +10, STR +10, Bonus +7, Immobility +4, Disease +6, Ice +9, Fire +9, Darkness +13|
+
+Page: 28, Row: 8
+Found Defiled Ripper Wings (Level: 60): Back|Crit +8, INT +7, DEX +7, STR +7, Bonus +6, Health -3, Poison +3, Silver +5, Stone +8, Light +8|
+
+Page: 28, Row: 9
+Found Defiled Skull Ripper Helm (Level: 65): Head|Block +2, Dodge +2, Crit +9, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, INT +8, DEX +8, STR +8, Bonus +7, Immobility +3, Disease +5, Ice +8, Fire +8, Darkness +11|
+
+Page: 28, Row: 10
+Found Doomed Ripper Wings (Level: 20): Back|Crit +4, INT +3, DEX +3, STR +3, Bonus +2, Silver +1, Stone +3, Light +3|
+
+Page: 28, Row: 11
+Found Doomed Skull Ripper Helm (Level: 25): Head|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +1, END +1, INT +3, DEX +3, STR +3, Bonus +2, Ice +1, Fire +1, Darkness +4|
+
+Page: 28, Row: 12
+Found Fallen Ripper Wings (Level: 30): Back|Crit +5, INT +4, DEX +4, STR +4, Bonus +3, Silver +2, Stone +4, Light +4|
+
+Page: 28, Row: 13
+Found Fallen Skull Ripper Helm (Level: 35): Head|Dodge +1, Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +3, END +3, INT +5, DEX +5, STR +5, Bonus +4, Ice +4, Fire +4, Darkness +6|
+
+Page: 28, Row: 14
+Found Grave Ripper Wings (Level: 50): Back|Crit +7, INT +6, DEX +6, STR +6, Bonus +5, Health -2, Poison +2, Silver +4, Stone +6, Light +6|
+
+Page: 28, Row: 15
+Found Grave Skull Ripper Helm (Level: 55): Head|Block +2, Dodge +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, INT +7, DEX +7, STR +7, Bonus +6, Immobility +2, Disease +4, Ice +7, Fire +7, Darkness +9|
+
+Page: 28, Row: 16
+Found Ripper Wings (Level: 1): Back|Crit +2, INT +1, DEX +1, STR +1|
+
+Page: 28, Row: 17
+HTTP Error 504: Gateway Timeout
+Found Skull Ripper Helm (Level: 1): Head|Magic Def +1, Pierce Def +1, Melee Def +1, INT +1, DEX +1, STR +1, Bonus +1, Darkness +1|
+
+Page: 28, Row: 18
+Found Unhallowed Ripper Wings (Level: 80): Back|Crit +12, INT +11, DEX +11, STR +11, Bonus +9, Health -6, Poison +6, Silver +8, Stone +12, Light +12|
+
+Page: 28, Row: 19
+Found Unhallowed Skull Ripper Helm (Level: 80): Head|Block +4, Dodge +3, Crit +12, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +8, END +8, INT +12, DEX +12, STR +12, Bonus +9, Immobility +6, Disease +8, Ice +11, Fire +11, Darkness +15|
+
+Page: 28, Row: 20
+Found Unholy Ripper Wings (Level: 90): Back|Crit +15, INT +12, DEX +12, STR +12, Bonus +10, Health -6, Poison +6, Silver +8, Stone +12, Light +12|
+
+Page: 28, Row: 21
+Found Unholy Skull Ripper Helm (Level: 90): Head|Block +4, Dodge +4, Parry +4, Crit +12, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +10, END +10, INT +14, DEX +14, STR +14, Bonus +10, Immobility +6, Disease +8, Ice +11, Fire +11, Darkness +15|
+
+Page: 28, Row: 22
+Four &quot;Lucky&quot; Wishbones (Level: 60): Trinket|Block +2, Dodge +2, Crit +6, LUK +10, INT +4, DEX +4, STR +4, Bonus +6, Light +10|
+
+Page: 28, Row: 23
+Four Found &quot;Lucky&quot; Wishbones (Level: 60): Trinket|Block +2, Dodge +2, Crit +6, LUK +10, INT +4, DEX +4, STR +4, Bonus +6, Light +10|
+
+Page: 28, Row: 24
+Fourth Golden Ring (Level: 1): Finger|INT +10|
+
+Page: 28, Row: 25
+Foxy Aye Guardian Pirate Hat (Level: 55): Head|Parry +1, Crit +6, Magic Def +6, Pierce Def +6, Melee Def +5, WIS +4, END +4, CHA +7, LUK +7, INT +4, DEX +4, STR +4, Bonus +6, Immobility +1, Wind +5, Nature +5, Water +5, Poison +5|
+
+Page: 28, Row: 26
+Foxy Aye Pirate Scarf (Level: 55): Head|Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +2, END +2, CHA +6, LUK +6, INT +2, DEX +2, STR +2, Bonus +5|
+
+Page: 28, Row: 27
+Foxy Bearded Guardian Pirate Hat (Level: 55): Head|Parry +1, Crit +6, Magic Def +6, Pierce Def +6, Melee Def +5, WIS +4, END +4, CHA +7, LUK +7, INT +4, DEX +4, STR +4, Bonus +6, Immobility +1, Wind +5, Nature +5, Water +5, Poison +5|
+
+Page: 28, Row: 28
+Foxy Guardian Pirate Hat (Level: 55): Head|Parry +1, Crit +6, Magic Def +6, Pierce Def +6, Melee Def + 5, WIS +4, END +4, CHA +7, LUK +7, INT +4, DEX +4, STR +4, Bonus +6, Immobility +1, Wind +5, Nature +5, Water +5, Poison +5|
+
+Page: 28, Row: 29
+Foxy Guardian Pirate Scarf (Level: 55): Head|Parry +1, Crit +6, Magic Def +6, Pierce Def +6, Melee Def +5, WIS +4, END +4, CHA +7, LUK +7, INT +4, DEX +4, STR +4, Bonus +6, Immobility +1, Wind +5, Nature +5, Water +5, Poison +5|
+
+Page: 28, Row: 30
+Foxy Pirate Scarf (Level: 55): Head|Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +2, END +2, CHA +6, LUK +6, INT +2, DEX +2, STR +2, Bonus +5, Wind +4, Nature +4, Water +4, Poison +4|
+
+Page: 29, Row: 1
+Fragrant Oleander Cape (Level: 72): Back|Crit +8, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +9, CHA +9, INT +6, DEX +6, STR +6, Bonus +7, Health -2, Immobility +4, Nature +10, Light +10|
+
+Page: 29, Row: 2
+Fragrant Oleander Veil (Level: 74): Head|Dodge +1, Parry +1, Crit +6, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +10, CHA +10, LUK +10, Bonus +10, Immobility +5, Health -2, Nature +5, Darkness +12, Light +12|
+
+Page: 29, Row: 3
+Fragrant Sakura Adornment (Level: 74): Head|Dodge +1, Parry +1, Crit +6, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +10, CHA +8, LUK +8, Bonus +10, Immobility +5, Darkness +12, Light +12|
+
+Page: 29, Row: 4
+Fragrant Sakura Wrap (Level: 72): Back|Crit +8, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +9, CHA +9, INT +6, DEX +6, STR +6, Bonus +7, Immobility +5, Nature +12, Light +12|
+
+Page: 29, Row: 5
+Freezing Dragon Hat (Level: 10): Head|Magic Def +1, Pierce Def +1, Melee Def +1, END +2, INT +1, STR +1, Bonus +1, Ice +3, Light +3|
+
+Page: 29, Row: 6
+Freezing Ring (Level: 7): Finger|Pierce Def +1, END +1, CHA +1, Bonus +1|
+
+Page: 29, Row: 7
+Fresh Oleander Veil (Level: 14): Head|Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, CHA +1, LUK +1, Bonus +1, Darkness +2, Light +2|
+
+Page: 29, Row: 8
+Fresh Sakura Adornment (Level: 14): Head|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, END +1, CHA +1, LUK +1, Wind +2, Stone +2|
+
+Page: 29, Row: 9
+HTTP Error 504: Gateway Timeout
+HTTP Error 504: Gateway Timeout
+Freshman Soulthread Loop (Level: 45): Waist|Crit +3, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, END +2, INT +2, DEX +2, STR +2, Bonus +5, Immobility +3, Wind +1, Fire +5|
+
+Page: 29, Row: 10
+Frost Belt of Magus (Level: 5): Waist|Magic Def +1, INT +1, Ice +3|
+
+Page: 29, Row: 11
+Frost Belt of Power (Level: 5): Waist|Magic Def +1, STR +1, Ice +3|
+
+Page: 29, Row: 12
+Frost Belt of Stealth (Level: 5): Waist|Magic Def +1, DEX +1, Ice +3|
+
+Page: 29, Row: 13
+Frost Moglin Charm (Level: 33): Neck|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, END +3, CHA +3, LUK +3, Bonus +2, Healing +1, Ice +5|
+
+Page: 29, Row: 14
+Frost Moglin Defender Helm (Level: 15): Head|Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +1, Bonus +1, Darkness +2, Evil +2|
+Frost Moglin Defender Helm (Level: 25): Head|Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +1, Bonus +2, Darkness +3, Evil +3|
+Frost Moglin Defender Helm (Level: 35): Head|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +4, Bonus +3, Darkness +4, Evil +4|
+Frost Moglin Defender Helm (Level: 45): Head|Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +5, Bonus +4, Darkness +6, Evil +6|
+Frost Moglin Defender Helm (Level: 55): Head|Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +7, END +6, INT +1, DEX +1, STR +1, Bonus +5, Darkness +8, Evil +8|
+Frost Moglin Defender Helm (Level: 65): Head|Dodge +1, Parry +1, Crit +7, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +8, END +7, INT +2, DEX +2, STR +2, Bonus +6, Immobility +1, Darkness +9, Evil +9|
+Frost Moglin Defender Helm (Level: 75): Head|Dodge +1, Parry +1, Crit +9, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +11, END +10, INT +2, DEX +2, STR +2, Bonus +7, Health -2, Immobility +5, Darkness +10, Evil +10|
+Frost Moglin Defender Helm (Level: 80): Head|Dodge +1, Parry +2, Crit +10, Magic Def +8, Melee Def +8, WIS +11, END +10, INT +3, DEX +3, STR +3, Bonus +7, Health -3, Immobility +5, Darkness +11, Evil +11|
+
+Page: 29, Row: 15
+Frost Moglin Defender Tail (Level: 20): Back|WIS +3, CHA +2, LUK +2, Bonus +1, Evil +1|
+Frost Moglin Defender Tail (Level: 30): Back|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +4, END +2, CHA +2, LUK +2, Bonus +2, Evil +2|
+Frost Moglin Defender Tail (Level: 40): Back|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +4, END +2, CHA +3, LUK +3, INT +1, DEX +1, STR +1, Bonus +4, Darkness +2, Evil +3|
+Frost Moglin Defender Tail (Level: 50): Back|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +3, CHA +4, LUK +4, INT +2, DEX +2, STR +2, Bonus +5, Darkness +3, Evil +4|
+Frost Moglin Defender Tail (Level: 60): Back|Crit +3, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +6, END +4, CHA +5, LUK +5, INT +4, DEX +4, STR +4, Bonus +6, Darkness +4, Evil +5|
+Frost Moglin Defender Tail (Level: 70): Back|Dodge +1, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +7, END +5, CHA +6, LUK +6, INT +5, DEX +5, STR +5, Bonus +8, Immobility +1, Darkness +5, Evil +6|
+Frost Moglin Defender Tail (Level: 75): Back|Block +1, Dodge +1, Parry +1, Crit +6, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +9, END +7, CHA +7, LUK +7, INT +6, DEX +6, STR +6, Bonus +9, Immobility +3, Darkness +6, Evil +6|
+Frost Moglin Defender Tail (Level: 80): Back|Block +1, Dodge +1, Parry +1, Crit +7, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +10, END +7, CHA +7, LUK +7, INT +6, DEX +6, STR +6, Bonus +9, Immobility +4, Darkness +7, Evil +7|
+
+Page: 29, Row: 16
+Frost Moglin Knight's Cloak I (Level: 15): Back|Block +2, Dodge +2, Parry +2, Crit +1, CHA +1, LUK +1, INT +1, DEX +1, STR +1, Bonus +1, Poison +5, Metal +5|
+Frost Moglin Knight's Cloak II (Level: 25): Back|Block +2, Dodge +2, Parry +2, Crit +2, CHA +2, LUK +2, INT +2, DEX +2, STR +2, Bonus +2, Poison +6, Metal +6|
+Frost Moglin Knight's Cloak III (Level: 35): Back|Block +3, Dodge +3, Parry +3, Crit +3, CHA +3, LUK +3, INT +3, DEX +3, STR +3, Bonus +3, Poison +7, Metal +7|
+Frost Moglin Knight's Cloak IV (Level: 45): Back|Block +4, Dodge +4, Parry +4, Crit +4, CHA +4, LUK +4, INT +4, DEX +4, STR +4, Bonus +4, Health -1, Immobility +2, Poison +8, Metal +8|
+Frost Moglin Knight's Cloak V (Level: 55): Back|Block +5, Dodge +5, Parry +5, Crit +5, CHA +5, LUK +5, INT +5, DEX +5, STR +5, Bonus +5, Health -2, Immobility +3, Poison +9, Metal +9|
+Frost Moglin Knight's Cloak VI (Level: 65): Back|Block +6, Dodge +6, Parry +6, Crit +6, CHA +6, LUK +6, INT +6, DEX +6, STR +6, Bonus +6, Health -3, Immobility +4, Poison +10, Metal +10|
+Frost Moglin Knight's Cloak VII (Level: 75): Back|Block +7, Dodge +7, Parry +7, Crit +7, CHA +7, LUK +7, INT +7, DEX +7, STR +7, Bonus +7, Health -4, Immobility +5, Poison +10, Metal +10|
+Frost Moglin Knight's Cloak VIII (Level: 85): Back|Block +8, Dodge +8, Parry +8, Crit +9, CHA +8, LUK +8, INT +8, DEX +8, STR +8, Bonus +9, Health -5, Immobility +5, Poison +10, Metal +10|
+
+Page: 29, Row: 17
+Frost Moglin Knight's Helm I (Level: 15): Head|CHA +1, LUK +1, INT +1, DEX +1, STR +1, Health -5, Darkness +5, Light +5|
+Frost Moglin Knight's Helm II (Level: 25): Head|CHA +1, LUK +1, INT +2, DEX +2, STR +2, Health -6, Darkness +6, Light +6|
+Frost Moglin Knight's Helm III (Level: 35): Head|CHA +3, LUK +3, INT +4, DEX +4, STR +4, Health -7, Darkness +7, Light +7|
+Frost Moglin Knight's Helm IV (Level: 45): Head|Crit +1, CHA +3, LUK +3, INT +5, DEX +5, STR +5, Bonus +1, Health -8, Darkness +8, Light +8|
+Frost Moglin Knight's Helm V (Level: 55): Head|Block +3, Dodge +3, Parry +3, Crit +2, CHA +4, LUK +4, INT +8, DEX +8, STR +8, Bonus +2, Health -9, Darkness +9, Light +9|
+Frost Moglin Knight's Helm VI (Level: 65): Head|Crit +3, CHA +6, LUK +6, INT +10, DEX +10, STR +10, Bonus +3, Health -10, Darkness +10, Light +10|
+Frost Moglin Knight's Helm VII (Level: 75): Head|Crit +4, CHA +8, LUK +8, INT +12, DEX +12, STR +12, Bonus +4, Fire +5, Health -10, Darkness +10, Light +10|
+Frost Moglin Knight's Helm VIII (Level: 85): Head|Crit +5, CHA +10, LUK +10, INT +14, DEX +14, STR +14, Bonus +5, Fire +6, Health -10, Darkness +10, Light +10|
+
+Page: 29, Row: 18
+Frost Moglin Slayer Helm (Level: 25): Head|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +2, END +2, CHA +1, INT +1, DEX +1, STR +1, Bonus +4, Good +5, Light +5|
+Frost Moglin Slayer Helm (Level: 35): Head|Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, END +4, CHA +3, INT +2, DEX +2, STR +2, Bonus +5, Good +6, Light +6|
+Frost Moglin Slayer Helm (Level: 45): Head|Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +5, CHA +4, INT +3, DEX +3, STR +3, Bonus +5, Good +7, Light +7|
+Frost Moglin Slayer Helm (Level: 55): Head|Crit +7, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +6, END +6, CHA +5, INT +4, DEX +4, STR +4, Bonus +6, Good +8, Light +8|
+Frost Moglin Slayer Helm (Level: 65): Head|Dodge +1, Parry +1, Crit +8, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +7, CHA +6, INT +5, DEX +5, STR +5, Bonus +7, Immobility +1, Silver +3, Good +10, Light +10|
+Frost Moglin Slayer Helm (Level: 75): Head|Dodge +1, Parry +1, Crit +9, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +10, END +10, CHA +8, INT +6, DEX +6, STR +6, Bonus +7, Health -2, Immobility +5, Silver +5, Good +12, Light +12|
+Frost Moglin Slayer Helm (Level: 80): Head|Dodge +1, Parry +2, Crit +10, Magic Def +10, Pierce Def +10, Melee Def +10, WIS +10, END +10, CHA +8, INT +6, DEX +6, STR +6, Bonus +8, Health -3, Immobility +6, Silver +8, Good +12, Light +12|
+
+Page: 29, Row: 19
+HTTP Error 504: Gateway Timeout
+Frost Moglin Slayer Tail (Level: 20): Back|Dodge +1, Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +4, END +3, LUK +4, Bonus +1, Immobility +1, Light +3|
+Frost Moglin Slayer Tail (Level: 30): Back|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +4, LUK +5, Bonus +2, Immobility +1, Light +4|
+Frost Moglin Slayer Tail (Level: 40): Back|Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +6, END +5, CHA +1, LUK +6, INT +1, DEX +1, STR +1, Bonus +4, Immobility +2, Light +5|
+Frost Moglin Slayer Tail (Level: 50): Back|Dodge +1, Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +7, END +6, CHA +2, LUK +7, INT +2, DEX +2, STR +2, Bonus +5, Immobility +2, Light +6|
+Frost Moglin Slayer Tail (Level: 60): Back|Dodge +1, Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +8, END +7, CHA +3, LUK +8, INT +4, DEX +4, STR +4, Bonus +6, Immobility +3, Light +7|
+Frost Moglin Slayer Tail (Level: 70): Back|Dodge +1, Crit +7, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +9, END +8, CHA +4, LUK +9, INT +5, DEX +5, STR +5, Bonus +7, All +1, Immobility +3, Light +7|
+Frost Moglin Slayer Tail (Level: 75): Back|Block +1, Dodge +1, Parry +1, Crit +8, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +10, END +9, CHA +5, LUK +10, INT +6, DEX +6, STR +6, Bonus +9, All +2, Immobility +4, Light +9|
+Frost Moglin Slayer Tail (Level: 80): Back|Block +1, Dodge +1, Parry +1, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +11, END +10, CHA +5, LUK +11, INT +6, DEX +6, STR +6, Bonus +9, All +3, Immobility +4, Light +10|
+
+Page: 29, Row: 20
+Frost Pumpkin Head I (Level: 25): Head|Crit +3, Magic Def +3, Pierce Def +2, Melee Def +2, WIS +2, END +2, CHA +3, Bonus +2, Nature +3, Light +3|
+Frost Pumpkin Head II (Level: 45): Head|Crit +5, Magic Def +5, Pierce Def +4, Melee Def +4, WIS +5, END +5, CHA +6, Bonus +4, Nature +6, Light +6|
+Frost Pumpkin Head III (Level: 65): Head|Dodge +1, Parry +1, Crit +7, Magic Def +7, Pierce Def +6, Melee Def +6, WIS +7, END +7, CHA +8, Bonus +6, Immobility +1, Ice +3, Nature +10, Light +10|
+Frost Pumpkin Head IV (Level: 75): Head|Dodge +1, Parry +1, Crit +9, Magic Def +9, Pierce Def +8, Melee Def +8, WIS +10, END +10, CHA +11, Bonus +7, Health -2, Immobility +5, Ice +5, Nature +12, Light +12|
+Frost Pumpkin Head V (Level: 80): Head|Dodge +1, Parry +2, Crit +10, Magic Def +10, Pierce Def +8, Melee Def +8, WIS +10, END +10, CHA +11, Bonus +7, Health -3, Immobility +6, Ice +8, Nature +12, Light +12|
+
+Page: 29, Row: 21
+Frost Queen Mask (Level: 1): Head|None|
+Frost Queen Mask (Level: 20): Head|Crit +4, WIS +3, END +3, CHA +5, INT +3, DEX +3, STR +3, Bonus +4, Immobility +2, Fire +3, Ice +3|
+Frost Queen Mask (Level: 40): Head|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +5, CHA +7, INT +4, DEX +4, STR +4, Bonus +5, Immobility +2, Fire +4, Ice +4|
+Frost Queen Mask (Level: 60): Head|Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +7, END +7, CHA +9, INT +5, DEX +5, STR +5, Bonus +7, Immobility +4, Fire +6, Ice +6|
+Frost Queen Mask (Level: 70): Head|Crit +8, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +8, END +8, CHA +12, INT +7, DEX +7, STR +7, Bonus +8, Immobility +5, Fire +8, Ice +8|
+Frost Queen Mask (Level: 80): Head|Crit +10, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +6, END +6, CHA +14, INT +11, DEX +11, STR +11, Bonus +10, Immobility +7, Health -4, Fire +10, Ice +10, Light +9|
+
+Page: 29, Row: 22
+Frost Vine Wings I (Level: 15): Back|END +3, CHA +3, LUK +3, INT +1, DEX +1, STR +1, Bonus +2, Ice +1, Wind +1|
+Frost Vine Wings II (Level: 30): Back|Magic Def +1, Pierce Def +1, Melee Def +1, END +4, CHA +4, LUK +4, INT +2, DEX +2, STR +2, Bonus +2, Ice +3, Wind +3|
+Frost Vine Wings III (Level: 45): Back|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, END +5, CHA +5, LUK +5, INT +3, DEX +3, STR +3, Bonus +4, Ice +5, Wind +5|
+Frost Vine Wings IV (Level: 60): Back|Dodge +1, Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, END +7, CHA +7, LUK +7, INT +5, DEX +5, STR +5, Bonus +6, Ice +7, Wind +7|
+Frost Vine Wings V (Level: 75): Back|Dodge +2, Crit +6, Magic Def +8, Pierce Def +8, Melee Def +8, END +9, CHA +9, LUK +9, INT +7, DEX +7, STR +7, Bonus +8, Health -2, Immobility +4, Ice +9, Wind +9|
+Frost Vine Wings VI (Level: 80): Back|Block +1, Dodge +2, Crit +7, Magic Def +8, Pierce Def +8, Melee Def +8, END +10, CHA +9, LUK +9, INT +9, DEX +9, STR +9, Bonus +9, Health -3, Immobility +4, Ice +10, Wind +10|
+
+Page: 29, Row: 23
+Frostenstein Eye (Level: 17): Neck|Magic Def +2, END +1, INT +2, STR +2, Bonus +2, Ice +2|
+
+Page: 29, Row: 24
+Frostgoblin Helm (Level: 25): Head|WIS +2, END +2, INT +4, DEX +4, STR +4, Fire +5, Ice +5, Water +5|
+
+Page: 29, Row: 25
+Frostsilver Ring (Level: 1): Finger|Melee Def +5, Ice +5|
+
+Page: 29, Row: 26
+Frostval Ruby Helm I (Level: 0): Head|CHA +1, LUK +1, Bonus +1, Ice +1, Fire +1|
+Frostval Ruby Helm II (Level: 10): Head|Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, CHA +1, LUK +1, Bonus +1, Ice +1, Fire +1|
+Frostval Ruby Helm III (Level: 30): Head|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +1, CHA +2, LUK +2, INT +2, DEX +2, STR +2, Bonus +3, Ice +3, Fire +3|
+Frostval Ruby Helm IV (Level: 50): Head|Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, END +3, CHA +4, LUK +4, INT +3, DEX +3, STR +3, Bonus +6, Water +3, Ice +6, Fire +6|
+Frostval Ruby Helm V (Level: 70): Head|Crit +7, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +5, END +4, CHA +6, LUK +6, INT +5, DEX +5, STR +5, Bonus +8, Poison +3, Water +5, Ice +8, Fire +8|
+Frostval Ruby Helm VI (Level: 75): Head|Dodge +2, Parry +1, Crit +7, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +5, END +5, CHA +6, LUK +6, INT +7, DEX +7, STR +7, Bonus +8, Immobility +4, Poison +6, Water +10, Ice +10, Fire +10|
+Frostval Ruby Helm VII (Level: 80): Head|Dodge +2, Parry +2, Crit +8, Magic Def +10, Pierce Def +10, Melee Def +10, WIS +6, END +6, CHA +6, LUK +6, INT +9, DEX +9, STR +9, Bonus +9, Immobility +5, Poison +8, Water +10, Ice +10, Fire +12|
+
+Page: 29, Row: 27
+Frostval Top Hat (Level: 6): Head|Block +1, Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, END +3, INT +1, STR +1, Bonus +4, Ice +3|
+
+Page: 29, Row: 28
+Frostval Wish Cape I (Level: 11): Back|END +1, Bonus +1, Ice +1|
+Frostval Wish Cape II (Level: 21): Back|END +2, CHA +2, LUK +2, Bonus +1, Ice +1|
+Frostval Wish Cape III (Level: 31): Back|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +3, END +3, CHA +2, LUK +2, Bonus +2, Ice +2|
+Frostval Wish Cape IV (Level: 41): Back|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +3, END +3, CHA +3, LUK +3, INT +1, DEX +1, STR +1, Bonus +4, Fire +2, Ice +3|
+Frostval Wish Cape V (Level: 51): Back|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +4, END +4, CHA +4, LUK +4, INT +2, DEX +2, STR +2, Bonus +5, Fire +3, Ice +4|
+Frostval Wish Cape VI (Level: 61): Back|Crit +3, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +5, END +5, CHA +5, LUK +5, INT +4, DEX +4, STR +4, Bonus +6, Fire +4, Ice +5|
+Frostval Wish Cape VII (Level: 71): Back|Dodge +1, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +6, END +6, CHA +6, LUK +6, INT +5, DEX +5, STR +5, Bonus +8, Immobility +1, Water +4, Fire +5, Ice +6|
+Frostval Wish Cape VIII (Level: 73): Back|Block +1, Dodge +1, Crit +5, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +7, END +7, CHA +7, LUK +7, INT +6, DEX +6, STR +6, Bonus +8, Immobility +2, Light +2, Water +5, Fire +5, Ice +6|
+Frostval Wish Cape IX (Level: 76): Back|Block +1, Dodge +1, Parry +1, Crit +6, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +8, END +8, CHA +7, LUK +7, INT +6, DEX +6, STR +6, Bonus +9, Immobility +3, Light +4, Water +6, Fire +6, Ice +7|
+Frostval Wish Cape X (Level: 80): Back|Block +1, Dodge +1, Parry +1, Crit +7, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +9, END +9, CHA +7, LUK +7, INT +6, DEX +6, STR +6, Bonus +9, Immobility +4, Light +6, Water +8, Fire +8, Ice +8|
+
+Page: 29, Row: 29
+Frostval Wish Helm I (Level: 1): Head|CHA +1, LUK +1, Bonus +1, Ice +1, Light +1|
+Frostval Wish Helm II (Level: 10): Head|Magic Def +1, Pierce Def +1, Melee Def +1, WIS +1, CHA +1, LUK +1, Bonus +1, Ice +1, Light +1|
+Frostval Wish Helm III (Level: 30): Head|Crit +1, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +1, CHA +2, LUK +2, INT +2, DEX +2, STR +2, Bonus +4, Ice +3, Light +3|
+Frostval Wish Helm IV (Level: 50): Head|Crit +4, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, END +3, CHA +4, LUK +4, INT +3, DEX +3, STR +3, Bonus +7, Water +3, Ice +6, Light +6|
+Frostval Wish Helm V (Level: 70): Head|Crit +6, Magic Def +6, Pierce Def +6, Melee Def +6, WIS +5, END +4, CHA +6, LUK +6, INT +5, DEX +5, STR +5, Bonus +9, Poison +3, Water +5, Ice +8, Light +8|
+Frostval Wish Helm VI (Level: 75): Head|Dodge +2, Parry +1, Crit +6, Magic Def +9, Pierce Def +9, Melee Def +9, WIS +5, END +5, CHA +6, LUK +6, INT +7, DEX +7, STR +7, Bonus +9, Immobility +4, Poison +6, Water +10, Light +10, Ice +10|
+Frostval Wish Helm VII (Level: 80): Head|Dodge +2, Parry +2, Crit +7, Magic Def +10, Pierce Def +10, Melee Def +10, WIS +6, END +6, CHA +6, LUK +6, INT +9, DEX +9, STR +9, Bonus +10, Immobility +5, Poison +8, Water +10, Light +10, Ice +12|
+
+Page: 29, Row: 30
+Frostvale Cloak (Level: 1): Back|Ice +5|
+
+Page: 30, Row: 1
+Frostvale Dragon Cloak (Level: 1): Back|Crit +1, Ice +5|
+
+Page: 30, Row: 2
+Frosty Belt (Level: 5): Waist|Crit +1, Magic Def +1, WIS +1, INT +1, Ice +3|
+
+Page: 30, Row: 3
+Frosty Cobalt Dragon Helm (Level: 33): Head|Crit +2, Magic Def +3, Pierce Def +3, Melee Def +3, CHA +4, LUK +2, INT +3, DEX +3, STR +3, Bonus +3, Fire +4, Light +3|
+
+Page: 30, Row: 4
+Frosty Dragon Hat (Level: 5): Head|Melee Def +1, END +1, INT +1, Ice +1|
+
+Page: 30, Row: 5
+Frosty Ring (Level: 4): Finger|Melee Def +5, Ice +5|
+
+Page: 30, Row: 6
+Frozen Belt (Level: 62): Waist|Block +7, Dodge +7, Parry +7, Crit +6, END +4, CHA +4, LUK +4, INT +2, DEX +2, STR +2, Stone +3, Fire +3, Water +4, Ice +4|
+
+Page: 30, Row: 7
+Frozen Cobalt Dragon Helm (Level: 13): Head|Magic Def +2, Pierce Def +2, Melee Def +2, CHA +2, INT +1, DEX +1, STR +1, Bonus +3, Fire +3|
+
+Page: 30, Row: 8
+Frozen Tear (Level: 46): Finger|Crit +2, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, END +2, CHA +2, LUK +2, INT +3, DEX +3, STR +3, Bonus +3, Silver +2, Ice +6, Light +6|
+
+Page: 30, Row: 9
+Fry's Coffee (Level: 15): Trinket|Crit +2, Bonus +2|
+
+Page: 30, Row: 10
+Frydae Mask (Level: 1): Head|None|
+Frydae Mask (Level: 20): Head|Crit +4, WIS +3, END +3, CHA +5, INT +3, DEX +3, STR +3, Bonus +4, Immobility +4, Darkness +3, Fire +3|
+Frydae Mask (Level: 40): Head|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +5, END +5, CHA +7, INT +4, DEX +4, STR +4, Bonus +5, Immobility +6, Darkness +4, Fire +4|
+Frydae Mask (Level: 60): Head|Block +1, Dodge +1, Parry +1, Crit +7, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +7, END +7, CHA +9, INT +5, DEX +5, STR +5, Bonus +7, Immobility +8, Darkness +6, Fire +6|
+Frydae Mask (Level: 70): Head|Block +2, Dodge +2, Parry +2, Crit +8, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +8, END +8, CHA +12, INT +7, DEX +7, STR +7, Bonus +8, Immobility +10, Darkness +8, Fire +8|
+Frydae Mask (Level: 80): Head|Crit +10, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +6, END +6, CHA +14, INT +11, DEX +11, STR +11, Bonus +10, Health -1, Immobility +12, Light +9, Darkness +10, Fire +10|
+
+Page: 30, Row: 11
+Fuchsia Poncho (Level: 60): Back|Dodge +1, Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, END +7, CHA +7, LUK +7, INT +5, DEX +5, STR +5, Bonus +6, Metal +7, Wind +7|
+
+Page: 30, Row: 12
+Fulsome Foie Gras (Level: 60): Neck|Crit +5, Magic Def +3, Pierce Def +3, Melee Def +3, WIS -1, END +8, INT +5, DEX +5, STR +5, Bonus +2, Bacon +4, Nature +7, Fire +7|
+
+Page: 30, Row: 13
+Fungus Laced Belt (Level: 42): Waist|Block +4, Dodge +4, Parry +4, Crit +5, WIS +2, END +2, CHA +2, LUK +2, INT +2, DEX +2, STR +2, Stone +2, Fire +2, Poison +2, Silver +2|
+
+Page: 30, Row: 14
+Fur Coat (Level: 20): Back|Dodge +1, Crit +2, Magic Def +1, Pierce Def +1, Melee Def +1, END +2, CHA +2, Bonus +2, Ice +2, Fire +2|
+Fur Coat (Level: 30): Back|Dodge +1, Crit +3, Magic Def +2, Pierce Def +1, Melee Def +2, END +3, CHA +3, Bonus +2, Ice +3, Fire +3|
+Fur Coat (Level: 40): Back|Dodge +1, Crit +3, Magic Def +2, Pierce Def +2, Melee Def +2, END +3, CHA +3, INT +1, DEX +1, STR +1, Bonus +3, Ice +3, Fire +3|
+Fur Coat (Level: 50): Back|Dodge +1, Crit +4, Magic Def +3, Pierce Def +2, Melee Def +2, END +4, CHA +4, INT +1, DEX +1, STR +1, Bonus +3, Ice +4, Fire +4|
+Fur Coat (Level: 60): Back|Dodge +1, Crit +4, Magic Def +3, Pierce Def +3, Melee Def +3, END +4, CHA +4, INT +2, DEX +2, STR +2, Bonus +4, Ice +4, Fire +4|
+Fur Coat (Level: 70): Back|Block +1, Dodge +1, Parry +1, Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, END +5, CHA +5, INT +2, DEX +2, STR +2, Bonus +4, Ice +5, Fire +5|
+Fur Coat (Level: 80): Back|Block +1, Dodge +1, Parry +1, Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, END +6, CHA +6, LUK +2, INT +3, DEX +3, STR +3, Bonus +5, Ice +6, Fire +6|
+
+Page: 30, Row: 15
+Fwendship Necklace (Level: 16): Neck|WIS +2, END +2, CHA +2, Bonus +1, Darkness +2, Ice +2|
+
+Page: 30, Row: 16
+Fynbo Ring (Level: 28): Finger|Block +1, Parry +1, Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +4, END +4, CHA +2, LUK +4, Bonus +2, Fire +4, Poison +5|
+
+Page: 30, Row: 17
+HTTP Error 504: Gateway Timeout
+Gaelan Mask (Level: 1): Head|None|
+
+Page: 30, Row: 18
+HTTP Error 504: Gateway Timeout
+Gala Jaania Mask (Level: 1): Head|None|
+
+Page: 30, Row: 19
+Galanoth Mask (Level: 1): Head|None|
+Galanoth Mask (Level: 20): Head|Crit +2, WIS +2, CHA +2, LUK +4, INT +2, DEX +2, STR +2, Bonus +2, All +2|
+Galanoth Mask (Level: 40): Head|Crit +4, WIS +5, CHA +5, LUK +6, INT +3, DEX +3, STR +3, Bonus +4, All +3|
+Galanoth Mask (Level: 60): Head|Crit +6, WIS +7, CHA +7, LUK +9, INT +5, DEX +5, STR +5, Bonus +6, All +5|
+Galanoth Mask (Level: 80): Head|Crit +8, WIS +10, CHA +12, LUK +12, INT +10, DEX +10, STR +10, Bonus +8, All +8|
+
+Page: 30, Row: 20
+Galaxy Cloak (Level: 10): Back|WIS +1, END +1, Bonus +1, Water +3, Darkness +1|
+Galaxy Cloak II (Level: 30): Back|WIS +3, END +3, INT +1, DEX +1, STR +1, Bonus +3, Water +4, Darkness +3|
+Galaxy Cloak III (Level: 50): Back|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +5, END +5, INT +2, DEX +2, STR +2, Bonus +5, Water +6, Darkness +4|
+Galaxy Cloak IV (Level: 70): Back|Dodge +1, Crit +5, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +8, END +8, INT +5, DEX +5, STR +5, Bonus +8, Water +10, Darkness +9|
+
+Page: 30, Row: 21
+Galaxy Cowl (Level: 10): Head|Crit +1, Magic Def +1, Melee Def +1, Pierce Def +1, Bonus +1, Ice +1, Water +1|
+Galaxy Cowl II (Level: 30): Head|Crit +2, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +1, END +1, DEX +2, INT +2, STR +2, Bonus +2, Ice +2, Water +3|
+Galaxy Cowl III (Level: 50): Head|Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +3, END +1, DEX +3, INT +3, STR +3, Bonus +5, Immobility +1, Ice +4, Water +5|
+Galaxy Cowl IV (Level: 70): Head|Dodge +1, Crit +7, Magic Def +8, Pierce Def +8, Melee Def +8, WIS +5, END +3, DEX +6, INT +6, STR +6, Bonus +7, Immobility +3, Fire +3, Ice +7, Water +8|
+
+Page: 30, Row: 22
+Gambler Wings (Level: 22): Back|Dodge +1, Magic Def +3, Pierce Def +3, Melee Def +3, END +1, CHA +2, LUK +2, Bonus +1, All +1, Wind +4|
+
+Page: 30, Row: 23
+Gargoyle Mask (Level: 1): Head|None|
+Gargoyle Helm (Level: 7): Head|Crit +1, Magic Def +2, Pierce Def +2, Melee Def +2, Stone +3|
+Gargoyle Mask (Level: 20): Head|Dodge +1, Crit +4, CHA +3, INT +3, DEX +3, STR +3, Bonus +4, Darkness +3, Light +3, Ice +3, Fire +3|
+
+Page: 30, Row: 24
+Gargoyle Stoneskin Ring (Level: 2): Finger|Melee Def +2, DEX +1|
+
+Page: 30, Row: 25
+Garnet Cowl (Level: 23): Head|Dodge +1, Crit +2, Magic Def +2, Melee Def +3, END +3, Bonus +1, Immobility +1, Fire +2, Ice +1|
+
+Page: 30, Row: 26
+Gas-e Tank Mark I (Level: 10): Back|END +2, CHA +1, LUK +1, Bonus +1, Fire +1|
+Gas-e Tank Mark II (Level: 20): Back|END +3, CHA +2, LUK +2, Bonus +1, Fire +1|
+Gas-e Tank Mark III (Level: 30): Back|Crit +1, Magic Def +1, Pierce Def +1, Melee Def +1, WIS +2, END +4, CHA +2, LUK +2, Bonus +2, Fire +2|
+Gas-e Tank Mark IV (Level: 40): Back|Crit +2, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +2, END +4, CHA +3, LUK +3, INT +1, DEX +1, STR +1, Bonus +4, Darkness +2, Fire +3|
+Gas-e Tank Mark V (Level: 50): Back|Crit +3, Magic Def +3, Pierce Def +3, Melee Def +3, WIS +3, END +5, CHA +4, LUK +4, INT +2, DEX +2, STR +2, Bonus +5, Darkness +3, Fire +4|
+Gas-e Tank Mark VI (Level: 60): Back|Crit +3, Magic Def +4, Pierce Def +4, Melee Def +4, WIS +4, END +6, CHA +5, LUK +5, INT +4, DEX +4, STR +4, Bonus +6, Darkness +4, Fire +5|
+Gas-e Tank Mark VII (Level: 70): Back|Dodge +1, Crit +5, Magic Def +5, Pierce Def +5, Melee Def +5, WIS +5, END +7, CHA +6, LUK +6, INT +5, DEX +5, STR +5, Bonus +8, Immobility +1, Darkness +5, Fire +6|
+Gas-e Tank Mark VIII (Level: 75): Back|Block +1, Dodge +1, Parry +1, Crit +6, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +9, CHA +7, LUK +7, INT +6, DEX +6, STR +6, Bonus +9, Immobility +3, Darkness +6, Fire +7|
+Gas-e Tank Mark IX (Level: 80): Back|Block +1, Dodge +1, Parry +1, Crit +7, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +7, END +10, CHA +7, LUK +7, INT +6, DEX +6, STR +6, Bonus +9, Immobility +4, Darkness +8, Fire +8|
+Gas-e Tank Mark X (Level: 90): Back|Block +1, Dodge +1, Parry +1, Crit +9, Magic Def +7, Pierce Def +7, Melee Def +7, WIS +9, END +10, CHA +9, LUK +9, INT +8, DEX +8, STR +8, Bonus +9, Immobility +4, Darkness +8, Fire +8|
+
+Page: 30, Row: 27
+Gasket Band (Level: 55): Finger|Block +1, Crit +6, Magic Def +5, Pierce Def +5, Melee Def +5, END +8, LUK +3, INT +6, DEX +6, STR +6, Bonus +5, Metal +4, Water +8, Energy +8|
+
+Page: 30, Row: 28
+Gaudy Ring (Level: 18): Finger|Pierce Def +2, END +2, CHA +2|
+
+Page: 30, Row: 29
+HTTP Error 504: Gateway Timeout
+Gean Canach I (Level: 40): Back|Crit +8, WIS +8, END +4, CHA +2, LUK +2, INT +6, DEX +6, STR +6, Bonus +3, Ice +1, Water +4|
+Gean Canach II (Level: 50): Back|Crit +9, WIS +9, END +5, CHA +3, LUK +3, INT +7, DEX +7, STR +7, Bonus +4, Ice +2, Water +5|
+Gean Canach III (Level: 60): Back|Crit +10, WIS +10, END +6, CHA +4, LUK +4, INT +8, DEX +8, STR +8, Bonus +5, Ice +3, Water +6|
+Gean Canach IV (Level: 70): Back|Crit +11, WIS +11, END +7, CHA +5, LUK +5, INT +9, DEX +9, STR +9, Bonus +6, Ice +4, Water +7|
+
+Page: 30, Row: 30
+Gear Chain (Level: 49): Neck|Block +1, Dodge +1, Crit +5, Magic Def +2, Pierce Def +2, Melee Def +2, WIS +4, END +4, INT +3, DEX +3, STR +3, Bonus +3, Metal +5, Energy +8, Fire +6|

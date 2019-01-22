@@ -9,6 +9,10 @@ python AccessoryScraperBy.py 1 3 80
 ```
 Starts on page 1, skips first 3 rows (which are pinned), finish on page 81 (80+1)
 
+###Install BeautifulSoup
+```commandline
+python -m pip install BeautifulSoup
+```
 
 
 ####To get all the items faster, you can run simultaneous processes.
