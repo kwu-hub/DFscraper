@@ -30,3 +30,7 @@ python JSONjoin.py Weapoons
 
 ####What I did with the data
 Use power query in Excel to convert the json to sheets which are uploaded to google sheets
+
+
+
+Started implementing sellback scraper to find typos in weapon sellback ("DC" instead of "DragonCoins", "within" instead of "before")
