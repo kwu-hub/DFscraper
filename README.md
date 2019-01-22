@@ -25,7 +25,7 @@ WeaponsBy.py and AccessoryBy.py contain helper functions.
 ####After getting multiple json files from running simultaneous processes, use JSONjoin.py to merge them all into 1 file
 The argument it takes in is the directory that all the JSON files are stored.
 ```commandline
-python JSONjoin.py Weapoons
+python JSONjoin.py Weapons
 ```
 
 ####What I did with the data
