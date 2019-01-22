@@ -371,11 +371,6 @@ def save_item(msg, data, hyperlink, page, row):
     '''
     if hyperlink == "http://forums2.battleon.com/f/fb.asp?m=5042008":
         name = "Spear Tip"
-    '''
-    Technomancer Dagger Level 60 typo
-    '''
-    if hyperlink == "http://forums2.battleon.com/f/fb.asp?m=21817569":
-        level = '60'
 
     damage_low = damage.split("-")[0]
     damage_high = damage.split("-")[1]
